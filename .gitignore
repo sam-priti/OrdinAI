@@ -1,0 +1,21 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Data and large files
+data/raw_pdfs/
+data/index/
+data/embeddings/
+*.sqlite
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor files
+.vscode/
+.DS_Store
+
+# Secrets
+.env

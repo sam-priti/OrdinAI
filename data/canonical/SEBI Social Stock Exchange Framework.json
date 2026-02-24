@@ -1,0 +1,540 @@
+{
+  "doc_id": "SEBI Social Stock Exchange Framework",
+  "file_name": "SEBI Social Stock Exchange Framework.pdf",
+  "source_url": "",
+  "doc_type": "regulatory_circular",
+  "publish_date": "",
+  "jurisdiction": "India",
+  "issuer": "SEBI",
+  "text_path": "data/text/SEBI Social Stock Exchange Framework.txt",
+  "tables": [
+    "data/tables/SEBI Social Stock Exchange Framework_table_0.csv"
+  ],
+  "entities": [
+    {
+      "type": "DATE",
+      "text": "September 19, 2025 \n\n",
+      "start": 50,
+      "end": 71
+    },
+    {
+      "type": "ORG",
+      "text": "All Recognized Stock Exchanges",
+      "start": 76,
+      "end": 106
+    },
+    {
+      "type": "ORG",
+      "text": "Social Stock Exchange",
+      "start": 382,
+      "end": 403
+    },
+    {
+      "type": "ORG",
+      "text": "SSE",
+      "start": 406,
+      "end": 409
+    },
+    {
+      "type": "DATE",
+      "text": "September 19, \n\n2022",
+      "start": 480,
+      "end": 500
+    },
+    {
+      "type": "DATE",
+      "text": "December 28, 2023",
+      "start": 573,
+      "end": 590
+    },
+    {
+      "type": "ORG",
+      "text": "Social Stock Exchange",
+      "start": 630,
+      "end": 651
+    },
+    {
+      "type": "ORG",
+      "text": "Social  Stock  Exchange  Advisory  Committee",
+      "start": 696,
+      "end": 740
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 853,
+      "end": 858
+    },
+    {
+      "type": "ORG",
+      "text": "the Securities \n\nand  Exchange  Board",
+      "start": 882,
+      "end": 919
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 925,
+      "end": 930
+    },
+    {
+      "type": "ORG",
+      "text": "Disclosure  Requirements",
+      "start": 958,
+      "end": 982
+    },
+    {
+      "type": "DATE",
+      "text": "2018",
+      "start": 999,
+      "end": 1003
+    },
+    {
+      "type": "ORG",
+      "text": "the Securities and Exchange Board of \n\nIndia (Listing Obligations",
+      "start": 1027,
+      "end": 1092
+    },
+    {
+      "type": "DATE",
+      "text": "2015",
+      "start": 1135,
+      "end": 1139
+    },
+    {
+      "type": "ORG",
+      "text": "ICDR",
+      "start": 1204,
+      "end": 1208
+    },
+    {
+      "type": "PERSON",
+      "text": "Gazette Notification",
+      "start": 1289,
+      "end": 1309
+    },
+    {
+      "type": "DATE",
+      "text": "September 09, 2025 \n\n",
+      "start": 1316,
+      "end": 1337
+    },
+    {
+      "type": "DATE",
+      "text": "September 08, 2025",
+      "start": 1341,
+      "end": 1359
+    },
+    {
+      "type": "ORG",
+      "text": "ICDR",
+      "start": 1418,
+      "end": 1422
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 1500,
+      "end": 1504
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 1753,
+      "end": 1757
+    },
+    {
+      "type": "DATE",
+      "text": "September 19, 2022",
+      "start": 1981,
+      "end": 1999
+    },
+    {
+      "type": "ORG",
+      "text": "ICDR Regulations",
+      "start": 2030,
+      "end": 2046
+    },
+    {
+      "type": "ORG",
+      "text": "Profit Organization",
+      "start": 2222,
+      "end": 2241
+    },
+    {
+      "type": "ORG",
+      "text": "SSE",
+      "start": 2272,
+      "end": 2275
+    },
+    {
+      "type": "ORG",
+      "text": "NPO",
+      "start": 2436,
+      "end": 2439
+    },
+    {
+      "type": "DATE",
+      "text": "next 12 \nmonths  at",
+      "start": 2497,
+      "end": 2516
+    },
+    {
+      "type": "ORG",
+      "text": "SSE",
+      "start": 2561,
+      "end": 2564
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 2603,
+      "end": 2608
+    },
+    {
+      "type": "DATE",
+      "text": "1882",
+      "start": 2696,
+      "end": 2700
+    },
+    {
+      "type": "ORG",
+      "text": "Trust",
+      "start": 2800,
+      "end": 2805
+    },
+    {
+      "type": "DATE",
+      "text": "1908",
+      "start": 2856,
+      "end": 2860
+    },
+    {
+      "type": "DATE",
+      "text": "1908",
+      "start": 2871,
+      "end": 2875
+    },
+    {
+      "type": "DATE",
+      "text": "1860",
+      "start": 3074,
+      "end": 3078
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 3264,
+      "end": 3268
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 3279,
+      "end": 3283
+    },
+    {
+      "type": "DATE",
+      "text": "1956",
+      "start": 3373,
+      "end": 3377
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 3492,
+      "end": 3498
+    },
+    {
+      "type": "ORG",
+      "text": "SSE",
+      "start": 3521,
+      "end": 3524
+    },
+    {
+      "type": "ORG",
+      "text": "SSE",
+      "start": 3566,
+      "end": 3569
+    },
+    {
+      "type": "ORG",
+      "text": "SSE",
+      "start": 3598,
+      "end": 3601
+    },
+    {
+      "type": "DATE",
+      "text": "60 days",
+      "start": 3781,
+      "end": 3788
+    },
+    {
+      "type": "ORG",
+      "text": "Vision / Mission / Purpose",
+      "start": 3983,
+      "end": 4009
+    },
+    {
+      "type": "PERSON",
+      "text": "Volunteer",
+      "start": 4131,
+      "end": 4140
+    },
+    {
+      "type": "PERSON",
+      "text": "b.  Disclosures",
+      "start": 4156,
+      "end": 4171
+    },
+    {
+      "type": "GPE",
+      "text": "Ownership",
+      "start": 4201,
+      "end": 4210
+    },
+    {
+      "type": "PERSON",
+      "text": "Governance  Structure",
+      "start": 4234,
+      "end": 4255
+    },
+    {
+      "type": "ORG",
+      "text": "Remuneration Policies",
+      "start": 4869,
+      "end": 4890
+    },
+    {
+      "type": "PERSON",
+      "text": "Stakeholder",
+      "start": 4899,
+      "end": 4910
+    },
+    {
+      "type": "ORG",
+      "text": "x.  Organisation",
+      "start": 5010,
+      "end": 5026
+    },
+    {
+      "type": "ORG",
+      "text": "FCRA",
+      "start": 5107,
+      "end": 5111
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 5208,
+      "end": 5214
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year",
+      "start": 5226,
+      "end": 5244
+    },
+    {
+      "type": "DATE",
+      "text": "October 31st of each year",
+      "start": 5248,
+      "end": 5273
+    },
+    {
+      "type": "ORG",
+      "text": "the Income \n\nTax Act",
+      "start": 5369,
+      "end": 5389
+    },
+    {
+      "type": "DATE",
+      "text": "1961",
+      "start": 5391,
+      "end": 5395
+    },
+    {
+      "type": "PERSON",
+      "text": "b.  Disclosures",
+      "start": 5827,
+      "end": 5842
+    },
+    {
+      "type": "PERSON",
+      "text": "c.  Disclosures on Financial",
+      "start": 6015,
+      "end": 6043
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 6181,
+      "end": 6189
+    },
+    {
+      "type": "ORG",
+      "text": "Annexure \n\nI. \n\n4",
+      "start": 6304,
+      "end": 6321
+    },
+    {
+      "type": "ORG",
+      "text": "SSE",
+      "start": 6324,
+      "end": 6327
+    },
+    {
+      "type": "ORG",
+      "text": "NPO",
+      "start": 6414,
+      "end": 6417
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 6421,
+      "end": 6427
+    },
+    {
+      "type": "ORG",
+      "text": "SSE",
+      "start": 6596,
+      "end": 6599
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 6637,
+      "end": 6643
+    },
+    {
+      "type": "ORG",
+      "text": "AIR",
+      "start": 6660,
+      "end": 6663
+    },
+    {
+      "type": "ORG",
+      "text": "SSE",
+      "start": 6669,
+      "end": 6672
+    },
+    {
+      "type": "DATE",
+      "text": "October  31st",
+      "start": 6677,
+      "end": 6690
+    },
+    {
+      "type": "DATE",
+      "text": "each \n\nyear",
+      "start": 6694,
+      "end": 6705
+    },
+    {
+      "type": "DATE",
+      "text": "1961",
+      "start": 6821,
+      "end": 6825
+    },
+    {
+      "type": "ORG",
+      "text": "NPO",
+      "start": 6967,
+      "end": 6970
+    },
+    {
+      "type": "ORG",
+      "text": "AIR",
+      "start": 7019,
+      "end": 7022
+    },
+    {
+      "type": "ORG",
+      "text": "NPO",
+      "start": 7071,
+      "end": 7074
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 7167,
+      "end": 7175
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 7454,
+      "end": 7460
+    },
+    {
+      "type": "DATE",
+      "text": "the previous financial year",
+      "start": 7523,
+      "end": 7550
+    },
+    {
+      "type": "ORG",
+      "text": "Social Impact Assessors",
+      "start": 7769,
+      "end": 7792
+    },
+    {
+      "type": "ORG",
+      "text": "AIR",
+      "start": 7804,
+      "end": 7807
+    },
+    {
+      "type": "ORG",
+      "text": "The Recognized Stock Exchanges and Depositories",
+      "start": 7816,
+      "end": 7863
+    },
+    {
+      "type": "ORG",
+      "text": "Circular",
+      "start": 8281,
+      "end": 8289
+    },
+    {
+      "type": "DATE",
+      "text": "1992",
+      "start": 8428,
+      "end": 8432
+    },
+    {
+      "type": "ORG",
+      "text": "ICDR",
+      "start": 8472,
+      "end": 8476
+    },
+    {
+      "type": "ORG",
+      "text": "www.sebi.gov.in",
+      "start": 8727,
+      "end": 8742
+    },
+    {
+      "type": "DATE",
+      "text": "Bhatter",
+      "start": 8815,
+      "end": 8822
+    },
+    {
+      "type": "DATE",
+      "text": "2644",
+      "start": 8902,
+      "end": 8906
+    },
+    {
+      "type": "DATE",
+      "text": "9386",
+      "start": 8907,
+      "end": 8911
+    }
+  ],
+  "keywords": [],
+  "checksum": "504f917b31416a1683fcadbdb579aa12e1434eb30dde1cc5b1859afa53411f48",
+  "notes": ""
+}

@@ -1,1 +1,9 @@
 doc_id,file_name,doc_type,publish_date,jurisdiction,text_path,canonical_path,source_url,checksum,notes
+BSE India Document,BSE India Document.pdf,unknown,2025-08-27,India,data/text/BSE India Document.txt,,,91a5a0d40d1c58621189fb44379df088e8026746eedc7e924d32b39aa4e2590b,
+SEBI Circular,SEBI Circular.pdf,regulatory_circular,,India,data/text/SEBI Circular.txt,,,6fd923f549fc54d02e498278f770911bc779fc4435b040782b3c5080ba4281db,
+SEBI Social Stock Exchange Framework,SEBI Social Stock Exchange Framework.pdf,regulatory_circular,,India,data/text/SEBI Social Stock Exchange Framework.txt,,,504f917b31416a1683fcadbdb579aa12e1434eb30dde1cc5b1859afa53411f48,
+Titan AR 2024-25,Titan AR 2024-25.pdf,annual_report,2025-03-31,India,data/text/Titan AR 2024-25.txt,,,77ed6de067f6569219d13f28427af462e41a737730909dd2ffedb7b264374a4a,
+RBI Notification 70MD 2023,RBI Notification 70MD 2023.pdf,notification,,India,data/text/RBI Notification 70MD 2023.txt,,,cd7189768362d0cd77ded257041e844cec7694bd82df9f39dcf01a6d90795884,
+SEBI Circular (1),SEBI Circular (1).pdf,regulatory_circular,,India,data/text/SEBI Circular (1).txt,,,cc37cce1d6d432e8d11e93c9998dd8bd046ede17c77049a16015030237ff0eab,
+SEBI Investment Transmission,SEBI Investment Transmission.pdf,regulatory_circular,,India,data/text/SEBI Investment Transmission.txt,,,2e8bd925ca8a02c45511572ab61700fb16704d43a03afe7bdac3e8a44fec6665,
+Notice 2025-09-19,Notice 2025-09-19.pdf,unknown,2025-09-19,India,data/text/Notice 2025-09-19.txt,,,c2fdeaa059defe28ce19834bc1bf8a0095b4a14df0ac314cdb1951c98ab528de,

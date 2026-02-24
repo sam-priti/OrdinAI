@@ -1,0 +1,2405 @@
+{
+  "doc_id": "RBI Notification 70MD 2023",
+  "file_name": "RBI Notification 70MD 2023.pdf",
+  "source_url": "",
+  "doc_type": "notification",
+  "publish_date": "",
+  "jurisdiction": "India",
+  "issuer": "RBI",
+  "text_path": "data/text/RBI Notification 70MD 2023.txt",
+  "tables": [
+    "data/tables/RBI Notification 70MD 2023_table_0.csv",
+    "data/tables/RBI Notification 70MD 2023_table_1.csv",
+    "data/tables/RBI Notification 70MD 2023_table_2.csv",
+    "data/tables/RBI Notification 70MD 2023_table_3.csv",
+    "data/tables/RBI Notification 70MD 2023_table_4.csv",
+    "data/tables/RBI Notification 70MD 2023_table_5.csv"
+  ],
+  "entities": [
+    {
+      "type": "ORG",
+      "text": "RESERVE BANK OF INDIA",
+      "start": 0,
+      "end": 21
+    },
+    {
+      "type": "ORG",
+      "text": "RBI",
+      "start": 40,
+      "end": 43
+    },
+    {
+      "type": "ORG",
+      "text": "BC No.08/04.09.01/2019-20",
+      "start": 91,
+      "end": 116
+    },
+    {
+      "type": "DATE",
+      "text": "July 29, 2019",
+      "start": 137,
+      "end": 150
+    },
+    {
+      "type": "DATE",
+      "text": "March 12, 2020",
+      "start": 267,
+      "end": 281
+    },
+    {
+      "type": "ORG",
+      "text": "All Small Finance Banks",
+      "start": 343,
+      "end": 366
+    },
+    {
+      "type": "ORG",
+      "text": "This Master Direction",
+      "start": 689,
+      "end": 710
+    },
+    {
+      "type": "ORG",
+      "text": "RBI",
+      "start": 734,
+      "end": 737
+    },
+    {
+      "type": "DATE",
+      "text": "www.rbi.org.in",
+      "start": 749,
+      "end": 763
+    },
+    {
+      "type": "DATE",
+      "text": "July 6, 2017",
+      "start": 890,
+      "end": 902
+    },
+    {
+      "type": "PERSON",
+      "text": "Borah",
+      "start": 1144,
+      "end": 1149
+    },
+    {
+      "type": "DATE",
+      "text": "10014",
+      "start": 1304,
+      "end": 1309
+    },
+    {
+      "type": "ORG",
+      "text": "\u092e\u0941",
+      "start": 1311,
+      "end": 1313
+    },
+    {
+      "type": "ORG",
+      "text": "\u0902\u092c\u0908",
+      "start": 1315,
+      "end": 1318
+    },
+    {
+      "type": "ORG",
+      "text": "Financial Inclusion & Development Dept",
+      "start": 1329,
+      "end": 1367
+    },
+    {
+      "type": "ORG",
+      "text": "Central Office,10th Floor",
+      "start": 1370,
+      "end": 1395
+    },
+    {
+      "type": "ORG",
+      "text": "Central Office Building",
+      "start": 1397,
+      "end": 1420
+    },
+    {
+      "type": "PERSON",
+      "text": "Shahid Bhagat",
+      "start": 1422,
+      "end": 1435
+    },
+    {
+      "type": "PERSON",
+      "text": "Singh Marg",
+      "start": 1436,
+      "end": 1446
+    },
+    {
+      "type": "ORG",
+      "text": "\u092f\u093e \u092b\u094b\u0928",
+      "start": 1619,
+      "end": 1625
+    },
+    {
+      "type": "PERSON",
+      "text": "\u092f\u093f\u0915\u094d\u0924\u0917\u0924 \u091c\u093e\u0928\u0915\u093e\u0930",
+      "start": 1653,
+      "end": 1667
+    },
+    {
+      "type": "PERSON",
+      "text": "\u091c\u0948\u0938\u0947 \u092c",
+      "start": 1669,
+      "end": 1675
+    },
+    {
+      "type": "PERSON",
+      "text": "\u092a\u093e\u0938\u0935\u0921\u0930\u094d",
+      "start": 1699,
+      "end": 1706
+    },
+    {
+      "type": "ORG",
+      "text": "RBI",
+      "start": 1864,
+      "end": 1867
+    },
+    {
+      "type": "ORG",
+      "text": "Direction - Reserve Bank of India - Priority",
+      "start": 2138,
+      "end": 2182
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 2213,
+      "end": 2251
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 2252,
+      "end": 2256
+    },
+    {
+      "type": "DATE",
+      "text": "1949",
+      "start": 2352,
+      "end": 2356
+    },
+    {
+      "type": "ORG",
+      "text": "the Reserve Bank of India",
+      "start": 2358,
+      "end": 2383
+    },
+    {
+      "type": "ORG",
+      "text": "Directions",
+      "start": 2486,
+      "end": 2496
+    },
+    {
+      "type": "ORG",
+      "text": "CHAPTER",
+      "start": 2522,
+      "end": 2529
+    },
+    {
+      "type": "ORG",
+      "text": "Short Title and Commencement \n\n",
+      "start": 2553,
+      "end": 2584
+    },
+    {
+      "type": "ORG",
+      "text": "the Reserve Bank of India (Priority Sector Lending",
+      "start": 2621,
+      "end": 2671
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 2716,
+      "end": 2720
+    },
+    {
+      "type": "DATE",
+      "text": "the day",
+      "start": 2771,
+      "end": 2778
+    },
+    {
+      "type": "ORG",
+      "text": "the Reserve Bank of India",
+      "start": 2824,
+      "end": 2849
+    },
+    {
+      "type": "ORG",
+      "text": "Directions",
+      "start": 2896,
+      "end": 2906
+    },
+    {
+      "type": "ORG",
+      "text": "SFB",
+      "start": 2949,
+      "end": 2952
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 2979,
+      "end": 2984
+    },
+    {
+      "type": "ORG",
+      "text": "the Reserve Bank of India",
+      "start": 2988,
+      "end": 3013
+    },
+    {
+      "type": "ORG",
+      "text": "Directions",
+      "start": 3064,
+      "end": 3074
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 3382,
+      "end": 3388
+    },
+    {
+      "type": "PERSON",
+      "text": "Banks",
+      "start": 3447,
+      "end": 3452
+    },
+    {
+      "type": "ORG",
+      "text": "the Reserve Bank of India Act",
+      "start": 3812,
+      "end": 3841
+    },
+    {
+      "type": "ORG",
+      "text": "Direction - Reserve Bank of India - Priority",
+      "start": 3883,
+      "end": 3927
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 3959,
+      "end": 3997
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 3998,
+      "end": 4002
+    },
+    {
+      "type": "ORG",
+      "text": "Micro",
+      "start": 4261,
+      "end": 4266
+    },
+    {
+      "type": "ORG",
+      "text": "Export Credit",
+      "start": 4305,
+      "end": 4318
+    },
+    {
+      "type": "ORG",
+      "text": "Education",
+      "start": 4326,
+      "end": 4335
+    },
+    {
+      "type": "ORG",
+      "text": "Social Infrastructure",
+      "start": 4357,
+      "end": 4378
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 4684,
+      "end": 4689
+    },
+    {
+      "type": "ORG",
+      "text": "Weaker \nSections \n\nTarget",
+      "start": 4787,
+      "end": 4812
+    },
+    {
+      "type": "MONEY",
+      "text": "75 per cent",
+      "start": 4814,
+      "end": 4825
+    },
+    {
+      "type": "ORG",
+      "text": "Adjusted Net Bank Credit",
+      "start": 4829,
+      "end": 4853
+    },
+    {
+      "type": "ORG",
+      "text": "ANBC",
+      "start": 4871,
+      "end": 4875
+    },
+    {
+      "type": "MONEY",
+      "text": "18 per cent",
+      "start": 4888,
+      "end": 4899
+    },
+    {
+      "type": "ORG",
+      "text": "ANBC",
+      "start": 4957,
+      "end": 4961
+    },
+    {
+      "type": "ORG",
+      "text": "Small and Marginal Farmers",
+      "start": 4982,
+      "end": 5008
+    },
+    {
+      "type": "MONEY",
+      "text": "#",
+      "start": 5011,
+      "end": 5012
+    },
+    {
+      "type": "MONEY",
+      "text": "7.5 per cent",
+      "start": 5014,
+      "end": 5026
+    },
+    {
+      "type": "ORG",
+      "text": "ANBC",
+      "start": 5030,
+      "end": 5034
+    },
+    {
+      "type": "DATE",
+      "text": "the preceding year",
+      "start": 5192,
+      "end": 5210
+    },
+    {
+      "type": "ORG",
+      "text": "Small  Finance  Banks",
+      "start": 5234,
+      "end": 5255
+    },
+    {
+      "type": "DATE",
+      "text": "three  years",
+      "start": 5409,
+      "end": 5421
+    },
+    {
+      "type": "DATE",
+      "text": "every year",
+      "start": 5547,
+      "end": 5557
+    },
+    {
+      "type": "DATE",
+      "text": "FY 2019-20",
+      "start": 5563,
+      "end": 5573
+    },
+    {
+      "type": "ORG",
+      "text": "Direction - Reserve Bank of India - Priority",
+      "start": 5681,
+      "end": 5725
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 5757,
+      "end": 5795
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 5796,
+      "end": 5800
+    },
+    {
+      "type": "ORG",
+      "text": "ANBC",
+      "start": 5854,
+      "end": 5858
+    },
+    {
+      "type": "ORG",
+      "text": "Bank Credit \n\n",
+      "start": 5883,
+      "end": 5897
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 5900,
+      "end": 5905
+    },
+    {
+      "type": "DATE",
+      "text": "1934",
+      "start": 5984,
+      "end": 5988
+    },
+    {
+      "type": "ORG",
+      "text": "RBI",
+      "start": 6026,
+      "end": 6029
+    },
+    {
+      "type": "ORG",
+      "text": "Financial  Institutions  plus",
+      "start": 6053,
+      "end": 6082
+    },
+    {
+      "type": "ORG",
+      "text": "HTM",
+      "start": 6151,
+      "end": 6154
+    },
+    {
+      "type": "ORG",
+      "text": "RIDF",
+      "start": 6331,
+      "end": 6335
+    },
+    {
+      "type": "ORG",
+      "text": "NHB",
+      "start": 6371,
+      "end": 6374
+    },
+    {
+      "type": "ORG",
+      "text": "SIDBI",
+      "start": 6377,
+      "end": 6382
+    },
+    {
+      "type": "ORG",
+      "text": "MUDRA  Ltd.",
+      "start": 6390,
+      "end": 6401
+    },
+    {
+      "type": "ORG",
+      "text": "ANBC",
+      "start": 6509,
+      "end": 6513
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 6540,
+      "end": 6545
+    },
+    {
+      "type": "ORG",
+      "text": "CRR/SLR",
+      "start": 6630,
+      "end": 6637
+    },
+    {
+      "type": "ORG",
+      "text": "the Reserve Bank\u2019s",
+      "start": 6659,
+      "end": 6677
+    },
+    {
+      "type": "ORG",
+      "text": "DBOD.No",
+      "start": 6691,
+      "end": 6698
+    },
+    {
+      "type": "ORG",
+      "text": "Ret",
+      "start": 6699,
+      "end": 6702
+    },
+    {
+      "type": "DATE",
+      "text": "August  14",
+      "start": 6735,
+      "end": 6745
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 6748,
+      "end": 6752
+    },
+    {
+      "type": "ORG",
+      "text": "Ret",
+      "start": 6775,
+      "end": 6778
+    },
+    {
+      "type": "DATE",
+      "text": "January  31",
+      "start": 6811,
+      "end": 6822
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 6825,
+      "end": 6829
+    },
+    {
+      "type": "DATE",
+      "text": "February 6, 2014",
+      "start": 6876,
+      "end": 6892
+    },
+    {
+      "type": "ORG",
+      "text": "ANBC",
+      "start": 6919,
+      "end": 6923
+    },
+    {
+      "type": "ORG",
+      "text": "Reserve \n\nBank\u2019s",
+      "start": 7139,
+      "end": 7155
+    },
+    {
+      "type": "DATE",
+      "text": "July  15",
+      "start": 7210,
+      "end": 7218
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 7221,
+      "end": 7225
+    },
+    {
+      "type": "ORG",
+      "text": "ANBC",
+      "start": 7262,
+      "end": 7266
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 7394,
+      "end": 7399
+    },
+    {
+      "type": "DATE",
+      "text": "1934",
+      "start": 7478,
+      "end": 7482
+    },
+    {
+      "type": "ORG",
+      "text": "RBI",
+      "start": 7509,
+      "end": 7512
+    },
+    {
+      "type": "ORG",
+      "text": "Financial Institutions \nNet Bank Credit",
+      "start": 7532,
+      "end": 7571
+    },
+    {
+      "type": "ORG",
+      "text": "NBC",
+      "start": 7573,
+      "end": 7576
+    },
+    {
+      "type": "ORG",
+      "text": "Non-SLR",
+      "start": 7600,
+      "end": 7607
+    },
+    {
+      "type": "ORG",
+      "text": "HTM",
+      "start": 7625,
+      "end": 7628
+    },
+    {
+      "type": "ORG",
+      "text": "RIDF",
+      "start": 7730,
+      "end": 7734
+    },
+    {
+      "type": "ORG",
+      "text": "NABARD",
+      "start": 7765,
+      "end": 7771
+    },
+    {
+      "type": "ORG",
+      "text": "NHB",
+      "start": 7773,
+      "end": 7776
+    },
+    {
+      "type": "ORG",
+      "text": "SIDBI",
+      "start": 7779,
+      "end": 7784
+    },
+    {
+      "type": "ORG",
+      "text": "MUDRA Ltd",
+      "start": 7789,
+      "end": 7798
+    },
+    {
+      "type": "DATE",
+      "text": "July 15, 2014 \nEligible",
+      "start": 8024,
+      "end": 8047
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 8069,
+      "end": 8074
+    },
+    {
+      "type": "ORG",
+      "text": "CRR/SLR",
+      "start": 8152,
+      "end": 8159
+    },
+    {
+      "type": "ORG",
+      "text": "V+VI",
+      "start": 8224,
+      "end": 8228
+    },
+    {
+      "type": "ORG",
+      "text": "NBC",
+      "start": 8375,
+      "end": 8378
+    },
+    {
+      "type": "ORG",
+      "text": "Direction - Reserve Bank of India - Priority",
+      "start": 8410,
+      "end": 8454
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 8486,
+      "end": 8524
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 8525,
+      "end": 8529
+    },
+    {
+      "type": "ORG",
+      "text": "Small \n\nFinance  Banks",
+      "start": 8632,
+      "end": 8654
+    },
+    {
+      "type": "DATE",
+      "text": "October 06, 2016",
+      "start": 8763,
+      "end": 8779
+    },
+    {
+      "type": "ORG",
+      "text": "ANBC",
+      "start": 8800,
+      "end": 8804
+    },
+    {
+      "type": "ORG",
+      "text": "Corporate/Head  Office",
+      "start": 8871,
+      "end": 8893
+    },
+    {
+      "type": "ORG",
+      "text": "Bank Credit",
+      "start": 8920,
+      "end": 8931
+    },
+    {
+      "type": "ORG",
+      "text": "Adjusted Net Bank \n\nCredit",
+      "start": 9307,
+      "end": 9333
+    },
+    {
+      "type": "ORG",
+      "text": "Farm  Credit",
+      "start": 9506,
+      "end": 9518
+    },
+    {
+      "type": "ORG",
+      "text": "Agriculture \n\nInfrastructure",
+      "start": 9620,
+      "end": 9648
+    },
+    {
+      "type": "PERSON",
+      "text": "Self Help Groups",
+      "start": 9838,
+      "end": 9854
+    },
+    {
+      "type": "ORG",
+      "text": "Joint Liability Groups",
+      "start": 9865,
+      "end": 9887
+    },
+    {
+      "type": "ORG",
+      "text": "Agriculture",
+      "start": 10050,
+      "end": 10061
+    },
+    {
+      "type": "ORG",
+      "text": "Allied \n\nActivities",
+      "start": 10066,
+      "end": 10085
+    },
+    {
+      "type": "ORG",
+      "text": "Direction - Reserve Bank of India - Priority",
+      "start": 10812,
+      "end": 10856
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 10888,
+      "end": 10926
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 10927,
+      "end": 10931
+    },
+    {
+      "type": "MONEY",
+      "text": "50",
+      "start": 10969,
+      "end": 10971
+    },
+    {
+      "type": "DATE",
+      "text": "12 months",
+      "start": 11095,
+      "end": 11104
+    },
+    {
+      "type": "GPE",
+      "text": "Agriculture",
+      "start": 11509,
+      "end": 11520
+    },
+    {
+      "type": "ORG",
+      "text": "Allied Activities",
+      "start": 11527,
+      "end": 11544
+    },
+    {
+      "type": "MONEY",
+      "text": "2",
+      "start": 11653,
+      "end": 11654
+    },
+    {
+      "type": "MONEY",
+      "text": "50",
+      "start": 12306,
+      "end": 12308
+    },
+    {
+      "type": "DATE",
+      "text": "12 months",
+      "start": 12433,
+      "end": 12442
+    },
+    {
+      "type": "MONEY",
+      "text": "100",
+      "start": 12967,
+      "end": 12970
+    },
+    {
+      "type": "MONEY",
+      "text": "5",
+      "start": 13078,
+      "end": 13079
+    },
+    {
+      "type": "ORG",
+      "text": "Direction - Reserve Bank of India - Priority",
+      "start": 13276,
+      "end": 13320
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 13352,
+      "end": 13390
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 13391,
+      "end": 13395
+    },
+    {
+      "type": "MONEY",
+      "text": "100",
+      "start": 13480,
+      "end": 13483
+    },
+    {
+      "type": "ORG",
+      "text": "Custom  Service  Units",
+      "start": 13548,
+      "end": 13570
+    },
+    {
+      "type": "ORG",
+      "text": "RIDF",
+      "start": 13821,
+      "end": 13825
+    },
+    {
+      "type": "ORG",
+      "text": "Small and Marginal Farmers",
+      "start": 13980,
+      "end": 14006
+    },
+    {
+      "type": "ORG",
+      "text": "Farmers",
+      "start": 14044,
+      "end": 14051
+    },
+    {
+      "type": "ORG",
+      "text": "Marginal  Farmers",
+      "start": 14097,
+      "end": 14114
+    },
+    {
+      "type": "ORG",
+      "text": "Farmers",
+      "start": 14118,
+      "end": 14125
+    },
+    {
+      "type": "PERSON",
+      "text": "Small Farmers",
+      "start": 14194,
+      "end": 14207
+    },
+    {
+      "type": "ORG",
+      "text": "Joint  Liability  Groups",
+      "start": 14438,
+      "end": 14462
+    },
+    {
+      "type": "PERSON",
+      "text": "Small",
+      "start": 14504,
+      "end": 14509
+    },
+    {
+      "type": "PERSON",
+      "text": "Marginal",
+      "start": 14516,
+      "end": 14524
+    },
+    {
+      "type": "ORG",
+      "text": "Allied \n\nActivities",
+      "start": 14576,
+      "end": 14595
+    },
+    {
+      "type": "ORG",
+      "text": "Agriculture",
+      "start": 14781,
+      "end": 14792
+    },
+    {
+      "type": "ORG",
+      "text": "Allied Activities",
+      "start": 14797,
+      "end": 14814
+    },
+    {
+      "type": "ORG",
+      "text": "Small and Marginal Farmers",
+      "start": 14842,
+      "end": 14868
+    },
+    {
+      "type": "ORG",
+      "text": "Small and Medium Enterprises",
+      "start": 15012,
+      "end": 15040
+    },
+    {
+      "type": "ORG",
+      "text": "Ministry of Micro",
+      "start": 15231,
+      "end": 15248
+    },
+    {
+      "type": "DATE",
+      "text": "September 9, \n\n2006",
+      "start": 15303,
+      "end": 15322
+    },
+    {
+      "type": "ORG",
+      "text": "Direction - Reserve Bank of India - Priority",
+      "start": 15965,
+      "end": 16009
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 16041,
+      "end": 16079
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 16080,
+      "end": 16084
+    },
+    {
+      "type": "ORG",
+      "text": "Micro",
+      "start": 16104,
+      "end": 16109
+    },
+    {
+      "type": "ORG",
+      "text": "Medium  Enterprises",
+      "start": 16124,
+      "end": 16143
+    },
+    {
+      "type": "ORG",
+      "text": "Manufacturing Enterprises \n\nThe Micro",
+      "start": 16286,
+      "end": 16323
+    },
+    {
+      "type": "ORG",
+      "text": "the Industries (Development and Regulation",
+      "start": 16457,
+      "end": 16499
+    },
+    {
+      "type": "DATE",
+      "text": "1951",
+      "start": 16508,
+      "end": 16512
+    },
+    {
+      "type": "ORG",
+      "text": "The Manufacturing Enterprises",
+      "start": 16566,
+      "end": 16595
+    },
+    {
+      "type": "DATE",
+      "text": "2006",
+      "start": 16830,
+      "end": 16834
+    },
+    {
+      "type": "ORG",
+      "text": "MSME",
+      "start": 17358,
+      "end": 17362
+    },
+    {
+      "type": "ORG",
+      "text": "the  Department",
+      "start": 17436,
+      "end": 17451
+    },
+    {
+      "type": "DATE",
+      "text": "July 30, 2015",
+      "start": 17532,
+      "end": 17545
+    },
+    {
+      "type": "ORG",
+      "text": "Trade  Receivables  Discounting  System",
+      "start": 18005,
+      "end": 18044
+    },
+    {
+      "type": "ORG",
+      "text": "Village Industries Sector",
+      "start": 18189,
+      "end": 18214
+    },
+    {
+      "type": "ORG",
+      "text": "KVI",
+      "start": 18216,
+      "end": 18219
+    },
+    {
+      "type": "ORG",
+      "text": "KVI",
+      "start": 18249,
+      "end": 18252
+    },
+    {
+      "type": "ORG",
+      "text": "Micro Enterprises",
+      "start": 18349,
+      "end": 18366
+    },
+    {
+      "type": "ORG",
+      "text": "Direction - Reserve Bank of India - Priority",
+      "start": 18438,
+      "end": 18482
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 18514,
+      "end": 18552
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 18553,
+      "end": 18557
+    },
+    {
+      "type": "PERSON",
+      "text": "artisans",
+      "start": 18838,
+      "end": 18846
+    },
+    {
+      "type": "ORG",
+      "text": "Credit",
+      "start": 18891,
+      "end": 18897
+    },
+    {
+      "type": "ORG",
+      "text": "Credit  Cards",
+      "start": 18928,
+      "end": 18941
+    },
+    {
+      "type": "ORG",
+      "text": "Artisan  Credit  Card",
+      "start": 18955,
+      "end": 18976
+    },
+    {
+      "type": "PERSON",
+      "text": "Swarojgar Credit Card",
+      "start": 19000,
+      "end": 19021
+    },
+    {
+      "type": "ORG",
+      "text": "Weaver\u2019s Card",
+      "start": 19027,
+      "end": 19040
+    },
+    {
+      "type": "ORG",
+      "text": "Financial  Services",
+      "start": 19207,
+      "end": 19226
+    },
+    {
+      "type": "DATE",
+      "text": "September 24, 2018",
+      "start": 19259,
+      "end": 19277
+    },
+    {
+      "type": "ORG",
+      "text": "Overdraft",
+      "start": 19279,
+      "end": 19288
+    },
+    {
+      "type": "ORG",
+      "text": "Pradhan Mantri Jan-Dhan Yojana",
+      "start": 19298,
+      "end": 19328
+    },
+    {
+      "type": "MONEY",
+      "text": "10,000/-",
+      "start": 19374,
+      "end": 19382
+    },
+    {
+      "type": "DATE",
+      "text": "18-60 years",
+      "start": 19397,
+      "end": 19408
+    },
+    {
+      "type": "DATE",
+      "text": "18-65 years",
+      "start": 19431,
+      "end": 19442
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 19477,
+      "end": 19483
+    },
+    {
+      "type": "MONEY",
+      "text": "100,000/-",
+      "start": 19510,
+      "end": 19519
+    },
+    {
+      "type": "MONEY",
+      "text": "2,000/-",
+      "start": 19647,
+      "end": 19654
+    },
+    {
+      "type": "ORG",
+      "text": "Micro Enterprises",
+      "start": 19737,
+      "end": 19754
+    },
+    {
+      "type": "ORG",
+      "text": "SIDBI",
+      "start": 19789,
+      "end": 19794
+    },
+    {
+      "type": "ORG",
+      "text": "MUDRA Ltd.",
+      "start": 19799,
+      "end": 19809
+    },
+    {
+      "type": "ORG",
+      "text": "MSME",
+      "start": 19976,
+      "end": 19980
+    },
+    {
+      "type": "DATE",
+      "text": "three years",
+      "start": 20053,
+      "end": 20064
+    },
+    {
+      "type": "ORG",
+      "text": "MSME",
+      "start": 20092,
+      "end": 20096
+    },
+    {
+      "type": "ORG",
+      "text": "Export Credit \n\n",
+      "start": 20122,
+      "end": 20138
+    },
+    {
+      "type": "DATE",
+      "text": "the first financial year",
+      "start": 20145,
+      "end": 20169
+    },
+    {
+      "type": "ORG",
+      "text": "Export Credit",
+      "start": 20184,
+      "end": 20197
+    },
+    {
+      "type": "MONEY",
+      "text": "up to \u20b9 40",
+      "start": 20220,
+      "end": 20230
+    },
+    {
+      "type": "DATE",
+      "text": "the preceding year",
+      "start": 20391,
+      "end": 20409
+    },
+    {
+      "type": "MONEY",
+      "text": "2 per cent",
+      "start": 20417,
+      "end": 20427
+    },
+    {
+      "type": "ORG",
+      "text": "Master  Circular",
+      "start": 20612,
+      "end": 20628
+    },
+    {
+      "type": "ORG",
+      "text": "Rupee",
+      "start": 20634,
+      "end": 20639
+    },
+    {
+      "type": "ORG",
+      "text": "Department of Banking Regulation",
+      "start": 20729,
+      "end": 20761
+    },
+    {
+      "type": "MONEY",
+      "text": "10",
+      "start": 20871,
+      "end": 20873
+    },
+    {
+      "type": "ORG",
+      "text": "Direction - Reserve Bank of India - Priority",
+      "start": 21010,
+      "end": 21054
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 21086,
+      "end": 21124
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 21125,
+      "end": 21129
+    },
+    {
+      "type": "MONEY",
+      "text": "35",
+      "start": 21179,
+      "end": 21181
+    },
+    {
+      "type": "MONEY",
+      "text": "25",
+      "start": 21276,
+      "end": 21278
+    },
+    {
+      "type": "MONEY",
+      "text": "45",
+      "start": 21489,
+      "end": 21491
+    },
+    {
+      "type": "MONEY",
+      "text": "30",
+      "start": 21505,
+      "end": 21507
+    },
+    {
+      "type": "ORG",
+      "text": "ANBC",
+      "start": 21666,
+      "end": 21670
+    },
+    {
+      "type": "MONEY",
+      "text": "35",
+      "start": 21743,
+      "end": 21745
+    },
+    {
+      "type": "MONEY",
+      "text": "25",
+      "start": 21780,
+      "end": 21782
+    },
+    {
+      "type": "ORG",
+      "text": "ANBC",
+      "start": 21863,
+      "end": 21867
+    },
+    {
+      "type": "MONEY",
+      "text": "up to \u20b95",
+      "start": 21950,
+      "end": 21958
+    },
+    {
+      "type": "MONEY",
+      "text": "2",
+      "start": 22001,
+      "end": 22002
+    },
+    {
+      "type": "MONEY",
+      "text": "10",
+      "start": 22191,
+      "end": 22193
+    },
+    {
+      "type": "ORG",
+      "text": "Weaker  Sections",
+      "start": 22369,
+      "end": 22385
+    },
+    {
+      "type": "ORG",
+      "text": "EWS",
+      "start": 22388,
+      "end": 22391
+    },
+    {
+      "type": "ORG",
+      "text": "LIG",
+      "start": 22421,
+      "end": 22424
+    },
+    {
+      "type": "MONEY",
+      "text": "10",
+      "start": 22468,
+      "end": 22470
+    },
+    {
+      "type": "MONEY",
+      "text": "3",
+      "start": 22635,
+      "end": 22636
+    },
+    {
+      "type": "ORG",
+      "text": "EWS",
+      "start": 22656,
+      "end": 22659
+    },
+    {
+      "type": "MONEY",
+      "text": "6",
+      "start": 22665,
+      "end": 22666
+    },
+    {
+      "type": "ORG",
+      "text": "LIG",
+      "start": 22688,
+      "end": 22691
+    },
+    {
+      "type": "ORG",
+      "text": "Pradhan  Mantri  Awas \n\n",
+      "start": 22761,
+      "end": 22785
+    },
+    {
+      "type": "GPE",
+      "text": "Yojana",
+      "start": 22785,
+      "end": 22791
+    },
+    {
+      "type": "ORG",
+      "text": "NHB",
+      "start": 22828,
+      "end": 22831
+    },
+    {
+      "type": "MONEY",
+      "text": "\u20b95",
+      "start": 22931,
+      "end": 22933
+    },
+    {
+      "type": "DATE",
+      "text": "Tier II",
+      "start": 23221,
+      "end": 23228
+    },
+    {
+      "type": "ORG",
+      "text": "Renewable Energy \n\nBank",
+      "start": 23255,
+      "end": 23278
+    },
+    {
+      "type": "MONEY",
+      "text": "15",
+      "start": 23310,
+      "end": 23312
+    },
+    {
+      "type": "ORG",
+      "text": "Direction - Reserve Bank of India - Priority",
+      "start": 23508,
+      "end": 23552
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 23584,
+      "end": 23622
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 23623,
+      "end": 23627
+    },
+    {
+      "type": "MONEY",
+      "text": "10",
+      "start": 23803,
+      "end": 23805
+    },
+    {
+      "type": "MONEY",
+      "text": "50,000/-",
+      "start": 23867,
+      "end": 23875
+    },
+    {
+      "type": "ORG",
+      "text": "SHG",
+      "start": 23943,
+      "end": 23946
+    },
+    {
+      "type": "ORG",
+      "text": "JLG",
+      "start": 23947,
+      "end": 23950
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 23997,
+      "end": 24003
+    },
+    {
+      "type": "MONEY",
+      "text": "1",
+      "start": 24045,
+      "end": 24046
+    },
+    {
+      "type": "MONEY",
+      "text": "1.6",
+      "start": 24096,
+      "end": 24099
+    },
+    {
+      "type": "MONEY",
+      "text": "1",
+      "start": 24218,
+      "end": 24219
+    },
+    {
+      "type": "ORG",
+      "text": "State",
+      "start": 24321,
+      "end": 24326
+    },
+    {
+      "type": "ORG",
+      "text": "Weaker Sections \n\nPriority",
+      "start": 24545,
+      "end": 24571
+    },
+    {
+      "type": "ORG",
+      "text": "Weaker  Sections",
+      "start": 24648,
+      "end": 24664
+    },
+    {
+      "type": "MONEY",
+      "text": "1",
+      "start": 24806,
+      "end": 24807
+    },
+    {
+      "type": "ORG",
+      "text": "Beneficiaries under Government Sponsored Schemes",
+      "start": 24823,
+      "end": 24871
+    },
+    {
+      "type": "ORG",
+      "text": "National Rural Livelihood \n\nMission",
+      "start": 24880,
+      "end": 24915
+    },
+    {
+      "type": "ORG",
+      "text": "NRLM",
+      "start": 24917,
+      "end": 24921
+    },
+    {
+      "type": "ORG",
+      "text": "National Urban Livelihood Mission",
+      "start": 24924,
+      "end": 24957
+    },
+    {
+      "type": "ORG",
+      "text": "Beneficiaries of Differential Rate of Interest",
+      "start": 25092,
+      "end": 25138
+    },
+    {
+      "type": "ORG",
+      "text": "DRI",
+      "start": 25140,
+      "end": 25143
+    },
+    {
+      "type": "MONEY",
+      "text": "1",
+      "start": 25331,
+      "end": 25332
+    },
+    {
+      "type": "ORG",
+      "text": "Overdraft",
+      "start": 25509,
+      "end": 25518
+    },
+    {
+      "type": "MONEY",
+      "text": "up to \u20b910,000/-",
+      "start": 25549,
+      "end": 25564
+    },
+    {
+      "type": "DATE",
+      "text": "18-65 years",
+      "start": 25583,
+      "end": 25594
+    },
+    {
+      "type": "ORG",
+      "text": "Government of India",
+      "start": 25648,
+      "end": 25667
+    },
+    {
+      "type": "ORG",
+      "text": "Direction - Reserve Bank of India - Priority",
+      "start": 25725,
+      "end": 25769
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 25801,
+      "end": 25839
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 25840,
+      "end": 25844
+    },
+    {
+      "type": "GPE",
+      "text": "States",
+      "start": 25850,
+      "end": 25856
+    },
+    {
+      "type": "ORG",
+      "text": "These States/ Union Territories are Jammu & \n\nKashmir, Punjab,",
+      "start": 25991,
+      "end": 26053
+    },
+    {
+      "type": "ORG",
+      "text": "Meghalaya",
+      "start": 26054,
+      "end": 26063
+    },
+    {
+      "type": "GPE",
+      "text": "Mizoram",
+      "start": 26065,
+      "end": 26072
+    },
+    {
+      "type": "GPE",
+      "text": "Nagaland",
+      "start": 26074,
+      "end": 26082
+    },
+    {
+      "type": "GPE",
+      "text": "Lakshadweep",
+      "start": 26087,
+      "end": 26098
+    },
+    {
+      "type": "ORG",
+      "text": "CHAPTER IV \n\nMISCELLANEOUS",
+      "start": 26102,
+      "end": 26128
+    },
+    {
+      "type": "ORG",
+      "text": "DBR",
+      "start": 26431,
+      "end": 26434
+    },
+    {
+      "type": "DATE",
+      "text": "October  6",
+      "start": 26505,
+      "end": 26515
+    },
+    {
+      "type": "DATE",
+      "text": "2016",
+      "start": 26518,
+      "end": 26522
+    },
+    {
+      "type": "ORG",
+      "text": "the Reserve Bank of India",
+      "start": 26828,
+      "end": 26853
+    },
+    {
+      "type": "MONEY",
+      "text": "100",
+      "start": 27386,
+      "end": 27389
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 27836,
+      "end": 27842
+    },
+    {
+      "type": "MONEY",
+      "text": "1.25",
+      "start": 27884,
+      "end": 27888
+    },
+    {
+      "type": "MONEY",
+      "text": "2",
+      "start": 27944,
+      "end": 27945
+    },
+    {
+      "type": "ORG",
+      "text": "Master Direction - Reserve Bank of India - Priority Sector Lending",
+      "start": 27988,
+      "end": 28054
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 28071,
+      "end": 28109
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 28110,
+      "end": 28114
+    },
+    {
+      "type": "MONEY",
+      "text": "75,000/-",
+      "start": 28147,
+      "end": 28155
+    },
+    {
+      "type": "MONEY",
+      "text": "1.25",
+      "start": 28186,
+      "end": 28190
+    },
+    {
+      "type": "MONEY",
+      "text": "1.25",
+      "start": 28285,
+      "end": 28289
+    },
+    {
+      "type": "DATE",
+      "text": "24  months",
+      "start": 28459,
+      "end": 28469
+    },
+    {
+      "type": "MONEY",
+      "text": "30,000/-",
+      "start": 28502,
+      "end": 28510
+    },
+    {
+      "type": "DATE",
+      "text": "weekly",
+      "start": 28634,
+      "end": 28640
+    },
+    {
+      "type": "DATE",
+      "text": "monthly",
+      "start": 28660,
+      "end": 28667
+    },
+    {
+      "type": "DATE",
+      "text": "April 1, 2014",
+      "start": 28776,
+      "end": 28789
+    },
+    {
+      "type": "ORG",
+      "text": "Base Rate",
+      "start": 28847,
+      "end": 28856
+    },
+    {
+      "type": "ORG",
+      "text": "Reserve Bank of India",
+      "start": 29035,
+      "end": 29056
+    },
+    {
+      "type": "ORG",
+      "text": "DBR",
+      "start": 30267,
+      "end": 30270
+    },
+    {
+      "type": "DATE",
+      "text": "October 6, 2016",
+      "start": 30330,
+      "end": 30345
+    },
+    {
+      "type": "ORG",
+      "text": "Direction - Reserve Bank of India - Priority",
+      "start": 30475,
+      "end": 30519
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 30551,
+      "end": 30589
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 30590,
+      "end": 30594
+    },
+    {
+      "type": "ORG",
+      "text": "the Reserve Bank of India",
+      "start": 30765,
+      "end": 30790
+    },
+    {
+      "type": "ORG",
+      "text": "Inter Bank Participation Certificates \n\nInter  Bank  Participation  Certificates",
+      "start": 31869,
+      "end": 31949
+    },
+    {
+      "type": "ORG",
+      "text": "the Reserve Bank of India",
+      "start": 32230,
+      "end": 32255
+    },
+    {
+      "type": "ORG",
+      "text": "DBR",
+      "start": 32385,
+      "end": 32388
+    },
+    {
+      "type": "GPE",
+      "text": "DBR.NBD.NO.26/16.13.218/2016",
+      "start": 32413,
+      "end": 32441
+    },
+    {
+      "type": "DATE",
+      "text": "October  6",
+      "start": 32453,
+      "end": 32463
+    },
+    {
+      "type": "DATE",
+      "text": "2016",
+      "start": 32466,
+      "end": 32470
+    },
+    {
+      "type": "ORG",
+      "text": "IBPC",
+      "start": 32676,
+      "end": 32680
+    },
+    {
+      "type": "ORG",
+      "text": "Master Direction - Reserve Bank of India - Priority Sector Lending",
+      "start": 33095,
+      "end": 33161
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 33178,
+      "end": 33216
+    },
+    {
+      "type": "ORG",
+      "text": "the Reserve Bank",
+      "start": 33549,
+      "end": 33565
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 33572,
+      "end": 33577
+    },
+    {
+      "type": "ORG",
+      "text": "Circular",
+      "start": 33651,
+      "end": 33659
+    },
+    {
+      "type": "DATE",
+      "text": "April  7",
+      "start": 33707,
+      "end": 33715
+    },
+    {
+      "type": "DATE",
+      "text": "2016",
+      "start": 33718,
+      "end": 33722
+    },
+    {
+      "type": "ORG",
+      "text": "DBR",
+      "start": 33779,
+      "end": 33782
+    },
+    {
+      "type": "DATE",
+      "text": "October 6, \n\n2016",
+      "start": 33831,
+      "end": 33848
+    },
+    {
+      "type": "DATE",
+      "text": "quarterly",
+      "start": 34079,
+      "end": 34088
+    },
+    {
+      "type": "DATE",
+      "text": "quarterly",
+      "start": 34177,
+      "end": 34186
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 34191,
+      "end": 34197
+    },
+    {
+      "type": "ORG",
+      "text": "Rural  Infrastructure  Development  Fund",
+      "start": 34432,
+      "end": 34472
+    },
+    {
+      "type": "ORG",
+      "text": "NABARD",
+      "start": 34501,
+      "end": 34507
+    },
+    {
+      "type": "ORG",
+      "text": "MUDRA Ltd.",
+      "start": 34547,
+      "end": 34557
+    },
+    {
+      "type": "ORG",
+      "text": "the Reserve Bank",
+      "start": 34575,
+      "end": 34591
+    },
+    {
+      "type": "DATE",
+      "text": "each \n\nquarter",
+      "start": 34762,
+      "end": 34776
+    },
+    {
+      "type": "DATE",
+      "text": "each \n\nquarter",
+      "start": 34868,
+      "end": 34882
+    },
+    {
+      "type": "DATE",
+      "text": "the end of the year",
+      "start": 35031,
+      "end": 35050
+    },
+    {
+      "type": "ORG",
+      "text": "Annex",
+      "start": 35195,
+      "end": 35200
+    },
+    {
+      "type": "ORG",
+      "text": "RIDF",
+      "start": 35254,
+      "end": 35258
+    },
+    {
+      "type": "ORG",
+      "text": "Funds",
+      "start": 35272,
+      "end": 35277
+    },
+    {
+      "type": "ORG",
+      "text": "Reserve Bank of India",
+      "start": 35324,
+      "end": 35345
+    },
+    {
+      "type": "ORG",
+      "text": "the  ",
+      "start": 35412,
+      "end": 35417
+    },
+    {
+      "type": "ORG",
+      "text": "Reserve  Bank\u2019s  Department",
+      "start": 35417,
+      "end": 35444
+    },
+    {
+      "type": "ORG",
+      "text": "Direction - Reserve Bank of India - Priority",
+      "start": 35604,
+      "end": 35648
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 35680,
+      "end": 35718
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 35719,
+      "end": 35723
+    },
+    {
+      "type": "DATE",
+      "text": "years",
+      "start": 35840,
+      "end": 35845
+    },
+    {
+      "type": "ORG",
+      "text": "Department of \n\nBanking Regulation",
+      "start": 36295,
+      "end": 36329
+    },
+    {
+      "type": "MONEY",
+      "text": "up to \u20b925,000",
+      "start": 36479,
+      "end": 36492
+    },
+    {
+      "type": "ORG",
+      "text": "Bank Boards",
+      "start": 37114,
+      "end": 37125
+    },
+    {
+      "type": "ORG",
+      "text": "Direction - Reserve Bank of India - Priority",
+      "start": 37317,
+      "end": 37361
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 37393,
+      "end": 37431
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 37432,
+      "end": 37436
+    },
+    {
+      "type": "GPE",
+      "text": "BC.No.11/04.09.01/2019",
+      "start": 37567,
+      "end": 37589
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 37817,
+      "end": 37821
+    },
+    {
+      "type": "DATE",
+      "text": "Sept 19",
+      "start": 37907,
+      "end": 37914
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 37917,
+      "end": 37921
+    },
+    {
+      "type": "PERSON",
+      "text": "Targets-\nLending",
+      "start": 37940,
+      "end": 37956
+    },
+    {
+      "type": "ORG",
+      "text": "Non-Corporate \n",
+      "start": 37960,
+      "end": 37975
+    },
+    {
+      "type": "DATE",
+      "text": "2019-20",
+      "start": 37986,
+      "end": 37993
+    },
+    {
+      "type": "DATE",
+      "text": "2016",
+      "start": 38005,
+      "end": 38009
+    },
+    {
+      "type": "DATE",
+      "text": "August 2",
+      "start": 38028,
+      "end": 38036
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 38039,
+      "end": 38043
+    },
+    {
+      "type": "DATE",
+      "text": "May 6",
+      "start": 38046,
+      "end": 38051
+    },
+    {
+      "type": "DATE",
+      "text": "2019 \nJuly 6",
+      "start": 38054,
+      "end": 38066
+    },
+    {
+      "type": "DATE",
+      "text": "2017 \n\n",
+      "start": 38069,
+      "end": 38076
+    },
+    {
+      "type": "DATE",
+      "text": "October 6",
+      "start": 38076,
+      "end": 38085
+    },
+    {
+      "type": "DATE",
+      "text": "2016",
+      "start": 38088,
+      "end": 38092
+    },
+    {
+      "type": "ORG",
+      "text": "NBFC-Non-SI-Non",
+      "start": 38119,
+      "end": 38134
+    },
+    {
+      "type": "ORG",
+      "text": "Non-Deposit",
+      "start": 38159,
+      "end": 38170
+    },
+    {
+      "type": "ORG",
+      "text": "Deposit",
+      "start": 38176,
+      "end": 38183
+    },
+    {
+      "type": "ORG",
+      "text": "Classification \n Small Finance Banks",
+      "start": 38255,
+      "end": 38291
+    },
+    {
+      "type": "ORG",
+      "text": "Financial Inclusion",
+      "start": 38324,
+      "end": 38343
+    },
+    {
+      "type": "ORG",
+      "text": "Direction - Reserve Bank of India - Priority",
+      "start": 38508,
+      "end": 38552
+    },
+    {
+      "type": "ORG",
+      "text": "Classification - Small Finance Banks -",
+      "start": 38584,
+      "end": 38622
+    },
+    {
+      "type": "DATE",
+      "text": "2019",
+      "start": 38623,
+      "end": 38627
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year",
+      "start": 38881,
+      "end": 38899
+    },
+    {
+      "type": "ORG",
+      "text": "PSL",
+      "start": 38918,
+      "end": 38921
+    },
+    {
+      "type": "DATE",
+      "text": "Table 1) \n\nQuarter",
+      "start": 38938,
+      "end": 38956
+    },
+    {
+      "type": "DATE",
+      "text": "March",
+      "start": 38992,
+      "end": 38997
+    },
+    {
+      "type": "DATE",
+      "text": "329615 \n308826 \n317694 \n324560",
+      "start": 39030,
+      "end": 39060
+    },
+    {
+      "type": "DATE",
+      "text": "1280698",
+      "start": 39062,
+      "end": 39069
+    },
+    {
+      "type": "DATE",
+      "text": "316938",
+      "start": 39119,
+      "end": 39125
+    },
+    {
+      "type": "DATE",
+      "text": "317380",
+      "start": 39160,
+      "end": 39166
+    },
+    {
+      "type": "DATE",
+      "text": "March",
+      "start": 39224,
+      "end": 39229
+    },
+    {
+      "type": "DATE",
+      "text": "329615 \n308826 \n317694 \n324560",
+      "start": 39262,
+      "end": 39292
+    },
+    {
+      "type": "DATE",
+      "text": "1280698",
+      "start": 39294,
+      "end": 39301
+    },
+    {
+      "type": "DATE",
+      "text": "327967",
+      "start": 39351,
+      "end": 39357
+    },
+    {
+      "type": "DATE",
+      "text": "327225",
+      "start": 39367,
+      "end": 39373
+    },
+    {
+      "type": "DATE",
+      "text": "3119",
+      "start": 39449,
+      "end": 39453
+    },
+    {
+      "type": "DATE",
+      "text": "1596",
+      "start": 39455,
+      "end": 39459
+    },
+    {
+      "type": "DATE",
+      "text": "9530",
+      "start": 39537,
+      "end": 39541
+    },
+    {
+      "type": "DATE",
+      "text": "2047",
+      "start": 39556,
+      "end": 39560
+    },
+    {
+      "type": "ORG",
+      "text": "Table",
+      "start": 39587,
+      "end": 39592
+    },
+    {
+      "type": "MONEY",
+      "text": "2793",
+      "start": 39634,
+      "end": 39638
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year",
+      "start": 39660,
+      "end": 39678
+    },
+    {
+      "type": "MONEY",
+      "text": "20",
+      "start": 39727,
+      "end": 39729
+    },
+    {
+      "type": "DATE",
+      "text": "quarterly",
+      "start": 39844,
+      "end": 39853
+    },
+    {
+      "type": "ORG",
+      "text": "Credit Equivalent Amount of Off-Balance Sheet Exposures",
+      "start": 40000,
+      "end": 40055
+    },
+    {
+      "type": "DATE",
+      "text": "the preceding year",
+      "start": 40111,
+      "end": 40129
+    }
+  ],
+  "keywords": [],
+  "checksum": "cd7189768362d0cd77ded257041e844cec7694bd82df9f39dcf01a6d90795884",
+  "notes": ""
+}

@@ -1,0 +1,364 @@
+{
+  "doc_id": "SEBI Circular (1)",
+  "file_name": "SEBI Circular (1).pdf",
+  "source_url": "",
+  "doc_type": "regulatory_circular",
+  "publish_date": "",
+  "jurisdiction": "India",
+  "issuer": "SEBI",
+  "text_path": "data/text/SEBI Circular (1).txt",
+  "tables": [],
+  "entities": [
+    {
+      "type": "DATE",
+      "text": "September 09, 2025 \n\n",
+      "start": 92,
+      "end": 113
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 232,
+      "end": 235
+    },
+    {
+      "type": "DATE",
+      "text": "2012",
+      "start": 302,
+      "end": 306
+    },
+    {
+      "type": "ORG",
+      "text": "Exchange  Board",
+      "start": 440,
+      "end": 455
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 461,
+      "end": 466
+    },
+    {
+      "type": "DATE",
+      "text": "2012",
+      "start": 516,
+      "end": 520
+    },
+    {
+      "type": "DATE",
+      "text": "September  09",
+      "start": 585,
+      "end": 598
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 601,
+      "end": 605
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 797,
+      "end": 800
+    },
+    {
+      "type": "PERSON",
+      "text": "Portfolio  Managers",
+      "start": 945,
+      "end": 964
+    },
+    {
+      "type": "ORG",
+      "text": "Portfolio  Managers",
+      "start": 980,
+      "end": 999
+    },
+    {
+      "type": "DATE",
+      "text": "2020",
+      "start": 1016,
+      "end": 1020
+    },
+    {
+      "type": "ORG",
+      "text": "PMS",
+      "start": 1024,
+      "end": 1027
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 1104,
+      "end": 1107
+    },
+    {
+      "type": "ORG",
+      "text": "CIV",
+      "start": 1148,
+      "end": 1151
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 1297,
+      "end": 1302
+    },
+    {
+      "type": "ORG",
+      "text": "PMS",
+      "start": 1534,
+      "end": 1537
+    },
+    {
+      "type": "ORG",
+      "text": "CIV",
+      "start": 1547,
+      "end": 1550
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 1625,
+      "end": 1628
+    },
+    {
+      "type": "ORG",
+      "text": "CIV",
+      "start": 1882,
+      "end": 1885
+    },
+    {
+      "type": "ORG",
+      "text": "CIV",
+      "start": 1977,
+      "end": 1980
+    },
+    {
+      "type": "ORG",
+      "text": "CIV",
+      "start": 2132,
+      "end": 2135
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 2311,
+      "end": 2314
+    },
+    {
+      "type": "ORG",
+      "text": "CIV",
+      "start": 2334,
+      "end": 2337
+    },
+    {
+      "type": "ORG",
+      "text": "CIV",
+      "start": 2572,
+      "end": 2575
+    },
+    {
+      "type": "ORG",
+      "text": "Bilateral Development Financial Institutions",
+      "start": 2611,
+      "end": 2655
+    },
+    {
+      "type": "ORG",
+      "text": "State Industrial Development Corporations",
+      "start": 2666,
+      "end": 2707
+    },
+    {
+      "type": "ORG",
+      "text": "the Central Government",
+      "start": 2765,
+      "end": 2787
+    },
+    {
+      "type": "ORG",
+      "text": "State  Government",
+      "start": 2796,
+      "end": 2813
+    },
+    {
+      "type": "ORG",
+      "text": "Central Banks",
+      "start": 2872,
+      "end": 2885
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 2961,
+      "end": 2964
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 3096,
+      "end": 3099
+    },
+    {
+      "type": "ORG",
+      "text": "CIV",
+      "start": 3235,
+      "end": 3238
+    },
+    {
+      "type": "ORG",
+      "text": "CIV Scheme",
+      "start": 3676,
+      "end": 3686
+    },
+    {
+      "type": "ORG",
+      "text": "CIV",
+      "start": 3799,
+      "end": 3802
+    },
+    {
+      "type": "ORG",
+      "text": "CIV",
+      "start": 3863,
+      "end": 3866
+    },
+    {
+      "type": "ORG",
+      "text": "CIV",
+      "start": 3980,
+      "end": 3983
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 4130,
+      "end": 4133
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 4184,
+      "end": 4187
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 4296,
+      "end": 4299
+    },
+    {
+      "type": "ORG",
+      "text": "CIV",
+      "start": 4304,
+      "end": 4307
+    },
+    {
+      "type": "ORG",
+      "text": "Standard Setting Forum",
+      "start": 4439,
+      "end": 4461
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 4465,
+      "end": 4468
+    },
+    {
+      "type": "ORG",
+      "text": "CIV",
+      "start": 4533,
+      "end": 4536
+    },
+    {
+      "type": "ORG",
+      "text": "SFA",
+      "start": 4711,
+      "end": 4714
+    },
+    {
+      "type": "ORG",
+      "text": "Key  Management  Personnel",
+      "start": 4806,
+      "end": 4832
+    },
+    {
+      "type": "ORG",
+      "text": "Alternate  Capital  Association",
+      "start": 5092,
+      "end": 5123
+    },
+    {
+      "type": "ORG",
+      "text": "IVCA",
+      "start": 5126,
+      "end": 5130
+    },
+    {
+      "type": "ORG",
+      "text": "PE",
+      "start": 5134,
+      "end": 5136
+    },
+    {
+      "type": "ORG",
+      "text": "Trustee Association of India",
+      "start": 5163,
+      "end": 5191
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 5219,
+      "end": 5222
+    },
+    {
+      "type": "PERSON",
+      "text": "Circular",
+      "start": 5349,
+      "end": 5357
+    },
+    {
+      "type": "ORG",
+      "text": "the \nSecurities and Exchange Board of India Act",
+      "start": 5656,
+      "end": 5703
+    },
+    {
+      "type": "DATE",
+      "text": "1992",
+      "start": 5705,
+      "end": 5709
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 5753,
+      "end": 5756
+    },
+    {
+      "type": "PERSON",
+      "text": "www.sebi.gov.in",
+      "start": 5968,
+      "end": 5983
+    },
+    {
+      "type": "PERSON",
+      "text": "Aparna Thyagarajan",
+      "start": 6108,
+      "end": 6126
+    },
+    {
+      "type": "PERSON",
+      "text": "Tel",
+      "start": 6151,
+      "end": 6154
+    }
+  ],
+  "keywords": [],
+  "checksum": "cc37cce1d6d432e8d11e93c9998dd8bd046ede17c77049a16015030237ff0eab",
+  "notes": ""
+}

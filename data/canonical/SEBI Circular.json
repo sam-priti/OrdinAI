@@ -1,0 +1,706 @@
+{
+  "doc_id": "SEBI Circular",
+  "file_name": "SEBI Circular.pdf",
+  "source_url": "",
+  "doc_type": "regulatory_circular",
+  "publish_date": "",
+  "jurisdiction": "India",
+  "issuer": "SEBI",
+  "text_path": "data/text/SEBI Circular.txt",
+  "tables": [],
+  "entities": [
+    {
+      "type": "DATE",
+      "text": "September 10, 2025 \n\n",
+      "start": 91,
+      "end": 112
+    },
+    {
+      "type": "ORG",
+      "text": "Angel Funds",
+      "start": 224,
+      "end": 235
+    },
+    {
+      "type": "ORG",
+      "text": "Angel  Funds",
+      "start": 399,
+      "end": 411
+    },
+    {
+      "type": "ORG",
+      "text": "Exchange  Board",
+      "start": 431,
+      "end": 446
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 452,
+      "end": 457
+    },
+    {
+      "type": "DATE",
+      "text": "2012",
+      "start": 507,
+      "end": 511
+    },
+    {
+      "type": "DATE",
+      "text": "September  09",
+      "start": 575,
+      "end": 588
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 591,
+      "end": 595
+    },
+    {
+      "type": "ORG",
+      "text": "Angel Funds",
+      "start": 653,
+      "end": 664
+    },
+    {
+      "type": "ORG",
+      "text": "Angel \nFunds",
+      "start": 814,
+      "end": 826
+    },
+    {
+      "type": "PERSON",
+      "text": "Angel Funds",
+      "start": 902,
+      "end": 913
+    },
+    {
+      "type": "ORG",
+      "text": "AIF Regulations",
+      "start": 952,
+      "end": 967
+    },
+    {
+      "type": "PERSON",
+      "text": "Angel Funds",
+      "start": 969,
+      "end": 980
+    },
+    {
+      "type": "ORG",
+      "text": "Accredited Investors",
+      "start": 1010,
+      "end": 1030
+    },
+    {
+      "type": "PERSON",
+      "text": "Angel  Funds",
+      "start": 1173,
+      "end": 1185
+    },
+    {
+      "type": "ORG",
+      "text": "Accredited Investors",
+      "start": 1326,
+      "end": 1346
+    },
+    {
+      "type": "PERSON",
+      "text": "Angel Funds",
+      "start": 1363,
+      "end": 1374
+    },
+    {
+      "type": "ORG",
+      "text": "Angel  Funds",
+      "start": 1497,
+      "end": 1509
+    },
+    {
+      "type": "DATE",
+      "text": "September  08",
+      "start": 1570,
+      "end": 1583
+    },
+    {
+      "type": "DATE",
+      "text": "2026",
+      "start": 1586,
+      "end": 1590
+    },
+    {
+      "type": "ORG",
+      "text": "Angel  Funds",
+      "start": 1717,
+      "end": 1729
+    },
+    {
+      "type": "ORG",
+      "text": "non-Accredited Investors",
+      "start": 1814,
+      "end": 1838
+    },
+    {
+      "type": "DATE",
+      "text": "September 08, 2026",
+      "start": 1845,
+      "end": 1863
+    },
+    {
+      "type": "ORG",
+      "text": "Angel  Fund",
+      "start": 1979,
+      "end": 1990
+    },
+    {
+      "type": "ORG",
+      "text": "Private  Placement \nMemorandum",
+      "start": 2022,
+      "end": 2052
+    },
+    {
+      "type": "ORG",
+      "text": "PPM",
+      "start": 2054,
+      "end": 2057
+    },
+    {
+      "type": "ORG",
+      "text": "the Angel Fund",
+      "start": 2084,
+      "end": 2098
+    },
+    {
+      "type": "ORG",
+      "text": "Angel Funds",
+      "start": 2121,
+      "end": 2132
+    },
+    {
+      "type": "ORG",
+      "text": "AIF Regulations",
+      "start": 2508,
+      "end": 2523
+    },
+    {
+      "type": "ORG",
+      "text": "AIF Regulations",
+      "start": 2566,
+      "end": 2581
+    },
+    {
+      "type": "ORG",
+      "text": "Angel Fund",
+      "start": 2586,
+      "end": 2596
+    },
+    {
+      "type": "ORG",
+      "text": "Accredited  Investors",
+      "start": 2628,
+      "end": 2649
+    },
+    {
+      "type": "ORG",
+      "text": "Angel Fund",
+      "start": 2832,
+      "end": 2842
+    },
+    {
+      "type": "DATE",
+      "text": "later than 12 months",
+      "start": 2865,
+      "end": 2885
+    },
+    {
+      "type": "ORG",
+      "text": "the Angel Fund",
+      "start": 2946,
+      "end": 2960
+    },
+    {
+      "type": "DATE",
+      "text": "September 08, 2026",
+      "start": 3083,
+      "end": 3101
+    },
+    {
+      "type": "ORG",
+      "text": "AIF Regulations",
+      "start": 3287,
+      "end": 3302
+    },
+    {
+      "type": "PERSON",
+      "text": "Angel Funds",
+      "start": 3363,
+      "end": 3374
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 3416,
+      "end": 3419
+    },
+    {
+      "type": "ORG",
+      "text": "Angel  Fund",
+      "start": 3439,
+      "end": 3450
+    },
+    {
+      "type": "PERSON",
+      "text": "Angel Funds",
+      "start": 3678,
+      "end": 3689
+    },
+    {
+      "type": "ORG",
+      "text": "AIF Regulations",
+      "start": 3790,
+      "end": 3805
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 3848,
+      "end": 3851
+    },
+    {
+      "type": "ORG",
+      "text": "Angel  Fund",
+      "start": 3886,
+      "end": 3897
+    },
+    {
+      "type": "PERSON",
+      "text": "Angel  Funds",
+      "start": 4087,
+      "end": 4099
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 4344,
+      "end": 4347
+    },
+    {
+      "type": "PERSON",
+      "text": "Angel  Funds",
+      "start": 4363,
+      "end": 4375
+    },
+    {
+      "type": "ORG",
+      "text": "the Angel Fund",
+      "start": 4762,
+      "end": 4776
+    },
+    {
+      "type": "ORG",
+      "text": "an Angel Fund",
+      "start": 4913,
+      "end": 4926
+    },
+    {
+      "type": "PERSON",
+      "text": "Angel  Funds",
+      "start": 5030,
+      "end": 5042
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 5556,
+      "end": 5559
+    },
+    {
+      "type": "ORG",
+      "text": "Angel  Fund",
+      "start": 5595,
+      "end": 5606
+    },
+    {
+      "type": "ORG",
+      "text": "Angel  Fund",
+      "start": 5773,
+      "end": 5784
+    },
+    {
+      "type": "DATE",
+      "text": "one year",
+      "start": 5853,
+      "end": 5861
+    },
+    {
+      "type": "DATE",
+      "text": "six  months",
+      "start": 5940,
+      "end": 5951
+    },
+    {
+      "type": "ORG",
+      "text": "Angel  Fund",
+      "start": 5995,
+      "end": 6006
+    },
+    {
+      "type": "ORG",
+      "text": "Articles of Association",
+      "start": 6201,
+      "end": 6224
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 6298,
+      "end": 6301
+    },
+    {
+      "type": "PERSON",
+      "text": "Angel  Funds",
+      "start": 6317,
+      "end": 6329
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 6403,
+      "end": 6408
+    },
+    {
+      "type": "ORG",
+      "text": "the Reserve Bank of India",
+      "start": 6492,
+      "end": 6517
+    },
+    {
+      "type": "PERSON",
+      "text": "Circular",
+      "start": 6698,
+      "end": 6706
+    },
+    {
+      "type": "DATE",
+      "text": "May 07, 2024",
+      "start": 6713,
+      "end": 6725
+    },
+    {
+      "type": "ORG",
+      "text": "the Angel Fund",
+      "start": 6829,
+      "end": 6843
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 6992,
+      "end": 6995
+    },
+    {
+      "type": "PERSON",
+      "text": "Angel Funds",
+      "start": 7048,
+      "end": 7059
+    },
+    {
+      "type": "PERSON",
+      "text": "C.  Offering",
+      "start": 7066,
+      "end": 7078
+    },
+    {
+      "type": "PERSON",
+      "text": "Angel Funds -  \n\n",
+      "start": 7125,
+      "end": 7142
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 7185,
+      "end": 7188
+    },
+    {
+      "type": "ORG",
+      "text": "the Angel Fund",
+      "start": 7272,
+      "end": 7286
+    },
+    {
+      "type": "ORG",
+      "text": "Angel  Fund",
+      "start": 7531,
+      "end": 7542
+    },
+    {
+      "type": "ORG",
+      "text": "PPM",
+      "start": 7721,
+      "end": 7724
+    },
+    {
+      "type": "PERSON",
+      "text": "Existing Angel",
+      "start": 7863,
+      "end": 7877
+    },
+    {
+      "type": "ORG",
+      "text": "Angel  Funds",
+      "start": 7984,
+      "end": 7996
+    },
+    {
+      "type": "DATE",
+      "text": "October  15",
+      "start": 8004,
+      "end": 8015
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 8018,
+      "end": 8022
+    },
+    {
+      "type": "ORG",
+      "text": "PPM",
+      "start": 8089,
+      "end": 8092
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 8141,
+      "end": 8144
+    },
+    {
+      "type": "ORG",
+      "text": "Angel  Fund",
+      "start": 8184,
+      "end": 8195
+    },
+    {
+      "type": "ORG",
+      "text": "the Angel Fund",
+      "start": 8236,
+      "end": 8250
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 8402,
+      "end": 8407
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 8749,
+      "end": 8752
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 8808,
+      "end": 8811
+    },
+    {
+      "type": "PERSON",
+      "text": "Angel  Funds",
+      "start": 8996,
+      "end": 9008
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 9067,
+      "end": 9070
+    },
+    {
+      "type": "ORG",
+      "text": "Venture Capital Funds",
+      "start": 9143,
+      "end": 9164
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 9206,
+      "end": 9212
+    },
+    {
+      "type": "ORG",
+      "text": "PPM",
+      "start": 9247,
+      "end": 9250
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 9303,
+      "end": 9306
+    },
+    {
+      "type": "ORG",
+      "text": "Angel \nFunds",
+      "start": 9354,
+      "end": 9366
+    },
+    {
+      "type": "PERSON",
+      "text": "para 2.4.4",
+      "start": 9449,
+      "end": 9459
+    },
+    {
+      "type": "ORG",
+      "text": "AIF Master Circular",
+      "start": 9463,
+      "end": 9482
+    },
+    {
+      "type": "PERSON",
+      "text": "Angel Funds",
+      "start": 9523,
+      "end": 9534
+    },
+    {
+      "type": "ORG",
+      "text": "AIF Master Circular",
+      "start": 9758,
+      "end": 9777
+    },
+    {
+      "type": "ORG",
+      "text": "PPM",
+      "start": 9787,
+      "end": 9790
+    },
+    {
+      "type": "ORG",
+      "text": "the Angel Fund",
+      "start": 9893,
+      "end": 9907
+    },
+    {
+      "type": "ORG",
+      "text": "AIF Master Circular",
+      "start": 10077,
+      "end": 10096
+    },
+    {
+      "type": "ORG",
+      "text": "PPM",
+      "start": 10158,
+      "end": 10161
+    },
+    {
+      "type": "PERSON",
+      "text": "para  ",
+      "start": 10185,
+      "end": 10191
+    },
+    {
+      "type": "PERSON",
+      "text": "Angel Funds",
+      "start": 10306,
+      "end": 10317
+    },
+    {
+      "type": "ORG",
+      "text": "Financial Year 2025-26",
+      "start": 10323,
+      "end": 10345
+    },
+    {
+      "type": "ORG",
+      "text": "Angel  Funds",
+      "start": 10432,
+      "end": 10444
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 10453,
+      "end": 10456
+    },
+    {
+      "type": "ORG",
+      "text": "the Angel \nFund",
+      "start": 10623,
+      "end": 10638
+    },
+    {
+      "type": "DATE",
+      "text": "October  08",
+      "start": 10755,
+      "end": 10766
+    },
+    {
+      "type": "DATE",
+      "text": "2024",
+      "start": 10769,
+      "end": 10773
+    },
+    {
+      "type": "PERSON",
+      "text": "para  ",
+      "start": 10905,
+      "end": 10911
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 11182,
+      "end": 11185
+    },
+    {
+      "type": "ORG",
+      "text": "AIF Master Circular",
+      "start": 11305,
+      "end": 11324
+    },
+    {
+      "type": "ORG",
+      "text": "the \nSecurities and Exchange Board of India Act",
+      "start": 11630,
+      "end": 11677
+    },
+    {
+      "type": "DATE",
+      "text": "1992",
+      "start": 11679,
+      "end": 11683
+    },
+    {
+      "type": "ORG",
+      "text": "AIF",
+      "start": 11754,
+      "end": 11757
+    },
+    {
+      "type": "ORG",
+      "text": "www.sebi.gov.in",
+      "start": 11958,
+      "end": 11973
+    },
+    {
+      "type": "PERSON",
+      "text": "Aparna Thyagarajan",
+      "start": 12096,
+      "end": 12114
+    },
+    {
+      "type": "PERSON",
+      "text": "Tel",
+      "start": 12139,
+      "end": 12142
+    }
+  ],
+  "keywords": [],
+  "checksum": "6fd923f549fc54d02e498278f770911bc779fc4435b040782b3c5080ba4281db",
+  "notes": ""
+}

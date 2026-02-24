@@ -1,0 +1,184 @@
+{
+  "doc_id": "SEBI Investment Transmission",
+  "file_name": "SEBI Investment Transmission.pdf",
+  "source_url": "",
+  "doc_type": "regulatory_circular",
+  "publish_date": "",
+  "jurisdiction": "India",
+  "issuer": "SEBI",
+  "text_path": "data/text/SEBI Investment Transmission.txt",
+  "tables": [],
+  "entities": [
+    {
+      "type": "DATE",
+      "text": "September 19, 2025 \n\n",
+      "start": 72,
+      "end": 93
+    },
+    {
+      "type": "ORG",
+      "text": "The Listed Issuers \nThe Depositories \nThe Depository Participants",
+      "start": 159,
+      "end": 224
+    },
+    {
+      "type": "DATE",
+      "text": "1961",
+      "start": 943,
+      "end": 947
+    },
+    {
+      "type": "ORG",
+      "text": "Working Group",
+      "start": 1177,
+      "end": 1190
+    },
+    {
+      "type": "ORG",
+      "text": "Central  Board",
+      "start": 1257,
+      "end": 1271
+    },
+    {
+      "type": "ORG",
+      "text": "TLH",
+      "start": 1393,
+      "end": 1396
+    },
+    {
+      "type": "ORG",
+      "text": "Transmission to Legal Heirs",
+      "start": 1404,
+      "end": 1431
+    },
+    {
+      "type": "ORG",
+      "text": "CBDT",
+      "start": 1477,
+      "end": 1481
+    },
+    {
+      "type": "ORG",
+      "text": "TLH",
+      "start": 1742,
+      "end": 1745
+    },
+    {
+      "type": "ORG",
+      "text": "CBDT",
+      "start": 1883,
+      "end": 1887
+    },
+    {
+      "type": "DATE",
+      "text": "1961",
+      "start": 1966,
+      "end": 1970
+    },
+    {
+      "type": "DATE",
+      "text": "2015",
+      "start": 2191,
+      "end": 2195
+    },
+    {
+      "type": "DATE",
+      "text": "June 23, 2025",
+      "start": 2277,
+      "end": 2290
+    },
+    {
+      "type": "ORG",
+      "text": "Listed Issuers",
+      "start": 2337,
+      "end": 2351
+    },
+    {
+      "type": "ORG",
+      "text": "Depositories",
+      "start": 2353,
+      "end": 2365
+    },
+    {
+      "type": "DATE",
+      "text": "January 01, 2026",
+      "start": 2523,
+      "end": 2539
+    },
+    {
+      "type": "ORG",
+      "text": "the Securities and Exchange Board",
+      "start": 2654,
+      "end": 2687
+    },
+    {
+      "type": "DATE",
+      "text": "1992",
+      "start": 2702,
+      "end": 2706
+    },
+    {
+      "type": "DATE",
+      "text": "1996",
+      "start": 2760,
+      "end": 2764
+    },
+    {
+      "type": "ORG",
+      "text": "Regulation",
+      "start": 2793,
+      "end": 2803
+    },
+    {
+      "type": "ORG",
+      "text": "Securities and Exchange Board of India",
+      "start": 2813,
+      "end": 2851
+    },
+    {
+      "type": "ORG",
+      "text": "Disclosure \n\nRequirements",
+      "start": 2877,
+      "end": 2902
+    },
+    {
+      "type": "DATE",
+      "text": "2015",
+      "start": 2919,
+      "end": 2923
+    },
+    {
+      "type": "ORG",
+      "text": "Exchange  Board",
+      "start": 2947,
+      "end": 2962
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 2968,
+      "end": 2973
+    },
+    {
+      "type": "DATE",
+      "text": "1993",
+      "start": 3040,
+      "end": 3044
+    },
+    {
+      "type": "PERSON",
+      "text": "www.sebi.gov.in",
+      "start": 3244,
+      "end": 3259
+    },
+    {
+      "type": "PERSON",
+      "text": "Aradhana Verma",
+      "start": 3332,
+      "end": 3346
+    }
+  ],
+  "keywords": [],
+  "checksum": "2e8bd925ca8a02c45511572ab61700fb16704d43a03afe7bdac3e8a44fec6665",
+  "notes": ""
+}

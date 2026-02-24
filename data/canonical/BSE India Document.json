@@ -1,0 +1,10127 @@
+{
+  "doc_id": "BSE India Document",
+  "file_name": "BSE India Document.pdf",
+  "source_url": "",
+  "doc_type": "unknown",
+  "publish_date": "2025-08-27",
+  "jurisdiction": "India",
+  "issuer": "SEBI",
+  "text_path": "data/text/BSE India Document.txt",
+  "tables": [
+    "data/tables/BSE India Document_table_0.csv",
+    "data/tables/BSE India Document_table_1.csv",
+    "data/tables/BSE India Document_table_2.csv",
+    "data/tables/BSE India Document_table_3.csv",
+    "data/tables/BSE India Document_table_4.csv",
+    "data/tables/BSE India Document_table_5.csv",
+    "data/tables/BSE India Document_table_6.csv",
+    "data/tables/BSE India Document_table_7.csv",
+    "data/tables/BSE India Document_table_8.csv",
+    "data/tables/BSE India Document_table_9.csv",
+    "data/tables/BSE India Document_table_10.csv",
+    "data/tables/BSE India Document_table_11.csv",
+    "data/tables/BSE India Document_table_12.csv",
+    "data/tables/BSE India Document_table_13.csv",
+    "data/tables/BSE India Document_table_14.csv",
+    "data/tables/BSE India Document_table_15.csv",
+    "data/tables/BSE India Document_table_16.csv",
+    "data/tables/BSE India Document_table_17.csv",
+    "data/tables/BSE India Document_table_18.csv",
+    "data/tables/BSE India Document_table_19.csv",
+    "data/tables/BSE India Document_table_20.csv",
+    "data/tables/BSE India Document_table_21.csv",
+    "data/tables/BSE India Document_table_22.csv",
+    "data/tables/BSE India Document_table_23.csv",
+    "data/tables/BSE India Document_table_24.csv",
+    "data/tables/BSE India Document_table_25.csv",
+    "data/tables/BSE India Document_table_26.csv",
+    "data/tables/BSE India Document_table_27.csv",
+    "data/tables/BSE India Document_table_28.csv",
+    "data/tables/BSE India Document_table_29.csv"
+  ],
+  "entities": [
+    {
+      "type": "DATE",
+      "text": "27th August, 2025",
+      "start": 6,
+      "end": 23
+    },
+    {
+      "type": "ORG",
+      "text": "The Listing Department \nBombay Stock Exchange Limited \nPhirozee Jeejeebhoy",
+      "start": 30,
+      "end": 104
+    },
+    {
+      "type": "ORG",
+      "text": "25th Floor \nMumbai",
+      "start": 127,
+      "end": 145
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 200,
+      "end": 207
+    },
+    {
+      "type": "ORG",
+      "text": "Notice",
+      "start": 219,
+      "end": 225
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 245,
+      "end": 251
+    },
+    {
+      "type": "DATE",
+      "text": "543282",
+      "start": 284,
+      "end": 290
+    },
+    {
+      "type": "DATE",
+      "text": "2015",
+      "start": 423,
+      "end": 427
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 507,
+      "end": 514
+    },
+    {
+      "type": "ORG",
+      "text": "Notice of the 11th",
+      "start": 526,
+      "end": 544
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 545,
+      "end": 551
+    },
+    {
+      "type": "ORG",
+      "text": "AGM",
+      "start": 569,
+      "end": 572
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 581,
+      "end": 588
+    },
+    {
+      "type": "DATE",
+      "text": "Tuesday",
+      "start": 614,
+      "end": 621
+    },
+    {
+      "type": "DATE",
+      "text": "the 23rd September, 2025",
+      "start": 623,
+      "end": 647
+    },
+    {
+      "type": "PERSON",
+      "text": "Shiv Laxmi Plaza",
+      "start": 665,
+      "end": 681
+    },
+    {
+      "type": "GPE",
+      "text": "Opp",
+      "start": 683,
+      "end": 686
+    },
+    {
+      "type": "GPE",
+      "text": "Rajendra",
+      "start": 688,
+      "end": 696
+    },
+    {
+      "type": "GPE",
+      "text": "Bihar",
+      "start": 761,
+      "end": 766
+    },
+    {
+      "type": "ORG",
+      "text": "AGM",
+      "start": 809,
+      "end": 812
+    },
+    {
+      "type": "ORG",
+      "text": "Niks Technology Limited",
+      "start": 1010,
+      "end": 1033
+    },
+    {
+      "type": "ORG",
+      "text": "Dixit",
+      "start": 1043,
+      "end": 1048
+    },
+    {
+      "type": "PERSON",
+      "text": "Shiv Laxmi Plaza",
+      "start": 1139,
+      "end": 1155
+    },
+    {
+      "type": "GPE",
+      "text": "Opp",
+      "start": 1157,
+      "end": 1160
+    },
+    {
+      "type": "PERSON",
+      "text": "Rajendra Nagar",
+      "start": 1162,
+      "end": 1176
+    },
+    {
+      "type": "PERSON",
+      "text": "Kankarbagh Patna-800020",
+      "start": 1210,
+      "end": 1233
+    },
+    {
+      "type": "PERSON",
+      "text": "Bihar India",
+      "start": 1235,
+      "end": 1246
+    },
+    {
+      "type": "ORG",
+      "text": "CIN",
+      "start": 1248,
+      "end": 1251
+    },
+    {
+      "type": "ORG",
+      "text": "L80904BR2014PLC022439 \nOffice",
+      "start": 1253,
+      "end": 1282
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 1437,
+      "end": 1444
+    },
+    {
+      "type": "DATE",
+      "text": "ANNUAL",
+      "start": 1456,
+      "end": 1462
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 1533,
+      "end": 1540
+    },
+    {
+      "type": "PERSON",
+      "text": "DIRECTORS",
+      "start": 1604,
+      "end": 1613
+    },
+    {
+      "type": "ORG",
+      "text": "ANALYSIS",
+      "start": 1691,
+      "end": 1699
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 1781,
+      "end": 1788
+    },
+    {
+      "type": "ORG",
+      "text": "Board of Directors",
+      "start": 1876,
+      "end": 1894
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish Dixit",
+      "start": 1906,
+      "end": 1918
+    },
+    {
+      "type": "PERSON",
+      "text": "Kumar Singh",
+      "start": 1994,
+      "end": 2005
+    },
+    {
+      "type": "ORG",
+      "text": "Non-Executive Independent",
+      "start": 2007,
+      "end": 2032
+    },
+    {
+      "type": "ORG",
+      "text": "Keshav Das Sonakiya \nNon-Executive",
+      "start": 2044,
+      "end": 2078
+    },
+    {
+      "type": "GPE",
+      "text": "Pankaj",
+      "start": 2090,
+      "end": 2096
+    },
+    {
+      "type": "PERSON",
+      "text": "Kumar \nNon-Executive Independent",
+      "start": 2097,
+      "end": 2129
+    },
+    {
+      "type": "PERSON",
+      "text": "Kumar Singh",
+      "start": 2174,
+      "end": 2185
+    },
+    {
+      "type": "GPE",
+      "text": "Pankaj",
+      "start": 2199,
+      "end": 2205
+    },
+    {
+      "type": "PERSON",
+      "text": "Kumar \nNon-Executive Independent",
+      "start": 2206,
+      "end": 2238
+    },
+    {
+      "type": "ORG",
+      "text": "Dixit",
+      "start": 2257,
+      "end": 2262
+    },
+    {
+      "type": "ORG",
+      "text": "Stakeholders Relationship Committee",
+      "start": 2285,
+      "end": 2320
+    },
+    {
+      "type": "PERSON",
+      "text": "Kumar Singh",
+      "start": 2330,
+      "end": 2341
+    },
+    {
+      "type": "GPE",
+      "text": "Pankaj",
+      "start": 2354,
+      "end": 2360
+    },
+    {
+      "type": "ORG",
+      "text": "Non-Executive Independent",
+      "start": 2368,
+      "end": 2393
+    },
+    {
+      "type": "ORG",
+      "text": "Dixit",
+      "start": 2412,
+      "end": 2417
+    },
+    {
+      "type": "ORG",
+      "text": "Nomination & Remuneration Committee",
+      "start": 2440,
+      "end": 2475
+    },
+    {
+      "type": "GPE",
+      "text": "Pankaj",
+      "start": 2478,
+      "end": 2484
+    },
+    {
+      "type": "PERSON",
+      "text": "Kumar Singh",
+      "start": 2510,
+      "end": 2521
+    },
+    {
+      "type": "ORG",
+      "text": "Non-Executive Independent",
+      "start": 2523,
+      "end": 2548
+    },
+    {
+      "type": "ORG",
+      "text": "Keshav Das Sonakiya \nNon-Executive",
+      "start": 2560,
+      "end": 2594
+    },
+    {
+      "type": "ORG",
+      "text": "BSE",
+      "start": 2662,
+      "end": 2665
+    },
+    {
+      "type": "ORG",
+      "text": "BSE",
+      "start": 2689,
+      "end": 2692
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 2714,
+      "end": 2721
+    },
+    {
+      "type": "ORG",
+      "text": "Gupta Agarwal & \nAssociates",
+      "start": 2800,
+      "end": 2827
+    },
+    {
+      "type": "PERSON",
+      "text": "Gangadhar Babu Lane",
+      "start": 2858,
+      "end": 2877
+    },
+    {
+      "type": "ORG",
+      "text": "Kolkata-700012",
+      "start": 2900,
+      "end": 2914
+    },
+    {
+      "type": "DATE",
+      "text": "98310",
+      "start": 2941,
+      "end": 2946
+    },
+    {
+      "type": "DATE",
+      "text": "98364 32639",
+      "start": 2957,
+      "end": 2968
+    },
+    {
+      "type": "PERSON",
+      "text": "Anamika Anand",
+      "start": 3039,
+      "end": 3052
+    },
+    {
+      "type": "PERSON",
+      "text": "Ayushi Khaitan",
+      "start": 3149,
+      "end": 3163
+    },
+    {
+      "type": "DATE",
+      "text": "12.07.2024",
+      "start": 3175,
+      "end": 3185
+    },
+    {
+      "type": "PERSON",
+      "text": "Megha Vyas",
+      "start": 3193,
+      "end": 3203
+    },
+    {
+      "type": "DATE",
+      "text": "12.07.2024",
+      "start": 3218,
+      "end": 3228
+    },
+    {
+      "type": "ORG",
+      "text": "S.A. & Associates",
+      "start": 3270,
+      "end": 3287
+    },
+    {
+      "type": "ORG",
+      "text": "Registrar & Share Transfer Agents   \n\nBigshare Services Private Limited",
+      "start": 3290,
+      "end": 3361
+    },
+    {
+      "type": "ORG",
+      "text": "Pinnacle Business Park",
+      "start": 3391,
+      "end": 3413
+    },
+    {
+      "type": "ORG",
+      "text": "Ahura Centre",
+      "start": 3424,
+      "end": 3436
+    },
+    {
+      "type": "ORG",
+      "text": "Mahakali Caves Road",
+      "start": 3438,
+      "end": 3457
+    },
+    {
+      "type": "PERSON",
+      "text": "Andheri",
+      "start": 3460,
+      "end": 3467
+    },
+    {
+      "type": "GPE",
+      "text": "Mumbai",
+      "start": 3475,
+      "end": 3481
+    },
+    {
+      "type": "DATE",
+      "text": "400093",
+      "start": 3484,
+      "end": 3490
+    },
+    {
+      "type": "ORG",
+      "text": "https://www.bigshareonline.com/ \n\nRegistered Office of the Company    \n\nFlat  No",
+      "start": 3564,
+      "end": 3644
+    },
+    {
+      "type": "GPE",
+      "text": "Opp",
+      "start": 3674,
+      "end": 3677
+    },
+    {
+      "type": "PERSON",
+      "text": "Kankarbagh Patna-800020",
+      "start": 3733,
+      "end": 3756
+    },
+    {
+      "type": "GPE",
+      "text": "Bihar",
+      "start": 3758,
+      "end": 3763
+    },
+    {
+      "type": "ORG",
+      "text": "manish.27389@gmail.com",
+      "start": 3794,
+      "end": 3816
+    },
+    {
+      "type": "ORG",
+      "text": "CIN",
+      "start": 3847,
+      "end": 3850
+    },
+    {
+      "type": "ORG",
+      "text": "L80904BR2014PLC022439 \n\nISIN: INE0GX601011 \n\n",
+      "start": 3852,
+      "end": 3897
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 4029,
+      "end": 4036
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 4115,
+      "end": 4121
+    },
+    {
+      "type": "ORG",
+      "text": "Niks Technology \n\nLimited",
+      "start": 4156,
+      "end": 4181
+    },
+    {
+      "type": "PERSON",
+      "text": "Shiv Laxmi Plaza",
+      "start": 4212,
+      "end": 4228
+    },
+    {
+      "type": "GPE",
+      "text": "Opp",
+      "start": 4230,
+      "end": 4233
+    },
+    {
+      "type": "ORG",
+      "text": "Rajendra Nagar Terminal",
+      "start": 4235,
+      "end": 4258
+    },
+    {
+      "type": "GPE",
+      "text": "Bihar",
+      "start": 4309,
+      "end": 4314
+    },
+    {
+      "type": "DATE",
+      "text": "Tuesday, 23rd September 2025",
+      "start": 4318,
+      "end": 4346
+    },
+    {
+      "type": "ORG",
+      "text": "the Audited Financial Statements of the Company",
+      "start": 4448,
+      "end": 4495
+    },
+    {
+      "type": "DATE",
+      "text": "31st  March  2025",
+      "start": 4528,
+      "end": 4545
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board  of  Directors",
+      "start": 4582,
+      "end": 4607
+    },
+    {
+      "type": "ORG",
+      "text": "the \nBoard",
+      "start": 4611,
+      "end": 4621
+    },
+    {
+      "type": "PERSON",
+      "text": "Keshav Das",
+      "start": 4690,
+      "end": 4700
+    },
+    {
+      "type": "DATE",
+      "text": "08475784",
+      "start": 4716,
+      "end": 4724
+    },
+    {
+      "type": "ORG",
+      "text": "Chartered \n\nAccountant",
+      "start": 4887,
+      "end": 4909
+    },
+    {
+      "type": "ORG",
+      "text": "Statutory Auditors",
+      "start": 4914,
+      "end": 4932
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 5190,
+      "end": 5194
+    },
+    {
+      "type": "ORG",
+      "text": "Audit  & \nAuditors",
+      "start": 5236,
+      "end": 5254
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 5265,
+      "end": 5269
+    },
+    {
+      "type": "ORG",
+      "text": "the Audit Committee",
+      "start": 5376,
+      "end": 5395
+    },
+    {
+      "type": "ORG",
+      "text": "the Board of Directors",
+      "start": 5403,
+      "end": 5425
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay  Gupta  &  Associates  Chartered  Accountants",
+      "start": 5433,
+      "end": 5482
+    },
+    {
+      "type": "DATE",
+      "text": "329001E",
+      "start": 5492,
+      "end": 5499
+    },
+    {
+      "type": "ORG",
+      "text": "Statutory  Auditors",
+      "start": 5506,
+      "end": 5525
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 5645,
+      "end": 5649
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 5711,
+      "end": 5715
+    },
+    {
+      "type": "ORG",
+      "text": "Statutory  Auditors",
+      "start": 5758,
+      "end": 5777
+    },
+    {
+      "type": "DATE",
+      "text": "5 \nyears",
+      "start": 5825,
+      "end": 5833
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 5891,
+      "end": 5897
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 5955,
+      "end": 5961
+    },
+    {
+      "type": "ORG",
+      "text": "the Audit Committee",
+      "start": 6213,
+      "end": 6232
+    },
+    {
+      "type": "ORG",
+      "text": "the Board of Directors",
+      "start": 6259,
+      "end": 6281
+    },
+    {
+      "type": "ORG",
+      "text": "Committee",
+      "start": 6297,
+      "end": 6306
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish",
+      "start": 6513,
+      "end": 6519
+    },
+    {
+      "type": "PERSON",
+      "text": "Dixit",
+      "start": 6521,
+      "end": 6526
+    },
+    {
+      "type": "DATE",
+      "text": "06888132",
+      "start": 6535,
+      "end": 6543
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 6787,
+      "end": 6794
+    },
+    {
+      "type": "ORG",
+      "text": "Sections",
+      "start": 6853,
+      "end": 6861
+    },
+    {
+      "type": "PERSON",
+      "text": "Schedule",
+      "start": 6896,
+      "end": 6904
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 6986,
+      "end": 6990
+    },
+    {
+      "type": "ORG",
+      "text": "Managerial  Personnel",
+      "start": 7045,
+      "end": 7066
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 7077,
+      "end": 7081
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish",
+      "start": 7338,
+      "end": 7344
+    },
+    {
+      "type": "PERSON",
+      "text": "Dixit",
+      "start": 7346,
+      "end": 7351
+    },
+    {
+      "type": "DATE",
+      "text": "06888132",
+      "start": 7360,
+      "end": 7368
+    },
+    {
+      "type": "DATE",
+      "text": "five)  years",
+      "start": 7444,
+      "end": 7456
+    },
+    {
+      "type": "DATE",
+      "text": "December 16, 2025",
+      "start": 7476,
+      "end": 7493
+    },
+    {
+      "type": "ORG",
+      "text": "the Board of \nDirectors",
+      "start": 7788,
+      "end": 7811
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 8473,
+      "end": 8477
+    },
+    {
+      "type": "ORG",
+      "text": "Exchange  Board",
+      "start": 8688,
+      "end": 8703
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 8709,
+      "end": 8714
+    },
+    {
+      "type": "DATE",
+      "text": "2015",
+      "start": 8780,
+      "end": 8784
+    },
+    {
+      "type": "ORG",
+      "text": "Related  Party",
+      "start": 8839,
+      "end": 8853
+    },
+    {
+      "type": "ORG",
+      "text": "Related  Party",
+      "start": 8899,
+      "end": 8913
+    },
+    {
+      "type": "ORG",
+      "text": "the Audit Committee",
+      "start": 9070,
+      "end": 9089
+    },
+    {
+      "type": "DATE",
+      "text": "FY-2025-2026",
+      "start": 9661,
+      "end": 9673
+    },
+    {
+      "type": "DATE",
+      "text": "2025-2026",
+      "start": 10032,
+      "end": 10041
+    },
+    {
+      "type": "ORG",
+      "text": "the Board of \nDirectors and Audit Committee",
+      "start": 10199,
+      "end": 10242
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 10303,
+      "end": 10310
+    },
+    {
+      "type": "ORG",
+      "text": "Directors",
+      "start": 10351,
+      "end": 10360
+    },
+    {
+      "type": "PERSON",
+      "text": "Shiv Laxmi Plaza",
+      "start": 10657,
+      "end": 10673
+    },
+    {
+      "type": "GPE",
+      "text": "Bihar",
+      "start": 10757,
+      "end": 10762
+    },
+    {
+      "type": "ORG",
+      "text": "the Board of Directors",
+      "start": 10798,
+      "end": 10820
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish Dixit",
+      "start": 10858,
+      "end": 10870
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 11009,
+      "end": 11016
+    },
+    {
+      "type": "ORG",
+      "text": "ATTEND",
+      "start": 11061,
+      "end": 11067
+    },
+    {
+      "type": "ORG",
+      "text": "VOTE",
+      "start": 11074,
+      "end": 11078
+    },
+    {
+      "type": "ORG",
+      "text": "ATTEND",
+      "start": 11144,
+      "end": 11150
+    },
+    {
+      "type": "ORG",
+      "text": "the  Registered  Office",
+      "start": 11810,
+      "end": 11833
+    },
+    {
+      "type": "GPE",
+      "text": "Opp",
+      "start": 11894,
+      "end": 11897
+    },
+    {
+      "type": "GPE",
+      "text": "Rajendra",
+      "start": 11900,
+      "end": 11908
+    },
+    {
+      "type": "ORG",
+      "text": "Nagar  Terminal",
+      "start": 11910,
+      "end": 11925
+    },
+    {
+      "type": "PERSON",
+      "text": "Patna  -  ",
+      "start": 11967,
+      "end": 11977
+    },
+    {
+      "type": "DATE",
+      "text": "800020",
+      "start": 11977,
+      "end": 11983
+    },
+    {
+      "type": "GPE",
+      "text": "Bihar",
+      "start": 11986,
+      "end": 11991
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board  Resolution",
+      "start": 12439,
+      "end": 12461
+    },
+    {
+      "type": "ORG",
+      "text": "Exchange  Board",
+      "start": 12957,
+      "end": 12972
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 12978,
+      "end": 12983
+    },
+    {
+      "type": "DATE",
+      "text": "2015",
+      "start": 13049,
+      "end": 13053
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 13183,
+      "end": 13189
+    },
+    {
+      "type": "PERSON",
+      "text": "Explanatory Statement",
+      "start": 13235,
+      "end": 13256
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 13304,
+      "end": 13308
+    },
+    {
+      "type": "ORG",
+      "text": "The Register of Member",
+      "start": 13427,
+      "end": 13449
+    },
+    {
+      "type": "ORG",
+      "text": "Transfer Books",
+      "start": 13454,
+      "end": 13468
+    },
+    {
+      "type": "DATE",
+      "text": "Wednesday",
+      "start": 13493,
+      "end": 13502
+    },
+    {
+      "type": "DATE",
+      "text": "the 17th day",
+      "start": 13504,
+      "end": 13516
+    },
+    {
+      "type": "DATE",
+      "text": "September  2025",
+      "start": 13521,
+      "end": 13536
+    },
+    {
+      "type": "DATE",
+      "text": "Tuesday",
+      "start": 13542,
+      "end": 13549
+    },
+    {
+      "type": "DATE",
+      "text": "the  23rd  day",
+      "start": 13552,
+      "end": 13566
+    },
+    {
+      "type": "DATE",
+      "text": "September  2025",
+      "start": 13572,
+      "end": 13587
+    },
+    {
+      "type": "DATE",
+      "text": "days",
+      "start": 13596,
+      "end": 13600
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 13635,
+      "end": 13641
+    },
+    {
+      "type": "ORG",
+      "text": "the Register of Members/List",
+      "start": 13725,
+      "end": 13753
+    },
+    {
+      "type": "ORG",
+      "text": "Notice",
+      "start": 13828,
+      "end": 13834
+    },
+    {
+      "type": "ORG",
+      "text": "the Registered Office of the Company",
+      "start": 13916,
+      "end": 13952
+    },
+    {
+      "type": "DATE",
+      "text": "all working days",
+      "start": 13979,
+      "end": 13995
+    },
+    {
+      "type": "ORG",
+      "text": "AGM",
+      "start": 14019,
+      "end": 14022
+    },
+    {
+      "type": "ORG",
+      "text": "AGM",
+      "start": 14070,
+      "end": 14073
+    },
+    {
+      "type": "ORG",
+      "text": "AGM",
+      "start": 14102,
+      "end": 14105
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 14162,
+      "end": 14169
+    },
+    {
+      "type": "DATE",
+      "text": "12",
+      "start": 14176,
+      "end": 14178
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 14250,
+      "end": 14257
+    },
+    {
+      "type": "DATE",
+      "text": "7  days",
+      "start": 14312,
+      "end": 14319
+    },
+    {
+      "type": "ORG",
+      "text": "Bigshare",
+      "start": 14512,
+      "end": 14520
+    },
+    {
+      "type": "PERSON",
+      "text": "Share Transfer \nAgents",
+      "start": 14611,
+      "end": 14633
+    },
+    {
+      "type": "ORG",
+      "text": "Pinnacle  Business  Park",
+      "start": 14690,
+      "end": 14714
+    },
+    {
+      "type": "ORG",
+      "text": "Next",
+      "start": 14717,
+      "end": 14721
+    },
+    {
+      "type": "ORG",
+      "text": "Ahura \nCentre",
+      "start": 14727,
+      "end": 14740
+    },
+    {
+      "type": "ORG",
+      "text": "Andheri",
+      "start": 14763,
+      "end": 14770
+    },
+    {
+      "type": "GPE",
+      "text": "Mumbai",
+      "start": 14778,
+      "end": 14784
+    },
+    {
+      "type": "DATE",
+      "text": "400093",
+      "start": 14787,
+      "end": 14793
+    },
+    {
+      "type": "ORG",
+      "text": "Disclosure  Requirements",
+      "start": 14864,
+      "end": 14888
+    },
+    {
+      "type": "DATE",
+      "text": "2015",
+      "start": 14905,
+      "end": 14909
+    },
+    {
+      "type": "DATE",
+      "text": "01st April, 2019",
+      "start": 15019,
+      "end": 15035
+    },
+    {
+      "type": "ORG",
+      "text": "Registrar",
+      "start": 15432,
+      "end": 15441
+    },
+    {
+      "type": "PERSON",
+      "text": "Share Transfer",
+      "start": 15446,
+      "end": 15460
+    },
+    {
+      "type": "ORG",
+      "text": "Phone",
+      "start": 15542,
+      "end": 15547
+    },
+    {
+      "type": "PERSON",
+      "text": "Folio",
+      "start": 15770,
+      "end": 15775
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 16140,
+      "end": 16146
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 16351,
+      "end": 16358
+    },
+    {
+      "type": "DATE",
+      "text": "Tuesday, 16th September 2025",
+      "start": 16385,
+      "end": 16413
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 16525,
+      "end": 16531
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 16541,
+      "end": 16548
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 16664,
+      "end": 16670
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 16680,
+      "end": 16687
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 16736,
+      "end": 16743
+    },
+    {
+      "type": "ORG",
+      "text": "Notice",
+      "start": 16802,
+      "end": 16808
+    },
+    {
+      "type": "ORG",
+      "text": "AGM",
+      "start": 16814,
+      "end": 16817
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 16820,
+      "end": 16826
+    },
+    {
+      "type": "PERSON",
+      "text": "Attendance  Slip",
+      "start": 16841,
+      "end": 16857
+    },
+    {
+      "type": "ORG",
+      "text": "Notice",
+      "start": 17042,
+      "end": 17048
+    },
+    {
+      "type": "ORG",
+      "text": "AGM",
+      "start": 17054,
+      "end": 17057
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 17060,
+      "end": 17066
+    },
+    {
+      "type": "PERSON",
+      "text": "Attendance  Slip",
+      "start": 17081,
+      "end": 17097
+    },
+    {
+      "type": "PERSON",
+      "text": "Attendance  Slip",
+      "start": 17153,
+      "end": 17169
+    },
+    {
+      "type": "PERSON",
+      "text": "Attendance Slip",
+      "start": 17205,
+      "end": 17220
+    },
+    {
+      "type": "ORG",
+      "text": "AGM",
+      "start": 17263,
+      "end": 17266
+    },
+    {
+      "type": "ORG",
+      "text": "SME Platform of BSE Limited",
+      "start": 17540,
+      "end": 17567
+    },
+    {
+      "type": "ORG",
+      "text": "the Companies (Management and Administration)",
+      "start": 17609,
+      "end": 17654
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 17662,
+      "end": 17666
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 17787,
+      "end": 17794
+    },
+    {
+      "type": "DATE",
+      "text": "22",
+      "start": 17801,
+      "end": 17803
+    },
+    {
+      "type": "ORG",
+      "text": "AGM",
+      "start": 17839,
+      "end": 17842
+    },
+    {
+      "type": "ORG",
+      "text": "Notice of Annual",
+      "start": 17872,
+      "end": 17888
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 18049,
+      "end": 18056
+    },
+    {
+      "type": "DATE",
+      "text": "Tuesday, 16th September 2025",
+      "start": 18084,
+      "end": 18112
+    },
+    {
+      "type": "ORG",
+      "text": "Register of Members of",
+      "start": 18129,
+      "end": 18151
+    },
+    {
+      "type": "ORG",
+      "text": "Register",
+      "start": 18239,
+      "end": 18247
+    },
+    {
+      "type": "ORG",
+      "text": "Beneficial  Owners",
+      "start": 18289,
+      "end": 18307
+    },
+    {
+      "type": "ORG",
+      "text": "The  Board",
+      "start": 18461,
+      "end": 18471
+    },
+    {
+      "type": "ORG",
+      "text": "Ms.",
+      "start": 18504,
+      "end": 18507
+    },
+    {
+      "type": "ORG",
+      "text": "Shipra  Agarwal",
+      "start": 18509,
+      "end": 18524
+    },
+    {
+      "type": "ORG",
+      "text": "S.A.  &  Associates",
+      "start": 18543,
+      "end": 18562
+    },
+    {
+      "type": "ORG",
+      "text": "Practising  Company  Secretaries",
+      "start": 18566,
+      "end": 18598
+    },
+    {
+      "type": "PERSON",
+      "text": "Scrutinizer",
+      "start": 18610,
+      "end": 18621
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 18661,
+      "end": 18667
+    },
+    {
+      "type": "PERSON",
+      "text": "Meeting",
+      "start": 18747,
+      "end": 18754
+    },
+    {
+      "type": "PERSON",
+      "text": "Scrutinizer",
+      "start": 18895,
+      "end": 18906
+    },
+    {
+      "type": "PERSON",
+      "text": "Scrutinizer",
+      "start": 18990,
+      "end": 19001
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 19124,
+      "end": 19130
+    },
+    {
+      "type": "ORG",
+      "text": "BSE Limited",
+      "start": 19726,
+      "end": 19737
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 19763,
+      "end": 19770
+    },
+    {
+      "type": "PERSON",
+      "text": "Shiv Laxmi Plaza",
+      "start": 19819,
+      "end": 19835
+    },
+    {
+      "type": "GPE",
+      "text": "Bihar",
+      "start": 19919,
+      "end": 19924
+    },
+    {
+      "type": "ORG",
+      "text": "the Board of Directors",
+      "start": 19960,
+      "end": 19982
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish Dixit",
+      "start": 20020,
+      "end": 20032
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 20178,
+      "end": 20185
+    },
+    {
+      "type": "PERSON",
+      "text": "Item Nos",
+      "start": 20334,
+      "end": 20342
+    },
+    {
+      "type": "DATE",
+      "text": "4",
+      "start": 20347,
+      "end": 20348
+    },
+    {
+      "type": "DATE",
+      "text": "5",
+      "start": 20350,
+      "end": 20351
+    },
+    {
+      "type": "ORG",
+      "text": "Notice",
+      "start": 20384,
+      "end": 20390
+    },
+    {
+      "type": "ORG",
+      "text": "Statutory Auditors",
+      "start": 20508,
+      "end": 20526
+    },
+    {
+      "type": "ORG",
+      "text": "Chartered  Accountants",
+      "start": 20579,
+      "end": 20601
+    },
+    {
+      "type": "ORG",
+      "text": "Sections 139",
+      "start": 20836,
+      "end": 20848
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 20884,
+      "end": 20888
+    },
+    {
+      "type": "DATE",
+      "text": "1949",
+      "start": 21106,
+      "end": 21110
+    },
+    {
+      "type": "ORG",
+      "text": "The  Audit \nCommittee",
+      "start": 21165,
+      "end": 21186
+    },
+    {
+      "type": "ORG",
+      "text": "the Audit Committee",
+      "start": 21514,
+      "end": 21533
+    },
+    {
+      "type": "ORG",
+      "text": "the Board of Directors",
+      "start": 21538,
+      "end": 21560
+    },
+    {
+      "type": "ORG",
+      "text": "Chartered  Accountants",
+      "start": 21634,
+      "end": 21656
+    },
+    {
+      "type": "DATE",
+      "text": "329001E",
+      "start": 21686,
+      "end": 21693
+    },
+    {
+      "type": "ORG",
+      "text": "the Statutory Auditors",
+      "start": 21699,
+      "end": 21721
+    },
+    {
+      "type": "DATE",
+      "text": "five consecutive years",
+      "start": 21760,
+      "end": 21782
+    },
+    {
+      "type": "ORG",
+      "text": "AGM",
+      "start": 21891,
+      "end": 21894
+    },
+    {
+      "type": "ORG",
+      "text": "The  Board",
+      "start": 21915,
+      "end": 21925
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year 2025-26",
+      "start": 22064,
+      "end": 22090
+    },
+    {
+      "type": "ORG",
+      "text": "The  Board",
+      "start": 22313,
+      "end": 22323
+    },
+    {
+      "type": "ORG",
+      "text": "Audit  Committee",
+      "start": 22369,
+      "end": 22385
+    },
+    {
+      "type": "ORG",
+      "text": "the Statutory Auditors",
+      "start": 22542,
+      "end": 22564
+    },
+    {
+      "type": "ORG",
+      "text": "the \u2018Peer Review",
+      "start": 22581,
+      "end": 22597
+    },
+    {
+      "type": "ORG",
+      "text": "The  Board",
+      "start": 22636,
+      "end": 22646
+    },
+    {
+      "type": "ORG",
+      "text": "Notice",
+      "start": 22712,
+      "end": 22718
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish",
+      "start": 23202,
+      "end": 23208
+    },
+    {
+      "type": "PERSON",
+      "text": "Dixit",
+      "start": 23210,
+      "end": 23215
+    },
+    {
+      "type": "DATE",
+      "text": "06888132",
+      "start": 23224,
+      "end": 23232
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish Dixit",
+      "start": 23282,
+      "end": 23294
+    },
+    {
+      "type": "DATE",
+      "text": "five) \nyears",
+      "start": 23368,
+      "end": 23380
+    },
+    {
+      "type": "DATE",
+      "text": "December 16, 2020",
+      "start": 23398,
+      "end": 23415
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish Dixit",
+      "start": 23472,
+      "end": 23484
+    },
+    {
+      "type": "DATE",
+      "text": "December 15, 2025",
+      "start": 23504,
+      "end": 23521
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 23529,
+      "end": 23534
+    },
+    {
+      "type": "ORG",
+      "text": "Nomination & Remuneration Committee",
+      "start": 23566,
+      "end": 23601
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish",
+      "start": 23688,
+      "end": 23694
+    },
+    {
+      "type": "PERSON",
+      "text": "Dixit",
+      "start": 23696,
+      "end": 23701
+    },
+    {
+      "type": "DATE",
+      "text": "five)  years",
+      "start": 23760,
+      "end": 23772
+    },
+    {
+      "type": "DATE",
+      "text": "December \n2025",
+      "start": 23821,
+      "end": 23835
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 23887,
+      "end": 23894
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish Dixit",
+      "start": 23905,
+      "end": 23917
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish",
+      "start": 24096,
+      "end": 24102
+    },
+    {
+      "type": "PERSON",
+      "text": "Dixit",
+      "start": 24104,
+      "end": 24109
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish Dixit",
+      "start": 24283,
+      "end": 24295
+    },
+    {
+      "type": "ORG",
+      "text": "AGM",
+      "start": 24357,
+      "end": 24360
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 24448,
+      "end": 24453
+    },
+    {
+      "type": "ORG",
+      "text": "Nomination  &  Remuneration  Committee",
+      "start": 24459,
+      "end": 24497
+    },
+    {
+      "type": "ORG",
+      "text": "Board and Nomination & Remuneration Committee",
+      "start": 24573,
+      "end": 24618
+    },
+    {
+      "type": "PERSON",
+      "text": "Salary",
+      "start": 24726,
+      "end": 24732
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 24802,
+      "end": 24807
+    },
+    {
+      "type": "DATE",
+      "text": "any financial year",
+      "start": 25179,
+      "end": 25197
+    },
+    {
+      "type": "ORG",
+      "text": "Schedule V of the Act",
+      "start": 25373,
+      "end": 25394
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish",
+      "start": 25513,
+      "end": 25519
+    },
+    {
+      "type": "PERSON",
+      "text": "Dixit",
+      "start": 25521,
+      "end": 25526
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish Dixit",
+      "start": 25668,
+      "end": 25680
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 25933,
+      "end": 25938
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 26212,
+      "end": 26216
+    },
+    {
+      "type": "ORG",
+      "text": "Powers",
+      "start": 26294,
+      "end": 26300
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 26310,
+      "end": 26314
+    },
+    {
+      "type": "ORG",
+      "text": "The  Board  of  Directors",
+      "start": 26625,
+      "end": 26650
+    },
+    {
+      "type": "DATE",
+      "text": "August  27",
+      "start": 26702,
+      "end": 26712
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 26715,
+      "end": 26719
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 26781,
+      "end": 26788
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 26845,
+      "end": 26852
+    },
+    {
+      "type": "DATE",
+      "text": "Year  2025-2026",
+      "start": 27042,
+      "end": 27057
+    },
+    {
+      "type": "ORG",
+      "text": "Group  Companies",
+      "start": 27093,
+      "end": 27109
+    },
+    {
+      "type": "ORG",
+      "text": "Promoters/Directors",
+      "start": 27123,
+      "end": 27142
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 27281,
+      "end": 27288
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 27312,
+      "end": 27316
+    },
+    {
+      "type": "ORG",
+      "text": "Directors/Promoters/Shareholders",
+      "start": 27352,
+      "end": 27384
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 27458,
+      "end": 27464
+    },
+    {
+      "type": "ORG",
+      "text": "Consolidated  Turnover",
+      "start": 27466,
+      "end": 27488
+    },
+    {
+      "type": "DATE",
+      "text": "FY-2025-2026",
+      "start": 27740,
+      "end": 27752
+    },
+    {
+      "type": "ORG",
+      "text": "Related Party",
+      "start": 28087,
+      "end": 28100
+    },
+    {
+      "type": "GPE",
+      "text": "Prabha",
+      "start": 28246,
+      "end": 28252
+    },
+    {
+      "type": "DATE",
+      "text": "2025-2026",
+      "start": 28292,
+      "end": 28301
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish Dixit",
+      "start": 28593,
+      "end": 28605
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 28858,
+      "end": 28863
+    },
+    {
+      "type": "PERSON",
+      "text": "Shiv Laxmi Plaza",
+      "start": 28983,
+      "end": 28999
+    },
+    {
+      "type": "GPE",
+      "text": "Bihar",
+      "start": 29083,
+      "end": 29088
+    },
+    {
+      "type": "ORG",
+      "text": "the Board of Directors",
+      "start": 29124,
+      "end": 29146
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish Dixit",
+      "start": 29184,
+      "end": 29196
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 29385,
+      "end": 29392
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 29474,
+      "end": 29480
+    },
+    {
+      "type": "ORG",
+      "text": "Disclosure Requirements) Regulation",
+      "start": 29549,
+      "end": 29584
+    },
+    {
+      "type": "DATE",
+      "text": "2015",
+      "start": 29586,
+      "end": 29590
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish Dixit",
+      "start": 29667,
+      "end": 29679
+    },
+    {
+      "type": "DATE",
+      "text": "19/06/2014",
+      "start": 29703,
+      "end": 29713
+    },
+    {
+      "type": "PERSON",
+      "text": "Keshav Das",
+      "start": 29720,
+      "end": 29730
+    },
+    {
+      "type": "ORG",
+      "text": "Nationality \nDesignation \nQualification \n\nBrief Profile & Expertise",
+      "start": 29861,
+      "end": 29928
+    },
+    {
+      "type": "DATE",
+      "text": "the past three years",
+      "start": 30253,
+      "end": 30273
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 30316,
+      "end": 30324
+    },
+    {
+      "type": "DATE",
+      "text": "Year 2024-25",
+      "start": 30337,
+      "end": 30349
+    },
+    {
+      "type": "ORG",
+      "text": "Particulars \nCommittee",
+      "start": 30518,
+      "end": 30540
+    },
+    {
+      "type": "ORG",
+      "text": "Chairmanship/Membership",
+      "start": 30546,
+      "end": 30569
+    },
+    {
+      "type": "ORG",
+      "text": "Director(s",
+      "start": 30670,
+      "end": 30680
+    },
+    {
+      "type": "ORG",
+      "text": "Committees of Board of Directors",
+      "start": 30775,
+      "end": 30807
+    },
+    {
+      "type": "ORG",
+      "text": "CEH",
+      "start": 30893,
+      "end": 30896
+    },
+    {
+      "type": "ORG",
+      "text": "RHCE",
+      "start": 30911,
+      "end": 30915
+    },
+    {
+      "type": "DATE",
+      "text": "14  years  of  experience",
+      "start": 30929,
+      "end": 30954
+    },
+    {
+      "type": "ORG",
+      "text": "Digital  Marketing",
+      "start": 30956,
+      "end": 30974
+    },
+    {
+      "type": "ORG",
+      "text": "Software",
+      "start": 30977,
+      "end": 30985
+    },
+    {
+      "type": "DATE",
+      "text": "32 years",
+      "start": 31112,
+      "end": 31120
+    },
+    {
+      "type": "GPE",
+      "text": "Legal",
+      "start": 31152,
+      "end": 31157
+    },
+    {
+      "type": "ORG",
+      "text": "Non-Executive",
+      "start": 31161,
+      "end": 31174
+    },
+    {
+      "type": "GPE",
+      "text": "Eternel",
+      "start": 31309,
+      "end": 31316
+    },
+    {
+      "type": "ORG",
+      "text": "Green  Energy \n\nPrivate Limited  \n\n",
+      "start": 31318,
+      "end": 31353
+    },
+    {
+      "type": "PERSON",
+      "text": "Ved  Prabha  Aerospace",
+      "start": 31357,
+      "end": 31379
+    },
+    {
+      "type": "GPE",
+      "text": "Safetynet",
+      "start": 31386,
+      "end": 31395
+    },
+    {
+      "type": "ORG",
+      "text": "Labour  Services  Private \nLimited \n\nPrivate Limited \n\nNil \n\nNil",
+      "start": 31412,
+      "end": 31476
+    },
+    {
+      "type": "ORG",
+      "text": "Sitting \nBoard",
+      "start": 31531,
+      "end": 31545
+    },
+    {
+      "type": "ORG",
+      "text": "Committee  Meetings",
+      "start": 31552,
+      "end": 31571
+    },
+    {
+      "type": "ORG",
+      "text": "Audit Committee",
+      "start": 31622,
+      "end": 31637
+    },
+    {
+      "type": "ORG",
+      "text": "Stakeholder \nCommittee \n\nRelationship",
+      "start": 31639,
+      "end": 31676
+    },
+    {
+      "type": "ORG",
+      "text": "Nomination  Remuneration \nCommittee",
+      "start": 31687,
+      "end": 31722
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 31757,
+      "end": 31764
+    },
+    {
+      "type": "ORG",
+      "text": "CIN",
+      "start": 31796,
+      "end": 31799
+    },
+    {
+      "type": "PERSON",
+      "text": "L80904BR2014PLC022439 \nRegd Office",
+      "start": 31801,
+      "end": 31835
+    },
+    {
+      "type": "PERSON",
+      "text": "Shiv Laxmi Plaza",
+      "start": 31851,
+      "end": 31867
+    },
+    {
+      "type": "GPE",
+      "text": "Opp",
+      "start": 31869,
+      "end": 31872
+    },
+    {
+      "type": "ORG",
+      "text": "Rajendra Nagar Terminal",
+      "start": 31874,
+      "end": 31897
+    },
+    {
+      "type": "GPE",
+      "text": "Patna",
+      "start": 31935,
+      "end": 31940
+    },
+    {
+      "type": "DATE",
+      "text": "800020",
+      "start": 31943,
+      "end": 31949
+    },
+    {
+      "type": "GPE",
+      "text": "Bihar",
+      "start": 31951,
+      "end": 31956
+    },
+    {
+      "type": "DATE",
+      "text": "99551 11150",
+      "start": 32042,
+      "end": 32053
+    },
+    {
+      "type": "PERSON",
+      "text": "Attendance Slip",
+      "start": 32060,
+      "end": 32075
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 32117,
+      "end": 32123
+    },
+    {
+      "type": "DATE",
+      "text": "Tuesday 23rd September 2025",
+      "start": 32143,
+      "end": 32170
+    },
+    {
+      "type": "ORG",
+      "text": "IST",
+      "start": 32186,
+      "end": 32189
+    },
+    {
+      "type": "PERSON",
+      "text": "Shiv Laxmi Plaza",
+      "start": 32209,
+      "end": 32225
+    },
+    {
+      "type": "GPE",
+      "text": "Opp",
+      "start": 32227,
+      "end": 32230
+    },
+    {
+      "type": "ORG",
+      "text": "Rajendra Nagar Terminal",
+      "start": 32232,
+      "end": 32255
+    },
+    {
+      "type": "GPE",
+      "text": "Patna",
+      "start": 32293,
+      "end": 32298
+    },
+    {
+      "type": "DATE",
+      "text": "800020",
+      "start": 32301,
+      "end": 32307
+    },
+    {
+      "type": "GPE",
+      "text": "Bihar",
+      "start": 32309,
+      "end": 32314
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 32893,
+      "end": 32899
+    },
+    {
+      "type": "DATE",
+      "text": "Tuesday",
+      "start": 32954,
+      "end": 32961
+    },
+    {
+      "type": "DATE",
+      "text": "23  September  2025",
+      "start": 32964,
+      "end": 32983
+    },
+    {
+      "type": "GPE",
+      "text": "Opp",
+      "start": 33089,
+      "end": 33092
+    },
+    {
+      "type": "ORG",
+      "text": "Rajendra Nagar Terminal",
+      "start": 33094,
+      "end": 33117
+    },
+    {
+      "type": "GPE",
+      "text": "Bihar",
+      "start": 33166,
+      "end": 33171
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 33315,
+      "end": 33322
+    },
+    {
+      "type": "ORG",
+      "text": "CIN",
+      "start": 33354,
+      "end": 33357
+    },
+    {
+      "type": "PERSON",
+      "text": "L80904BR2014PLC022439 \nRegd Office",
+      "start": 33359,
+      "end": 33393
+    },
+    {
+      "type": "PERSON",
+      "text": "Shiv Laxmi Plaza",
+      "start": 33409,
+      "end": 33425
+    },
+    {
+      "type": "GPE",
+      "text": "Opp",
+      "start": 33427,
+      "end": 33430
+    },
+    {
+      "type": "ORG",
+      "text": "Rajendra Nagar Terminal",
+      "start": 33432,
+      "end": 33455
+    },
+    {
+      "type": "GPE",
+      "text": "Patna",
+      "start": 33493,
+      "end": 33498
+    },
+    {
+      "type": "DATE",
+      "text": "800020",
+      "start": 33501,
+      "end": 33507
+    },
+    {
+      "type": "PERSON",
+      "text": "Bihar \nMobile",
+      "start": 33509,
+      "end": 33522
+    },
+    {
+      "type": "DATE",
+      "text": "99551 11150",
+      "start": 33528,
+      "end": 33539
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 33674,
+      "end": 33678
+    },
+    {
+      "type": "ORG",
+      "text": "the Companies Management",
+      "start": 33697,
+      "end": 33721
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 33750,
+      "end": 33754
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 35041,
+      "end": 35047
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 35072,
+      "end": 35079
+    },
+    {
+      "type": "DATE",
+      "text": "Tuesday",
+      "start": 35095,
+      "end": 35102
+    },
+    {
+      "type": "DATE",
+      "text": "23 September, 2025",
+      "start": 35104,
+      "end": 35122
+    },
+    {
+      "type": "PERSON",
+      "text": "IST",
+      "start": 35137,
+      "end": 35140
+    },
+    {
+      "type": "PERSON",
+      "text": "Shiv Laxmi Plaza",
+      "start": 35158,
+      "end": 35174
+    },
+    {
+      "type": "GPE",
+      "text": "Opp",
+      "start": 35177,
+      "end": 35180
+    },
+    {
+      "type": "GPE",
+      "text": "Rajendra",
+      "start": 35183,
+      "end": 35191
+    },
+    {
+      "type": "ORG",
+      "text": "Nagar  Terminal",
+      "start": 35193,
+      "end": 35208
+    },
+    {
+      "type": "ORG",
+      "text": "Patna",
+      "start": 35250,
+      "end": 35255
+    },
+    {
+      "type": "DATE",
+      "text": "800020",
+      "start": 35260,
+      "end": 35266
+    },
+    {
+      "type": "GPE",
+      "text": "Bihar",
+      "start": 35269,
+      "end": 35274
+    },
+    {
+      "type": "ORG",
+      "text": "the Audited Financial Statements of the Company",
+      "start": 35480,
+      "end": 35527
+    },
+    {
+      "type": "DATE",
+      "text": "31st  March  2025",
+      "start": 35562,
+      "end": 35579
+    },
+    {
+      "type": "ORG",
+      "text": "the \nBoard of Directors",
+      "start": 35616,
+      "end": 35639
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 35646,
+      "end": 35651
+    },
+    {
+      "type": "PERSON",
+      "text": "Keshav Das",
+      "start": 35715,
+      "end": 35725
+    },
+    {
+      "type": "DATE",
+      "text": "08475784",
+      "start": 35741,
+      "end": 35749
+    },
+    {
+      "type": "ORG",
+      "text": "Statutory Auditors",
+      "start": 35968,
+      "end": 35986
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish",
+      "start": 36029,
+      "end": 36035
+    },
+    {
+      "type": "PERSON",
+      "text": "Dixit",
+      "start": 36037,
+      "end": 36042
+    },
+    {
+      "type": "DATE",
+      "text": "06888132",
+      "start": 36051,
+      "end": 36059
+    },
+    {
+      "type": "DATE",
+      "text": "FY-2025-2026",
+      "start": 36230,
+      "end": 36242
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 36394,
+      "end": 36398
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 36419,
+      "end": 36426
+    },
+    {
+      "type": "ORG",
+      "text": "the  Registered  Office",
+      "start": 36669,
+      "end": 36692
+    },
+    {
+      "type": "ORG",
+      "text": "the \n\nCompany",
+      "start": 36698,
+      "end": 36711
+    },
+    {
+      "type": "PERSON",
+      "text": "Resolutions",
+      "start": 36874,
+      "end": 36885
+    },
+    {
+      "type": "PERSON",
+      "text": "Box",
+      "start": 36907,
+      "end": 36910
+    },
+    {
+      "type": "PERSON",
+      "text": "Resolutions",
+      "start": 36998,
+      "end": 37009
+    },
+    {
+      "type": "PERSON",
+      "text": "Proxy",
+      "start": 37018,
+      "end": 37023
+    },
+    {
+      "type": "PERSON",
+      "text": "Appointing Proxy",
+      "start": 37107,
+      "end": 37123
+    },
+    {
+      "type": "PERSON",
+      "text": "Proxy",
+      "start": 37382,
+      "end": 37387
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 37507,
+      "end": 37514
+    },
+    {
+      "type": "ORG",
+      "text": "ROUTE MAP",
+      "start": 37523,
+      "end": 37532
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 37581,
+      "end": 37588
+    },
+    {
+      "type": "ORG",
+      "text": "Niks Technology Limited",
+      "start": 37612,
+      "end": 37635
+    },
+    {
+      "type": "PERSON",
+      "text": "DIRECTORS",
+      "start": 37638,
+      "end": 37647
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year ended March 31, 2025",
+      "start": 37806,
+      "end": 37845
+    },
+    {
+      "type": "ORG",
+      "text": "NIKS Technology Limited",
+      "start": 37954,
+      "end": 37977
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year 2024-25",
+      "start": 37982,
+      "end": 38008
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 38211,
+      "end": 38216
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 38220,
+      "end": 38227
+    },
+    {
+      "type": "DATE",
+      "text": "2023-24",
+      "start": 38230,
+      "end": 38237
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 38437,
+      "end": 38444
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 38506,
+      "end": 38511
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 38571,
+      "end": 38576
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 38637,
+      "end": 38642
+    },
+    {
+      "type": "MONEY",
+      "text": "\u20b9  61.39/-",
+      "start": 38662,
+      "end": 38672
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 38674,
+      "end": 38679
+    },
+    {
+      "type": "DATE",
+      "text": "the current financial year",
+      "start": 38753,
+      "end": 38779
+    },
+    {
+      "type": "MONEY",
+      "text": "\u20b9 45.05/- Lakhs",
+      "start": 38783,
+      "end": 38798
+    },
+    {
+      "type": "DATE",
+      "text": "the \nprevious year",
+      "start": 38833,
+      "end": 38851
+    },
+    {
+      "type": "ORG",
+      "text": "Ethical Hacking",
+      "start": 39141,
+      "end": 39156
+    },
+    {
+      "type": "ORG",
+      "text": "Embedded \nSystems  &  Robotics",
+      "start": 39158,
+      "end": 39188
+    },
+    {
+      "type": "ORG",
+      "text": "Software",
+      "start": 39191,
+      "end": 39199
+    },
+    {
+      "type": "ORG",
+      "text": "Networking  &  Communication",
+      "start": 39220,
+      "end": 39248
+    },
+    {
+      "type": "ORG",
+      "text": "AMC",
+      "start": 39491,
+      "end": 39494
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 39920,
+      "end": 39927
+    },
+    {
+      "type": "ORG",
+      "text": "the General Reserve",
+      "start": 39958,
+      "end": 39977
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year 2024-25",
+      "start": 39982,
+      "end": 40008
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 40072,
+      "end": 40079
+    },
+    {
+      "type": "ORG",
+      "text": "DIVIDEND",
+      "start": 40086,
+      "end": 40094
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 40102,
+      "end": 40107
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year 2024-25",
+      "start": 40144,
+      "end": 40170
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 40297,
+      "end": 40305
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 40571,
+      "end": 40579
+    },
+    {
+      "type": "ORG",
+      "text": "Conversion of Share Warrants",
+      "start": 40687,
+      "end": 40715
+    },
+    {
+      "type": "ORG",
+      "text": "Equity Shares \n\n",
+      "start": 40721,
+      "end": 40737
+    },
+    {
+      "type": "DATE",
+      "text": "the previous financial year",
+      "start": 40744,
+      "end": 40771
+    },
+    {
+      "type": "ORG",
+      "text": "Extra Ordinary General Meeting",
+      "start": 40780,
+      "end": 40810
+    },
+    {
+      "type": "DATE",
+      "text": "23rd October \n",
+      "start": 40817,
+      "end": 40831
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 40943,
+      "end": 40951
+    },
+    {
+      "type": "MONEY",
+      "text": "25,000  ",
+      "start": 41087,
+      "end": 41095
+    },
+    {
+      "type": "ORG",
+      "text": "Board \nResolution",
+      "start": 41221,
+      "end": 41238
+    },
+    {
+      "type": "DATE",
+      "text": "19th July 2024",
+      "start": 41245,
+      "end": 41259
+    },
+    {
+      "type": "MONEY",
+      "text": "Twenty-Five Thousand",
+      "start": 41295,
+      "end": 41315
+    },
+    {
+      "type": "ORG",
+      "text": "Board Resolution",
+      "start": 41559,
+      "end": 41575
+    },
+    {
+      "type": "DATE",
+      "text": "10th March 2025",
+      "start": 41583,
+      "end": 41598
+    },
+    {
+      "type": "DATE",
+      "text": "31st  March",
+      "start": 41871,
+      "end": 41882
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 41885,
+      "end": 41889
+    },
+    {
+      "type": "ORG",
+      "text": "Rs.10/- (Rupees",
+      "start": 41998,
+      "end": 42013
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 42071,
+      "end": 42079
+    },
+    {
+      "type": "ORG",
+      "text": "INTERNAL CONTROL SYSTEMS",
+      "start": 42372,
+      "end": 42396
+    },
+    {
+      "type": "ORG",
+      "text": "Internal Control System",
+      "start": 42448,
+      "end": 42471
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 42637,
+      "end": 42644
+    },
+    {
+      "type": "ORG",
+      "text": "CSR",
+      "start": 42862,
+      "end": 42865
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 42949,
+      "end": 42953
+    },
+    {
+      "type": "ORG",
+      "text": "CSR",
+      "start": 42959,
+      "end": 42962
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 43031,
+      "end": 43038
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 43142,
+      "end": 43146
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 43231,
+      "end": 43235
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 43256,
+      "end": 43262
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 43305,
+      "end": 43312
+    },
+    {
+      "type": "ORG",
+      "text": "Joint  Ventures",
+      "start": 43497,
+      "end": 43512
+    },
+    {
+      "type": "DATE",
+      "text": "the \nyear",
+      "start": 43548,
+      "end": 43557
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 43651,
+      "end": 43656
+    },
+    {
+      "type": "PERSON",
+      "text": "f.  Anti-Sexual",
+      "start": 44010,
+      "end": 44025
+    },
+    {
+      "type": "ORG",
+      "text": "whistle blower & vigil",
+      "start": 44191,
+      "end": 44213
+    },
+    {
+      "type": "ORG",
+      "text": "Nomination and Remuneration Committee",
+      "start": 44229,
+      "end": 44266
+    },
+    {
+      "type": "GPE",
+      "text": "Criteria",
+      "start": 44352,
+      "end": 44360
+    },
+    {
+      "type": "ORG",
+      "text": "Non-Executive",
+      "start": 44383,
+      "end": 44396
+    },
+    {
+      "type": "ORG",
+      "text": "Board Report",
+      "start": 44626,
+      "end": 44638
+    },
+    {
+      "type": "DATE",
+      "text": "three financial year",
+      "start": 44684,
+      "end": 44704
+    },
+    {
+      "type": "ORG",
+      "text": "DIRECTOR",
+      "start": 44708,
+      "end": 44716
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 44797,
+      "end": 44801
+    },
+    {
+      "type": "ORG",
+      "text": "Directors",
+      "start": 44807,
+      "end": 44816
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 44881,
+      "end": 44887
+    },
+    {
+      "type": "ORG",
+      "text": "Directors",
+      "start": 44973,
+      "end": 44982
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year",
+      "start": 45208,
+      "end": 45226
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 45273,
+      "end": 45281
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 45502,
+      "end": 45509
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 45614,
+      "end": 45620
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 45714,
+      "end": 45721
+    },
+    {
+      "type": "ORG",
+      "text": "FOREIGN  EXCHANGE  EARNINGS \n& OUTGOINGS:",
+      "start": 46163,
+      "end": 46204
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 46275,
+      "end": 46279
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 46342,
+      "end": 46346
+    },
+    {
+      "type": "DATE",
+      "text": "the year ended 31st March",
+      "start": 46351,
+      "end": 46376
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 46378,
+      "end": 46382
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year",
+      "start": 46699,
+      "end": 46717
+    },
+    {
+      "type": "DATE",
+      "text": "the year \n\niii",
+      "start": 46838,
+      "end": 46852
+    },
+    {
+      "type": "DATE",
+      "text": "the last three years",
+      "start": 47372,
+      "end": 47392
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year",
+      "start": 47426,
+      "end": 47444
+    },
+    {
+      "type": "ORG",
+      "text": "NA",
+      "start": 47447,
+      "end": 47449
+    },
+    {
+      "type": "ORG",
+      "text": "Research and Development: Nil \n\nForeign Exchange Earnings",
+      "start": 47484,
+      "end": 47541
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year 2024-2025",
+      "start": 47601,
+      "end": 47629
+    },
+    {
+      "type": "ORG",
+      "text": "All Related Party Transactions",
+      "start": 47664,
+      "end": 47694
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 47883,
+      "end": 47887
+    },
+    {
+      "type": "ORG",
+      "text": "the Financial \nStatement",
+      "start": 47948,
+      "end": 47972
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 48165,
+      "end": 48169
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 48239,
+      "end": 48243
+    },
+    {
+      "type": "ORG",
+      "text": "Related Party Transactions",
+      "start": 48312,
+      "end": 48338
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 48359,
+      "end": 48364
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 48540,
+      "end": 48547
+    },
+    {
+      "type": "DATE",
+      "text": "the financial \nyear",
+      "start": 48669,
+      "end": 48688
+    },
+    {
+      "type": "ORG",
+      "text": "Chartered  Accountants",
+      "start": 48817,
+      "end": 48839
+    },
+    {
+      "type": "DATE",
+      "text": "329001E",
+      "start": 48868,
+      "end": 48875
+    },
+    {
+      "type": "DATE",
+      "text": "5 years",
+      "start": 48949,
+      "end": 48956
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 48991,
+      "end": 48997
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 49055,
+      "end": 49061
+    },
+    {
+      "type": "ORG",
+      "text": "Jay Gupta & Associates",
+      "start": 49102,
+      "end": 49124
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 49149,
+      "end": 49155
+    },
+    {
+      "type": "PERSON",
+      "text": "Meeting",
+      "start": 49164,
+      "end": 49171
+    },
+    {
+      "type": "DATE",
+      "text": "5 years",
+      "start": 49271,
+      "end": 49278
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 49316,
+      "end": 49322
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 49380,
+      "end": 49386
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 49613,
+      "end": 49617
+    },
+    {
+      "type": "ORG",
+      "text": "AUDITOR",
+      "start": 49667,
+      "end": 49674
+    },
+    {
+      "type": "ORG",
+      "text": "The Board of Directors",
+      "start": 49825,
+      "end": 49847
+    },
+    {
+      "type": "ORG",
+      "text": "the Audit Committee",
+      "start": 49879,
+      "end": 49898
+    },
+    {
+      "type": "ORG",
+      "text": "SHUKLA & Co.",
+      "start": 49921,
+      "end": 49933
+    },
+    {
+      "type": "DATE",
+      "text": "033393C",
+      "start": 49940,
+      "end": 49947
+    },
+    {
+      "type": "ORG",
+      "text": "the Internal Auditor of the Company",
+      "start": 49975,
+      "end": 50010
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 50035,
+      "end": 50042
+    },
+    {
+      "type": "ORG",
+      "text": "Audit Committee",
+      "start": 50099,
+      "end": 50114
+    },
+    {
+      "type": "DATE",
+      "text": "3173",
+      "start": 50162,
+      "end": 50166
+    },
+    {
+      "type": "ORG",
+      "text": "Practicing Company",
+      "start": 50169,
+      "end": 50187
+    },
+    {
+      "type": "DATE",
+      "text": "the year 2024-25",
+      "start": 50234,
+      "end": 50250
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 50321,
+      "end": 50325
+    },
+    {
+      "type": "ORG",
+      "text": "Managerial  Personnel",
+      "start": 50385,
+      "end": 50406
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 50417,
+      "end": 50421
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 50624,
+      "end": 50631
+    },
+    {
+      "type": "ORG",
+      "text": "the Cost Auditor",
+      "start": 50660,
+      "end": 50676
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 50723,
+      "end": 50727
+    },
+    {
+      "type": "ORG",
+      "text": "Central  Government",
+      "start": 50832,
+      "end": 50851
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 50887,
+      "end": 50891
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 51092,
+      "end": 51096
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 51164,
+      "end": 51171
+    },
+    {
+      "type": "PERSON",
+      "text": "DIRECTORS",
+      "start": 51178,
+      "end": 51187
+    },
+    {
+      "type": "ORG",
+      "text": "CRITERIA",
+      "start": 51235,
+      "end": 51243
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 51455,
+      "end": 51459
+    },
+    {
+      "type": "ORG",
+      "text": "Disclosure  Requirements",
+      "start": 51541,
+      "end": 51565
+    },
+    {
+      "type": "DATE",
+      "text": "2015",
+      "start": 51582,
+      "end": 51586
+    },
+    {
+      "type": "ORG",
+      "text": "Directors\u2019/Key",
+      "start": 51634,
+      "end": 51648
+    },
+    {
+      "type": "ORG",
+      "text": "the Nomination and Remuneration Committee",
+      "start": 51723,
+      "end": 51764
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board  of  Directors",
+      "start": 51782,
+      "end": 51807
+    },
+    {
+      "type": "PERSON",
+      "text": "Directors",
+      "start": 51985,
+      "end": 51994
+    },
+    {
+      "type": "ORG",
+      "text": "MD  &  CFO",
+      "start": 52278,
+      "end": 52288
+    },
+    {
+      "type": "ORG",
+      "text": "Remuneration  Committee",
+      "start": 52296,
+      "end": 52319
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 52554,
+      "end": 52559
+    },
+    {
+      "type": "ORG",
+      "text": "Committee",
+      "start": 52566,
+      "end": 52575
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 52723,
+      "end": 52727
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board  of  Directors",
+      "start": 53025,
+      "end": 53050
+    },
+    {
+      "type": "ORG",
+      "text": "Director  &  CFO",
+      "start": 53077,
+      "end": 53093
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 53157,
+      "end": 53161
+    },
+    {
+      "type": "ORG",
+      "text": "Director & CFO",
+      "start": 53201,
+      "end": 53215
+    },
+    {
+      "type": "ORG",
+      "text": "the Senior Management Employees",
+      "start": 53388,
+      "end": 53419
+    },
+    {
+      "type": "ORG",
+      "text": "Management  Employees",
+      "start": 53475,
+      "end": 53496
+    },
+    {
+      "type": "ORG",
+      "text": "Executive Committee",
+      "start": 53516,
+      "end": 53535
+    },
+    {
+      "type": "ORG",
+      "text": "Remuneration Committee",
+      "start": 53549,
+      "end": 53571
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 53911,
+      "end": 53917
+    },
+    {
+      "type": "ORG",
+      "text": "Remuneration \nCommittee",
+      "start": 53968,
+      "end": 53991
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 54250,
+      "end": 54254
+    },
+    {
+      "type": "ORG",
+      "text": "Stakeholders, Directors and Employees",
+      "start": 54389,
+      "end": 54426
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 54798,
+      "end": 54805
+    },
+    {
+      "type": "ORG",
+      "text": "Audit  committee",
+      "start": 54817,
+      "end": 54833
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 55029,
+      "end": 55037
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 55604,
+      "end": 55608
+    },
+    {
+      "type": "DATE",
+      "text": "the  year",
+      "start": 55621,
+      "end": 55630
+    },
+    {
+      "type": "ORG",
+      "text": "Designated  Employees",
+      "start": 56008,
+      "end": 56029
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 56133,
+      "end": 56138
+    },
+    {
+      "type": "DATE",
+      "text": "2015",
+      "start": 56191,
+      "end": 56195
+    },
+    {
+      "type": "ORG",
+      "text": "Designated \nEmployees",
+      "start": 56315,
+      "end": 56336
+    },
+    {
+      "type": "ORG",
+      "text": "Connected Persons",
+      "start": 56341,
+      "end": 56358
+    },
+    {
+      "type": "DATE",
+      "text": "1961",
+      "start": 56459,
+      "end": 56463
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 56496,
+      "end": 56503
+    },
+    {
+      "type": "DATE",
+      "text": "1961",
+      "start": 56594,
+      "end": 56598
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 57359,
+      "end": 57364
+    },
+    {
+      "type": "ORG",
+      "text": "EPFO",
+      "start": 58201,
+      "end": 58205
+    },
+    {
+      "type": "ORG",
+      "text": "ESIC",
+      "start": 58207,
+      "end": 58211
+    },
+    {
+      "type": "ORG",
+      "text": "Leave, Entitlement",
+      "start": 58213,
+      "end": 58231
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 58421,
+      "end": 58428
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 58514,
+      "end": 58518
+    },
+    {
+      "type": "ORG",
+      "text": "Managerial  Personnel",
+      "start": 58597,
+      "end": 58618
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 58629,
+      "end": 58633
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 58890,
+      "end": 58897
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 59198,
+      "end": 59205
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 59531,
+      "end": 59538
+    },
+    {
+      "type": "PERSON",
+      "text": "DIRECTORS",
+      "start": 59578,
+      "end": 59587
+    },
+    {
+      "type": "ORG",
+      "text": "the Board of Directors",
+      "start": 59739,
+      "end": 59761
+    },
+    {
+      "type": "ORG",
+      "text": "Finance",
+      "start": 59844,
+      "end": 59851
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board  of  Directors",
+      "start": 59955,
+      "end": 59980
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board",
+      "start": 60041,
+      "end": 60051
+    },
+    {
+      "type": "PERSON",
+      "text": "DIRECTORS",
+      "start": 60285,
+      "end": 60294
+    },
+    {
+      "type": "ORG",
+      "text": "KEY MANAGERIAL",
+      "start": 60299,
+      "end": 60313
+    },
+    {
+      "type": "PERSON",
+      "text": "Keshav Das",
+      "start": 60492,
+      "end": 60502
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 60577,
+      "end": 60583
+    },
+    {
+      "type": "ORG",
+      "text": "AGM",
+      "start": 60602,
+      "end": 60605
+    },
+    {
+      "type": "ORG",
+      "text": "the Board of the \nCompany",
+      "start": 60769,
+      "end": 60794
+    },
+    {
+      "type": "ORG",
+      "text": "KMP",
+      "start": 60829,
+      "end": 60832
+    },
+    {
+      "type": "PERSON",
+      "text": "Ayushi",
+      "start": 60872,
+      "end": 60878
+    },
+    {
+      "type": "ORG",
+      "text": "Khaitan  Company",
+      "start": 60880,
+      "end": 60896
+    },
+    {
+      "type": "ORG",
+      "text": "cum  Compliance  Officer",
+      "start": 60909,
+      "end": 60933
+    },
+    {
+      "type": "DATE",
+      "text": "12th  July  2024",
+      "start": 60994,
+      "end": 61010
+    },
+    {
+      "type": "ORG",
+      "text": "CS  Megha  Vyas",
+      "start": 61017,
+      "end": 61032
+    },
+    {
+      "type": "DATE",
+      "text": "12th July 2024",
+      "start": 61116,
+      "end": 61130
+    },
+    {
+      "type": "PERSON",
+      "text": "DIRECTORS",
+      "start": 61161,
+      "end": 61170
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 61345,
+      "end": 61349
+    },
+    {
+      "type": "DATE",
+      "text": "2015",
+      "start": 61444,
+      "end": 61448
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 61492,
+      "end": 61499
+    },
+    {
+      "type": "PERSON",
+      "text": "Schedule",
+      "start": 61583,
+      "end": 61591
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 61622,
+      "end": 61626
+    },
+    {
+      "type": "ORG",
+      "text": "Independent",
+      "start": 61629,
+      "end": 61640
+    },
+    {
+      "type": "DATE",
+      "text": "March  10",
+      "start": 61683,
+      "end": 61692
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 61695,
+      "end": 61699
+    },
+    {
+      "type": "ORG",
+      "text": "Non-Independent",
+      "start": 61731,
+      "end": 61746
+    },
+    {
+      "type": "ORG",
+      "text": "Independent  Directors",
+      "start": 61799,
+      "end": 61821
+    },
+    {
+      "type": "PERSON",
+      "text": "Schedule",
+      "start": 61916,
+      "end": 61924
+    },
+    {
+      "type": "ORG",
+      "text": "Independent Directors",
+      "start": 62091,
+      "end": 62112
+    },
+    {
+      "type": "ORG",
+      "text": "The  Board",
+      "start": 62607,
+      "end": 62617
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 62741,
+      "end": 62746
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 62764,
+      "end": 62772
+    },
+    {
+      "type": "DATE",
+      "text": "120  days",
+      "start": 62895,
+      "end": 62904
+    },
+    {
+      "type": "DATE",
+      "text": "the  year",
+      "start": 62976,
+      "end": 62985
+    },
+    {
+      "type": "DATE",
+      "text": "10.  \n\n",
+      "start": 63212,
+      "end": 63219
+    },
+    {
+      "type": "DATE",
+      "text": "18th April 2024 \n24th",
+      "start": 63219,
+      "end": 63240
+    },
+    {
+      "type": "DATE",
+      "text": "May 2024 \n12th July 2024 \n18th July 2024 \n19th July 2024 \n",
+      "start": 63241,
+      "end": 63299
+    },
+    {
+      "type": "DATE",
+      "text": "August 2024 \n12th November 2024 \n",
+      "start": 63304,
+      "end": 63337
+    },
+    {
+      "type": "DATE",
+      "text": "January 2025",
+      "start": 63342,
+      "end": 63354
+    },
+    {
+      "type": "DATE",
+      "text": "March 2025",
+      "start": 63361,
+      "end": 63371
+    },
+    {
+      "type": "DATE",
+      "text": "March 2025",
+      "start": 63378,
+      "end": 63388
+    },
+    {
+      "type": "DATE",
+      "text": "the  year  under",
+      "start": 63590,
+      "end": 63606
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board",
+      "start": 63617,
+      "end": 63627
+    },
+    {
+      "type": "ORG",
+      "text": "Directors",
+      "start": 63758,
+      "end": 63767
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board",
+      "start": 63800,
+      "end": 63810
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board  & \ncommittees",
+      "start": 63974,
+      "end": 63999
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board",
+      "start": 64209,
+      "end": 64219
+    },
+    {
+      "type": "ORG",
+      "text": "Independent  Directors",
+      "start": 64450,
+      "end": 64472
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 64509,
+      "end": 64514
+    },
+    {
+      "type": "ORG",
+      "text": "the Non-Independent Directors",
+      "start": 64544,
+      "end": 64573
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 64638,
+      "end": 64645
+    },
+    {
+      "type": "PERSON",
+      "text": "Directors",
+      "start": 64679,
+      "end": 64688
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board",
+      "start": 64779,
+      "end": 64789
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board",
+      "start": 65002,
+      "end": 65012
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board",
+      "start": 65112,
+      "end": 65122
+    },
+    {
+      "type": "ORG",
+      "text": "the  Management  Committee",
+      "start": 65129,
+      "end": 65155
+    },
+    {
+      "type": "ORG",
+      "text": "The Audit Committee of Directors",
+      "start": 65319,
+      "end": 65351
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 65433,
+      "end": 65437
+    },
+    {
+      "type": "ORG",
+      "text": "the Audit Committee",
+      "start": 65458,
+      "end": 65477
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 65575,
+      "end": 65581
+    },
+    {
+      "type": "ORG",
+      "text": "Committee (ii",
+      "start": 65591,
+      "end": 65604
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 65779,
+      "end": 65785
+    },
+    {
+      "type": "ORG",
+      "text": "the Audit Committee",
+      "start": 66078,
+      "end": 66097
+    },
+    {
+      "type": "ORG",
+      "text": "Management\u2019s Discussions and Analysis of Company",
+      "start": 66598,
+      "end": 66646
+    },
+    {
+      "type": "ORG",
+      "text": "Letters of Statutory Auditors",
+      "start": 66856,
+      "end": 66885
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 67641,
+      "end": 67646
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board",
+      "start": 67757,
+      "end": 67767
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board  of  Directors",
+      "start": 67995,
+      "end": 68020
+    },
+    {
+      "type": "DATE",
+      "text": "quarterly",
+      "start": 68035,
+      "end": 68044
+    },
+    {
+      "type": "ORG",
+      "text": "Related  Party",
+      "start": 68054,
+      "end": 68068
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 68103,
+      "end": 68110
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 68478,
+      "end": 68485
+    },
+    {
+      "type": "ORG",
+      "text": "Audit \nCommittee",
+      "start": 68722,
+      "end": 68738
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board  and/or \nspecified/",
+      "start": 68805,
+      "end": 68835
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 68870,
+      "end": 68874
+    },
+    {
+      "type": "ORG",
+      "text": "Audit  Committee",
+      "start": 68988,
+      "end": 69004
+    },
+    {
+      "type": "ORG",
+      "text": "Independent  Directors",
+      "start": 69025,
+      "end": 69047
+    },
+    {
+      "type": "ORG",
+      "text": "the Audit Committee",
+      "start": 69115,
+      "end": 69134
+    },
+    {
+      "type": "PERSON",
+      "text": "Kumar Singh",
+      "start": 69285,
+      "end": 69296
+    },
+    {
+      "type": "PERSON",
+      "text": "Pankaj Kumar",
+      "start": 69302,
+      "end": 69314
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish Dixit",
+      "start": 69320,
+      "end": 69332
+    },
+    {
+      "type": "DATE",
+      "text": "the  year  under",
+      "start": 69438,
+      "end": 69454
+    },
+    {
+      "type": "DATE",
+      "text": "24.05.2024",
+      "start": 69525,
+      "end": 69535
+    },
+    {
+      "type": "DATE",
+      "text": "26.08.2024, 12.11.2024",
+      "start": 69538,
+      "end": 69560
+    },
+    {
+      "type": "ORG",
+      "text": "Remuneration  Committee",
+      "start": 69655,
+      "end": 69678
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 69788,
+      "end": 69792
+    },
+    {
+      "type": "ORG",
+      "text": "Committee",
+      "start": 69822,
+      "end": 69831
+    },
+    {
+      "type": "ORG",
+      "text": "Committee",
+      "start": 69920,
+      "end": 69929
+    },
+    {
+      "type": "ORG",
+      "text": "Directors / Independent Directors",
+      "start": 70280,
+      "end": 70313
+    },
+    {
+      "type": "ORG",
+      "text": "Key Managerial Personnel",
+      "start": 70334,
+      "end": 70358
+    },
+    {
+      "type": "PERSON",
+      "text": "c.  Support  Board",
+      "start": 70364,
+      "end": 70382
+    },
+    {
+      "type": "ORG",
+      "text": "Directors  &  ",
+      "start": 70431,
+      "end": 70445
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 70449,
+      "end": 70455
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 70482,
+      "end": 70487
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 70525,
+      "end": 70531
+    },
+    {
+      "type": "GPE",
+      "text": "MD",
+      "start": 70554,
+      "end": 70556
+    },
+    {
+      "type": "ORG",
+      "text": "Senior Management Employees",
+      "start": 70569,
+      "end": 70596
+    },
+    {
+      "type": "ORG",
+      "text": "e.  Administration of Employee Stock Option Scheme",
+      "start": 70599,
+      "end": 70649
+    },
+    {
+      "type": "ORG",
+      "text": "Formulate",
+      "start": 70663,
+      "end": 70672
+    },
+    {
+      "type": "ORG",
+      "text": "Committee",
+      "start": 70735,
+      "end": 70744
+    },
+    {
+      "type": "ORG",
+      "text": "the Nomination & Remuneration Committee",
+      "start": 70809,
+      "end": 70848
+    },
+    {
+      "type": "PERSON",
+      "text": "Pankaj Kumar",
+      "start": 70955,
+      "end": 70967
+    },
+    {
+      "type": "PERSON",
+      "text": "Kumar Singh",
+      "start": 70984,
+      "end": 70995
+    },
+    {
+      "type": "PERSON",
+      "text": "Keshav Das",
+      "start": 71012,
+      "end": 71022
+    },
+    {
+      "type": "DATE",
+      "text": "the  year  under",
+      "start": 71081,
+      "end": 71097
+    },
+    {
+      "type": "ORG",
+      "text": "Committee",
+      "start": 71223,
+      "end": 71232
+    },
+    {
+      "type": "PERSON",
+      "text": "Schedule  III",
+      "start": 71303,
+      "end": 71316
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 71342,
+      "end": 71346
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 71456,
+      "end": 71463
+    },
+    {
+      "type": "ORG",
+      "text": "Stakeholder  Relationship  Committee",
+      "start": 71517,
+      "end": 71553
+    },
+    {
+      "type": "ORG",
+      "text": "The \nCommittee",
+      "start": 71615,
+      "end": 71629
+    },
+    {
+      "type": "ORG",
+      "text": "Investors and Shareholders",
+      "start": 71674,
+      "end": 71700
+    },
+    {
+      "type": "ORG",
+      "text": "the \nCommittee",
+      "start": 71716,
+      "end": 71730
+    },
+    {
+      "type": "ORG",
+      "text": "Committee",
+      "start": 71804,
+      "end": 71813
+    },
+    {
+      "type": "ORG",
+      "text": "Registrar",
+      "start": 72046,
+      "end": 72055
+    },
+    {
+      "type": "ORG",
+      "text": "Stakeholder  Relationship  Committee/Investor  Grievance  Committee",
+      "start": 72496,
+      "end": 72563
+    },
+    {
+      "type": "PERSON",
+      "text": "Kumar Singh",
+      "start": 72681,
+      "end": 72692
+    },
+    {
+      "type": "PERSON",
+      "text": "Pankaj Kumar",
+      "start": 72701,
+      "end": 72713
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish Dixit",
+      "start": 72722,
+      "end": 72734
+    },
+    {
+      "type": "DATE",
+      "text": "the  year  under",
+      "start": 72793,
+      "end": 72809
+    },
+    {
+      "type": "DATE",
+      "text": "24.05.2024",
+      "start": 72880,
+      "end": 72890
+    },
+    {
+      "type": "DATE",
+      "text": "12.11.2024",
+      "start": 72905,
+      "end": 72915
+    },
+    {
+      "type": "DATE",
+      "text": "the  year",
+      "start": 73040,
+      "end": 73049
+    },
+    {
+      "type": "DATE",
+      "text": "the current financial year ended on 31st \nMarch,",
+      "start": 73145,
+      "end": 73193
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 73194,
+      "end": 73198
+    },
+    {
+      "type": "ORG",
+      "text": "NIL",
+      "start": 73203,
+      "end": 73206
+    },
+    {
+      "type": "ORG",
+      "text": "Guarantees",
+      "start": 73282,
+      "end": 73292
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 73358,
+      "end": 73362
+    },
+    {
+      "type": "ORG",
+      "text": "the Financial Statements",
+      "start": 73411,
+      "end": 73435
+    },
+    {
+      "type": "ORG",
+      "text": "Designated  Employees",
+      "start": 73641,
+      "end": 73662
+    },
+    {
+      "type": "ORG",
+      "text": "Designated  Employees",
+      "start": 73853,
+      "end": 73874
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 74045,
+      "end": 74050
+    },
+    {
+      "type": "ORG",
+      "text": "All Board of Directors",
+      "start": 74100,
+      "end": 74122
+    },
+    {
+      "type": "ORG",
+      "text": "the Designated Employees",
+      "start": 74127,
+      "end": 74151
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 74240,
+      "end": 74247
+    },
+    {
+      "type": "ORG",
+      "text": "ANALYSIS",
+      "start": 74282,
+      "end": 74290
+    },
+    {
+      "type": "ORG",
+      "text": "Regulation 34",
+      "start": 74331,
+      "end": 74344
+    },
+    {
+      "type": "ORG",
+      "text": "the Securities and Exchange Board of India",
+      "start": 74348,
+      "end": 74390
+    },
+    {
+      "type": "ORG",
+      "text": "Disclosure  Requirements",
+      "start": 74418,
+      "end": 74442
+    },
+    {
+      "type": "DATE",
+      "text": "2015",
+      "start": 74459,
+      "end": 74463
+    },
+    {
+      "type": "ORG",
+      "text": "Management",
+      "start": 74471,
+      "end": 74481
+    },
+    {
+      "type": "ORG",
+      "text": "BSE",
+      "start": 74705,
+      "end": 74708
+    },
+    {
+      "type": "ORG",
+      "text": "SME",
+      "start": 74710,
+      "end": 74713
+    },
+    {
+      "type": "ORG",
+      "text": "Exchange  Board",
+      "start": 74840,
+      "end": 74855
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 74861,
+      "end": 74866
+    },
+    {
+      "type": "ORG",
+      "text": "Disclosure  Requirements",
+      "start": 74895,
+      "end": 74919
+    },
+    {
+      "type": "DATE",
+      "text": "2015",
+      "start": 74934,
+      "end": 74938
+    },
+    {
+      "type": "DATE",
+      "text": "seven  years",
+      "start": 75172,
+      "end": 75184
+    },
+    {
+      "type": "ORG",
+      "text": "Investor  Education",
+      "start": 75270,
+      "end": 75289
+    },
+    {
+      "type": "ORG",
+      "text": "Secretarial Standards",
+      "start": 75474,
+      "end": 75495
+    },
+    {
+      "type": "ORG",
+      "text": "the Institute of Company Secretaries of",
+      "start": 75506,
+      "end": 75545
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 75546,
+      "end": 75551
+    },
+    {
+      "type": "ORG",
+      "text": "INSOLVENCY",
+      "start": 75646,
+      "end": 75656
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 76249,
+      "end": 76256
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 76908,
+      "end": 76915
+    },
+    {
+      "type": "DATE",
+      "text": "the  year  under",
+      "start": 77167,
+      "end": 77183
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 77315,
+      "end": 77322
+    },
+    {
+      "type": "PERSON",
+      "text": "Shiv Laxmi Plaza \n",
+      "start": 77391,
+      "end": 77409
+    },
+    {
+      "type": "ORG",
+      "text": "Rajendra Nagar Terminal",
+      "start": 77414,
+      "end": 77437
+    },
+    {
+      "type": "PERSON",
+      "text": "Bihar \nPlace",
+      "start": 77487,
+      "end": 77499
+    },
+    {
+      "type": "ORG",
+      "text": "the Board of Directors \n\n            ",
+      "start": 77539,
+      "end": 77576
+    },
+    {
+      "type": "ORG",
+      "text": "Dixit",
+      "start": 77613,
+      "end": 77618
+    },
+    {
+      "type": "DATE",
+      "text": "08229644",
+      "start": 77688,
+      "end": 77696
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 77747,
+      "end": 77754
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 77914,
+      "end": 77918
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 78102,
+      "end": 78106
+    },
+    {
+      "type": "ORG",
+      "text": "the Board \nAmount",
+      "start": 78704,
+      "end": 78721
+    },
+    {
+      "type": "ORG",
+      "text": "the Board \nAmount",
+      "start": 79360,
+      "end": 79377
+    },
+    {
+      "type": "DATE",
+      "text": "the  year  ended \n",
+      "start": 79491,
+      "end": 79509
+    },
+    {
+      "type": "DATE",
+      "text": "March 31, 2025",
+      "start": 79509,
+      "end": 79523
+    },
+    {
+      "type": "PERSON",
+      "text": "Shiv Laxmi Plaza \n",
+      "start": 79582,
+      "end": 79600
+    },
+    {
+      "type": "ORG",
+      "text": "Rajendra Nagar Terminal",
+      "start": 79605,
+      "end": 79628
+    },
+    {
+      "type": "ORG",
+      "text": "Bihar \n\nPlace",
+      "start": 79678,
+      "end": 79691
+    },
+    {
+      "type": "ORG",
+      "text": "the Board of Directors \n\n            ",
+      "start": 79731,
+      "end": 79768
+    },
+    {
+      "type": "ORG",
+      "text": "Dixit",
+      "start": 79805,
+      "end": 79810
+    },
+    {
+      "type": "DATE",
+      "text": "08229644",
+      "start": 79880,
+      "end": 79888
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 79949,
+      "end": 79956
+    },
+    {
+      "type": "ORG",
+      "text": "MR-3",
+      "start": 79985,
+      "end": 79989
+    },
+    {
+      "type": "DATE",
+      "text": "March",
+      "start": 80052,
+      "end": 80057
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 80059,
+      "end": 80063
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 80115,
+      "end": 80119
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 80215,
+      "end": 80219
+    },
+    {
+      "type": "ORG",
+      "text": "CIN",
+      "start": 80266,
+      "end": 80269
+    },
+    {
+      "type": "PERSON",
+      "text": "L80904BR2014PLC022439",
+      "start": 80271,
+      "end": 80292
+    },
+    {
+      "type": "PERSON",
+      "text": "Shiv Laxmi Plaza",
+      "start": 80309,
+      "end": 80325
+    },
+    {
+      "type": "ORG",
+      "text": "Opp Rajendra Nagar Terminal",
+      "start": 80327,
+      "end": 80354
+    },
+    {
+      "type": "ORG",
+      "text": "the  Company",
+      "start": 80628,
+      "end": 80640
+    },
+    {
+      "type": "ORG",
+      "text": "Secretarial  Audit",
+      "start": 80644,
+      "end": 80662
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year ended on 31st",
+      "start": 81265,
+      "end": 81297
+    },
+    {
+      "type": "ORG",
+      "text": "M/s. NIKS Technology Limited",
+      "start": 81656,
+      "end": 81684
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year ended on 31st \nMarch",
+      "start": 81701,
+      "end": 81740
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 81742,
+      "end": 81746
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 81804,
+      "end": 81808
+    },
+    {
+      "type": "ORG",
+      "text": "The Securities Contracts (Regulation) Act",
+      "start": 81847,
+      "end": 81888
+    },
+    {
+      "type": "DATE",
+      "text": "1956",
+      "start": 81890,
+      "end": 81894
+    },
+    {
+      "type": "DATE",
+      "text": "1996",
+      "start": 81966,
+      "end": 81970
+    },
+    {
+      "type": "DATE",
+      "text": "1999",
+      "start": 82063,
+      "end": 82067
+    },
+    {
+      "type": "ORG",
+      "text": "Overseas  Direct  Investment",
+      "start": 82167,
+      "end": 82195
+    },
+    {
+      "type": "ORG",
+      "text": "Exchange \n\nBoard of India Act",
+      "start": 82385,
+      "end": 82414
+    },
+    {
+      "type": "DATE",
+      "text": "1992",
+      "start": 82416,
+      "end": 82420
+    },
+    {
+      "type": "ORG",
+      "text": "Exchange  Board",
+      "start": 82463,
+      "end": 82478
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 82484,
+      "end": 82489
+    },
+    {
+      "type": "ORG",
+      "text": "Substantial  Acquisition",
+      "start": 82492,
+      "end": 82516
+    },
+    {
+      "type": "DATE",
+      "text": "2011",
+      "start": 82560,
+      "end": 82564
+    },
+    {
+      "type": "ORG",
+      "text": "Exchange  Board",
+      "start": 82594,
+      "end": 82609
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 82615,
+      "end": 82620
+    },
+    {
+      "type": "DATE",
+      "text": "2015",
+      "start": 82673,
+      "end": 82677
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 82723,
+      "end": 82730
+    },
+    {
+      "type": "ORG",
+      "text": "Exchange  Board",
+      "start": 82763,
+      "end": 82778
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 82784,
+      "end": 82789
+    },
+    {
+      "type": "DATE",
+      "text": "2015",
+      "start": 82859,
+      "end": 82863
+    },
+    {
+      "type": "ORG",
+      "text": "The Securities and Exchange Board of India (Registrars",
+      "start": 82872,
+      "end": 82926
+    },
+    {
+      "type": "PERSON",
+      "text": "Share Transfer",
+      "start": 82943,
+      "end": 82957
+    },
+    {
+      "type": "DATE",
+      "text": "1993",
+      "start": 82981,
+      "end": 82985
+    },
+    {
+      "type": "ORG",
+      "text": "Exchange  Board",
+      "start": 83068,
+      "end": 83083
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 83089,
+      "end": 83094
+    },
+    {
+      "type": "ORG",
+      "text": "Disclosure \n\nRequirements) Regulations",
+      "start": 83122,
+      "end": 83160
+    },
+    {
+      "type": "DATE",
+      "text": "2018",
+      "start": 83162,
+      "end": 83166
+    },
+    {
+      "type": "ORG",
+      "text": "The Securities and Exchange Board of India",
+      "start": 83216,
+      "end": 83258
+    },
+    {
+      "type": "DATE",
+      "text": "2021",
+      "start": 83323,
+      "end": 83327
+    },
+    {
+      "type": "ORG",
+      "text": "Exchange  Board",
+      "start": 83399,
+      "end": 83414
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 83420,
+      "end": 83425
+    },
+    {
+      "type": "ORG",
+      "text": "Debt  Securities",
+      "start": 83453,
+      "end": 83469
+    },
+    {
+      "type": "DATE",
+      "text": "2008",
+      "start": 83486,
+      "end": 83490
+    },
+    {
+      "type": "ORG",
+      "text": "Exchange  Board",
+      "start": 83563,
+      "end": 83578
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 83584,
+      "end": 83589
+    },
+    {
+      "type": "ORG",
+      "text": "Equity  Shares  Regulations",
+      "start": 83607,
+      "end": 83634
+    },
+    {
+      "type": "DATE",
+      "text": "2021",
+      "start": 83637,
+      "end": 83641
+    },
+    {
+      "type": "ORG",
+      "text": "The Securities and Exchange Board of India",
+      "start": 83691,
+      "end": 83733
+    },
+    {
+      "type": "DATE",
+      "text": "2018",
+      "start": 83771,
+      "end": 83775
+    },
+    {
+      "type": "ORG",
+      "text": "The Institute of Company Secretaries",
+      "start": 83954,
+      "end": 83990
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 83994,
+      "end": 83999
+    },
+    {
+      "type": "ORG",
+      "text": "Disclosure  Requirements",
+      "start": 84042,
+      "end": 84066
+    },
+    {
+      "type": "PERSON",
+      "text": "Delay",
+      "start": 84580,
+      "end": 84585
+    },
+    {
+      "type": "ORG",
+      "text": "Non-Executive Directors",
+      "start": 84762,
+      "end": 84785
+    },
+    {
+      "type": "ORG",
+      "text": "Independent Directors",
+      "start": 84790,
+      "end": 84811
+    },
+    {
+      "type": "ORG",
+      "text": "the Board Meetings",
+      "start": 84890,
+      "end": 84908
+    },
+    {
+      "type": "DATE",
+      "text": "seven  days",
+      "start": 84976,
+      "end": 84987
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 85400,
+      "end": 85407
+    },
+    {
+      "type": "ORG",
+      "text": "S. A. & Associates \nCompany Secretaries",
+      "start": 85985,
+      "end": 86024
+    },
+    {
+      "type": "ORG",
+      "text": "ACS/FCS",
+      "start": 86028,
+      "end": 86035
+    },
+    {
+      "type": "DATE",
+      "text": "3173",
+      "start": 86074,
+      "end": 86078
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 86302,
+      "end": 86309
+    },
+    {
+      "type": "ORG",
+      "text": "CIN",
+      "start": 86374,
+      "end": 86377
+    },
+    {
+      "type": "PERSON",
+      "text": "L80904BR2014PLC022439",
+      "start": 86379,
+      "end": 86400
+    },
+    {
+      "type": "PERSON",
+      "text": "Shiv Laxmi Plaza",
+      "start": 86417,
+      "end": 86433
+    },
+    {
+      "type": "ORG",
+      "text": "Opp Rajendra Nagar Terminal",
+      "start": 86435,
+      "end": 86462
+    },
+    {
+      "type": "ORG",
+      "text": "Corporate",
+      "start": 87720,
+      "end": 87729
+    },
+    {
+      "type": "ORG",
+      "text": "S. A. & Associates \nCompany Secretaries",
+      "start": 88878,
+      "end": 88917
+    },
+    {
+      "type": "ORG",
+      "text": "ACS/FCS",
+      "start": 88921,
+      "end": 88928
+    },
+    {
+      "type": "DATE",
+      "text": "3173",
+      "start": 88967,
+      "end": 88971
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 89145,
+      "end": 89149
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 89254,
+      "end": 89258
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 89280,
+      "end": 89287
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish Dixit",
+      "start": 89462,
+      "end": 89474
+    },
+    {
+      "type": "PERSON",
+      "text": "Anamika Ananad",
+      "start": 89476,
+      "end": 89490
+    },
+    {
+      "type": "GPE",
+      "text": "Pankaj",
+      "start": 89509,
+      "end": 89515
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year",
+      "start": 89573,
+      "end": 89591
+    },
+    {
+      "type": "ORG",
+      "text": "Non-Executive",
+      "start": 89633,
+      "end": 89646
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year",
+      "start": 89891,
+      "end": 89909
+    },
+    {
+      "type": "DATE",
+      "text": "the financial years",
+      "start": 89993,
+      "end": 90012
+    },
+    {
+      "type": "ORG",
+      "text": "KMP",
+      "start": 90071,
+      "end": 90074
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish Dixit",
+      "start": 90638,
+      "end": 90650
+    },
+    {
+      "type": "GPE",
+      "text": "Pankaj",
+      "start": 90700,
+      "end": 90706
+    },
+    {
+      "type": "ORG",
+      "text": "Director  & \nCFO \nNon-Executive",
+      "start": 90786,
+      "end": 90817
+    },
+    {
+      "type": "ORG",
+      "text": "Percentage Increase",
+      "start": 90894,
+      "end": 90913
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 90990,
+      "end": 90996
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 91010,
+      "end": 91018
+    },
+    {
+      "type": "DATE",
+      "text": "the \nyear",
+      "start": 91346,
+      "end": 91355
+    },
+    {
+      "type": "MONEY",
+      "text": "37 \n\n \n \n \n \n \n \n \n \n \n \n \n \n\f",
+      "start": 91452,
+      "end": 91482
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 91500,
+      "end": 91507
+    },
+    {
+      "type": "PERSON",
+      "text": "Niks  Software",
+      "start": 91877,
+      "end": 91891
+    },
+    {
+      "type": "ORG",
+      "text": "Ethical  Hacking/Embedded \nSystem & Robotics/Software Development/Networking & Communication",
+      "start": 92073,
+      "end": 92165
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 92171,
+      "end": 92178
+    },
+    {
+      "type": "ORG",
+      "text": "AMC Charges",
+      "start": 92222,
+      "end": 92233
+    },
+    {
+      "type": "ORG",
+      "text": "Drone Spray \nService",
+      "start": 92273,
+      "end": 92293
+    },
+    {
+      "type": "PERSON",
+      "text": "Drone Parts",
+      "start": 92324,
+      "end": 92335
+    },
+    {
+      "type": "ORG",
+      "text": "Lifts Parts",
+      "start": 92337,
+      "end": 92348
+    },
+    {
+      "type": "ORG",
+      "text": "Management Discussion and Analysis",
+      "start": 93107,
+      "end": 93141
+    },
+    {
+      "type": "ORG",
+      "text": "MDA",
+      "start": 93143,
+      "end": 93146
+    },
+    {
+      "type": "ORG",
+      "text": "Operation \nBusiness Outlook \nOpportunities",
+      "start": 93249,
+      "end": 93291
+    },
+    {
+      "type": "ORG",
+      "text": "Material Development in Human Resources",
+      "start": 93362,
+      "end": 93401
+    },
+    {
+      "type": "ORG",
+      "text": "BPM",
+      "start": 93439,
+      "end": 93442
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 93613,
+      "end": 93618
+    },
+    {
+      "type": "ORG",
+      "text": "YoY",
+      "start": 93647,
+      "end": 93650
+    },
+    {
+      "type": "DATE",
+      "text": "April",
+      "start": 93671,
+      "end": 93676
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 93833,
+      "end": 93838
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 93857,
+      "end": 93862
+    },
+    {
+      "type": "DATE",
+      "text": "the end of 2025",
+      "start": 93965,
+      "end": 93980
+    },
+    {
+      "type": "DATE",
+      "text": "2029",
+      "start": 94020,
+      "end": 94024
+    },
+    {
+      "type": "MONEY",
+      "text": "US$ 1.21 billion",
+      "start": 94054,
+      "end": 94070
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 94155,
+      "end": 94160
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 94229,
+      "end": 94234
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 94341,
+      "end": 94348
+    },
+    {
+      "type": "ORG",
+      "text": "Digital",
+      "start": 94689,
+      "end": 94696
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 94717,
+      "end": 94722
+    },
+    {
+      "type": "DATE",
+      "text": "daily",
+      "start": 95085,
+      "end": 95090
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 95111,
+      "end": 95116
+    },
+    {
+      "type": "DATE",
+      "text": "2024",
+      "start": 95187,
+      "end": 95191
+    },
+    {
+      "type": "ORG",
+      "text": "TCS",
+      "start": 95329,
+      "end": 95332
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 95802,
+      "end": 95806
+    },
+    {
+      "type": "ORG",
+      "text": "Digital  Marketing",
+      "start": 96024,
+      "end": 96042
+    },
+    {
+      "type": "ORG",
+      "text": "Software",
+      "start": 96045,
+      "end": 96053
+    },
+    {
+      "type": "ORG",
+      "text": "Website  Development",
+      "start": 96096,
+      "end": 96116
+    },
+    {
+      "type": "ORG",
+      "text": "Drone  Accessories",
+      "start": 96119,
+      "end": 96137
+    },
+    {
+      "type": "ORG",
+      "text": "Agricultural  Drone",
+      "start": 96145,
+      "end": 96164
+    },
+    {
+      "type": "ORG",
+      "text": "Niks  Technology",
+      "start": 96551,
+      "end": 96567
+    },
+    {
+      "type": "DATE",
+      "text": "years",
+      "start": 96606,
+      "end": 96611
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 97749,
+      "end": 97756
+    },
+    {
+      "type": "DATE",
+      "text": "the years",
+      "start": 98855,
+      "end": 98864
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 98975,
+      "end": 98982
+    },
+    {
+      "type": "ORG",
+      "text": "DIGITAL MARKETING",
+      "start": 99063,
+      "end": 99080
+    },
+    {
+      "type": "ORG",
+      "text": "Digital",
+      "start": 99082,
+      "end": 99089
+    },
+    {
+      "type": "ORG",
+      "text": "Digital",
+      "start": 99612,
+      "end": 99619
+    },
+    {
+      "type": "ORG",
+      "text": "Digital",
+      "start": 99871,
+      "end": 99878
+    },
+    {
+      "type": "ORG",
+      "text": "Content",
+      "start": 99997,
+      "end": 100004
+    },
+    {
+      "type": "ORG",
+      "text": "SMS",
+      "start": 100393,
+      "end": 100396
+    },
+    {
+      "type": "ORG",
+      "text": "MMS",
+      "start": 100401,
+      "end": 100404
+    },
+    {
+      "type": "ORG",
+      "text": "Digital",
+      "start": 100409,
+      "end": 100416
+    },
+    {
+      "type": "ORG",
+      "text": "ONLINE  &  OFFLINE  COURSE",
+      "start": 100753,
+      "end": 100779
+    },
+    {
+      "type": "ORG",
+      "text": "Skills  Training",
+      "start": 100782,
+      "end": 100798
+    },
+    {
+      "type": "ORG",
+      "text": "Ethical hacking & cyber",
+      "start": 101232,
+      "end": 101255
+    },
+    {
+      "type": "ORG",
+      "text": "Digital",
+      "start": 101300,
+      "end": 101307
+    },
+    {
+      "type": "ORG",
+      "text": "Android",
+      "start": 101322,
+      "end": 101329
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 101504,
+      "end": 101511
+    },
+    {
+      "type": "ORG",
+      "text": "Software",
+      "start": 101541,
+      "end": 101549
+    },
+    {
+      "type": "PERSON",
+      "text": "C++",
+      "start": 101591,
+      "end": 101594
+    },
+    {
+      "type": "PERSON",
+      "text": "JAVA",
+      "start": 101596,
+      "end": 101600
+    },
+    {
+      "type": "ORG",
+      "text": "PHP",
+      "start": 101602,
+      "end": 101605
+    },
+    {
+      "type": "ORG",
+      "text": "ETC",
+      "start": 101614,
+      "end": 101617
+    },
+    {
+      "type": "ORG",
+      "text": "VLSI",
+      "start": 101649,
+      "end": 101653
+    },
+    {
+      "type": "ORG",
+      "text": "Software",
+      "start": 101683,
+      "end": 101691
+    },
+    {
+      "type": "ORG",
+      "text": "Small & Medium Enterprises",
+      "start": 101819,
+      "end": 101845
+    },
+    {
+      "type": "ORG",
+      "text": "SME",
+      "start": 101847,
+      "end": 101850
+    },
+    {
+      "type": "ORG",
+      "text": "Niks Technology",
+      "start": 101853,
+      "end": 101868
+    },
+    {
+      "type": "ORG",
+      "text": "NET Development",
+      "start": 102016,
+      "end": 102031
+    },
+    {
+      "type": "ORG",
+      "text": "NET",
+      "start": 102439,
+      "end": 102442
+    },
+    {
+      "type": "ORG",
+      "text": "PHP",
+      "start": 103005,
+      "end": 103008
+    },
+    {
+      "type": "ORG",
+      "text": "LAMP",
+      "start": 103030,
+      "end": 103034
+    },
+    {
+      "type": "ORG",
+      "text": "PHP",
+      "start": 103065,
+      "end": 103068
+    },
+    {
+      "type": "ORG",
+      "text": "PHP",
+      "start": 103123,
+      "end": 103126
+    },
+    {
+      "type": "ORG",
+      "text": "PHP",
+      "start": 103229,
+      "end": 103232
+    },
+    {
+      "type": "ORG",
+      "text": "PHP",
+      "start": 103275,
+      "end": 103278
+    },
+    {
+      "type": "ORG",
+      "text": "PHP",
+      "start": 103315,
+      "end": 103318
+    },
+    {
+      "type": "ORG",
+      "text": "PHP",
+      "start": 103347,
+      "end": 103350
+    },
+    {
+      "type": "ORG",
+      "text": "PHP",
+      "start": 103366,
+      "end": 103369
+    },
+    {
+      "type": "ORG",
+      "text": "AJAX Development",
+      "start": 103424,
+      "end": 103440
+    },
+    {
+      "type": "ORG",
+      "text": "AJAX",
+      "start": 103442,
+      "end": 103446
+    },
+    {
+      "type": "ORG",
+      "text": "XML",
+      "start": 103486,
+      "end": 103489
+    },
+    {
+      "type": "ORG",
+      "text": "AJAX",
+      "start": 103491,
+      "end": 103495
+    },
+    {
+      "type": "ORG",
+      "text": "XML",
+      "start": 103612,
+      "end": 103615
+    },
+    {
+      "type": "ORG",
+      "text": "HTML",
+      "start": 103617,
+      "end": 103621
+    },
+    {
+      "type": "ORG",
+      "text": "CSS",
+      "start": 103623,
+      "end": 103626
+    },
+    {
+      "type": "PERSON",
+      "text": "Java Script",
+      "start": 103632,
+      "end": 103643
+    },
+    {
+      "type": "ORG",
+      "text": "AJAX",
+      "start": 103645,
+      "end": 103649
+    },
+    {
+      "type": "PERSON",
+      "text": "Custom \nAJAX",
+      "start": 103667,
+      "end": 103679
+    },
+    {
+      "type": "ORG",
+      "text": "AJAX",
+      "start": 103693,
+      "end": 103697
+    },
+    {
+      "type": "PERSON",
+      "text": "Joomla",
+      "start": 103768,
+      "end": 103774
+    },
+    {
+      "type": "ORG",
+      "text": "CMS",
+      "start": 103900,
+      "end": 103903
+    },
+    {
+      "type": "GPE",
+      "text": "PostgreSQL",
+      "start": 103955,
+      "end": 103965
+    },
+    {
+      "type": "PERSON",
+      "text": "Joomla",
+      "start": 104082,
+      "end": 104088
+    },
+    {
+      "type": "PERSON",
+      "text": "Custom",
+      "start": 104109,
+      "end": 104115
+    },
+    {
+      "type": "PERSON",
+      "text": "Joomla",
+      "start": 104117,
+      "end": 104123
+    },
+    {
+      "type": "PERSON",
+      "text": "Joomla",
+      "start": 104139,
+      "end": 104145
+    },
+    {
+      "type": "ORG",
+      "text": "Database  Design  &  Consulting",
+      "start": 104198,
+      "end": 104229
+    },
+    {
+      "type": "ORG",
+      "text": "Database  Design",
+      "start": 104232,
+      "end": 104248
+    },
+    {
+      "type": "PERSON",
+      "text": "Java-centric",
+      "start": 104641,
+      "end": 104653
+    },
+    {
+      "type": "ORG",
+      "text": "Sun",
+      "start": 104674,
+      "end": 104677
+    },
+    {
+      "type": "ORG",
+      "text": "SharePoint  Development",
+      "start": 104939,
+      "end": 104962
+    },
+    {
+      "type": "ORG",
+      "text": "SharePoint",
+      "start": 104965,
+      "end": 104975
+    },
+    {
+      "type": "ORG",
+      "text": "Microsoft Office",
+      "start": 105042,
+      "end": 105058
+    },
+    {
+      "type": "DATE",
+      "text": "2001",
+      "start": 105072,
+      "end": 105076
+    },
+    {
+      "type": "ORG",
+      "text": "SharePoint",
+      "start": 105078,
+      "end": 105088
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 105280,
+      "end": 105287
+    },
+    {
+      "type": "ORG",
+      "text": "Content \nManagement  System",
+      "start": 105758,
+      "end": 105785
+    },
+    {
+      "type": "ORG",
+      "text": "PHP design & application",
+      "start": 106002,
+      "end": 106026
+    },
+    {
+      "type": "PERSON",
+      "text": "Maintenance \n\uf0b7  Website",
+      "start": 106109,
+      "end": 106132
+    },
+    {
+      "type": "PERSON",
+      "text": "Complete",
+      "start": 106149,
+      "end": 106157
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish",
+      "start": 106227,
+      "end": 106233
+    },
+    {
+      "type": "PERSON",
+      "text": "Dixit",
+      "start": 106235,
+      "end": 106240
+    },
+    {
+      "type": "DATE",
+      "text": "the early days",
+      "start": 106841,
+      "end": 106855
+    },
+    {
+      "type": "ORG",
+      "text": "Drone Services",
+      "start": 107325,
+      "end": 107339
+    },
+    {
+      "type": "ORG",
+      "text": "AMC",
+      "start": 107715,
+      "end": 107718
+    },
+    {
+      "type": "DATE",
+      "text": "Annual",
+      "start": 107758,
+      "end": 107764
+    },
+    {
+      "type": "ORG",
+      "text": "Maintenance  Contract",
+      "start": 107766,
+      "end": 107787
+    },
+    {
+      "type": "ORG",
+      "text": "AMC",
+      "start": 107790,
+      "end": 107793
+    },
+    {
+      "type": "ORG",
+      "text": "ICAI",
+      "start": 108284,
+      "end": 108288
+    },
+    {
+      "type": "ORG",
+      "text": "Business  Segment",
+      "start": 108333,
+      "end": 108350
+    },
+    {
+      "type": "ORG",
+      "text": "Advertising and Marketing Solutions",
+      "start": 108416,
+      "end": 108451
+    },
+    {
+      "type": "ORG",
+      "text": "Digital",
+      "start": 108462,
+      "end": 108469
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 108510,
+      "end": 108517
+    },
+    {
+      "type": "ORG",
+      "text": "Gifting Solutions, Event Management",
+      "start": 108566,
+      "end": 108601
+    },
+    {
+      "type": "ORG",
+      "text": "Business \nSegment",
+      "start": 108717,
+      "end": 108734
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 108824,
+      "end": 108829
+    },
+    {
+      "type": "PERSON",
+      "text": "Refer",
+      "start": 109017,
+      "end": 109022
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 109145,
+      "end": 109152
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 109214,
+      "end": 109219
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 109279,
+      "end": 109284
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 109345,
+      "end": 109350
+    },
+    {
+      "type": "MONEY",
+      "text": "\u20b9  61.39/-",
+      "start": 109370,
+      "end": 109380
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 109382,
+      "end": 109387
+    },
+    {
+      "type": "DATE",
+      "text": "the current financial year",
+      "start": 109461,
+      "end": 109487
+    },
+    {
+      "type": "MONEY",
+      "text": "\u20b9 45.05/- Lakhs",
+      "start": 109491,
+      "end": 109506
+    },
+    {
+      "type": "DATE",
+      "text": "the \nprevious year",
+      "start": 109541,
+      "end": 109559
+    },
+    {
+      "type": "ORG",
+      "text": "Inventory Turnover",
+      "start": 109660,
+      "end": 109678
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 109692,
+      "end": 109696
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110079,
+      "end": 110083
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 110085,
+      "end": 110092
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110112,
+      "end": 110116
+    },
+    {
+      "type": "DATE",
+      "text": "2023-24",
+      "start": 110118,
+      "end": 110125
+    },
+    {
+      "type": "ORG",
+      "text": "Average \nInventory",
+      "start": 110150,
+      "end": 110168
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110176,
+      "end": 110180
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110249,
+      "end": 110253
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 110255,
+      "end": 110262
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110282,
+      "end": 110286
+    },
+    {
+      "type": "DATE",
+      "text": "2023-24",
+      "start": 110288,
+      "end": 110295
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110346,
+      "end": 110350
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110408,
+      "end": 110412
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 110414,
+      "end": 110421
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110441,
+      "end": 110445
+    },
+    {
+      "type": "DATE",
+      "text": "2023-24",
+      "start": 110447,
+      "end": 110454
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110510,
+      "end": 110514
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 110515,
+      "end": 110522
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110575,
+      "end": 110579
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 110580,
+      "end": 110587
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110603,
+      "end": 110607
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110648,
+      "end": 110652
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110718,
+      "end": 110722
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 110723,
+      "end": 110730
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110746,
+      "end": 110750
+    },
+    {
+      "type": "DATE",
+      "text": "2023-24",
+      "start": 110752,
+      "end": 110759
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110803,
+      "end": 110807
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 110808,
+      "end": 110815
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110868,
+      "end": 110872
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 110874,
+      "end": 110881
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110901,
+      "end": 110905
+    },
+    {
+      "type": "DATE",
+      "text": "2023-24",
+      "start": 110907,
+      "end": 110914
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 110952,
+      "end": 110956
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 111015,
+      "end": 111019
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 111020,
+      "end": 111027
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 111043,
+      "end": 111047
+    },
+    {
+      "type": "GPE",
+      "text": "Shareholder",
+      "start": 111080,
+      "end": 111091
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 111111,
+      "end": 111115
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 111116,
+      "end": 111123
+    },
+    {
+      "type": "DATE",
+      "text": "year",
+      "start": 111495,
+      "end": 111499
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 111563,
+      "end": 111567
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 111568,
+      "end": 111575
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 111591,
+      "end": 111595
+    },
+    {
+      "type": "ORG",
+      "text": "Shareholder's Equity",
+      "start": 111623,
+      "end": 111643
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 111651,
+      "end": 111655
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 111657,
+      "end": 111664
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 111686,
+      "end": 111693
+    },
+    {
+      "type": "MONEY",
+      "text": "2013  Act",
+      "start": 111954,
+      "end": 111963
+    },
+    {
+      "type": "MONEY",
+      "text": "2013  Act",
+      "start": 112008,
+      "end": 112017
+    },
+    {
+      "type": "DATE",
+      "text": "the period of 1st day of April to 31st day",
+      "start": 112216,
+      "end": 112258
+    },
+    {
+      "type": "DATE",
+      "text": "March",
+      "start": 112263,
+      "end": 112268
+    },
+    {
+      "type": "DATE",
+      "text": "each year",
+      "start": 112270,
+      "end": 112279
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 112418,
+      "end": 112422
+    },
+    {
+      "type": "ORG",
+      "text": "Our  Management",
+      "start": 113190,
+      "end": 113205
+    },
+    {
+      "type": "DATE",
+      "text": "the last \n6 years",
+      "start": 114096,
+      "end": 114113
+    },
+    {
+      "type": "ORG",
+      "text": "Brand",
+      "start": 114561,
+      "end": 114566
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 114620,
+      "end": 114627
+    },
+    {
+      "type": "PERSON",
+      "text": "Ethical",
+      "start": 114855,
+      "end": 114862
+    },
+    {
+      "type": "ORG",
+      "text": "Digital",
+      "start": 114926,
+      "end": 114933
+    },
+    {
+      "type": "ORG",
+      "text": "Android",
+      "start": 114947,
+      "end": 114954
+    },
+    {
+      "type": "ORG",
+      "text": "FUN",
+      "start": 115207,
+      "end": 115210
+    },
+    {
+      "type": "DATE",
+      "text": "the last 7 years",
+      "start": 116505,
+      "end": 116521
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 118113,
+      "end": 118120
+    },
+    {
+      "type": "ORG",
+      "text": "a Professional Organisation",
+      "start": 118142,
+      "end": 118169
+    },
+    {
+      "type": "GPE",
+      "text": "Patna",
+      "start": 118950,
+      "end": 118955
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 120673,
+      "end": 120680
+    },
+    {
+      "type": "ORG",
+      "text": "Credit  Risk",
+      "start": 120851,
+      "end": 120863
+    },
+    {
+      "type": "ORG",
+      "text": "Market  Risk",
+      "start": 120866,
+      "end": 120878
+    },
+    {
+      "type": "ORG",
+      "text": "Operational  Risk",
+      "start": 120881,
+      "end": 120898
+    },
+    {
+      "type": "ORG",
+      "text": "Liquidity  Risk",
+      "start": 120901,
+      "end": 120916
+    },
+    {
+      "type": "ORG",
+      "text": "Internal Control System & Adequacy \n\nInternal  Control  Systems",
+      "start": 121104,
+      "end": 121167
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 121918,
+      "end": 121925
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 122562,
+      "end": 122569
+    },
+    {
+      "type": "ORG",
+      "text": "The Board of Directors \nNIKS Technology Limited",
+      "start": 122580,
+      "end": 122627
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 122782,
+      "end": 122786
+    },
+    {
+      "type": "PERSON",
+      "text": "Knowledge",
+      "start": 122810,
+      "end": 122819
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 123318,
+      "end": 123326
+    },
+    {
+      "type": "ORG",
+      "text": "Audit \nCommittee",
+      "start": 123706,
+      "end": 123722
+    },
+    {
+      "type": "ORG",
+      "text": "the Audit Committee: \n\n",
+      "start": 123960,
+      "end": 123983
+    },
+    {
+      "type": "ORG",
+      "text": "Internal Controls",
+      "start": 124023,
+      "end": 124040
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 124073,
+      "end": 124081
+    },
+    {
+      "type": "DATE",
+      "text": "the Year",
+      "start": 124154,
+      "end": 124162
+    },
+    {
+      "type": "PERSON",
+      "text": "Manish Dixit",
+      "start": 124500,
+      "end": 124512
+    },
+    {
+      "type": "ORG",
+      "text": "CFO",
+      "start": 124591,
+      "end": 124594
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 124734,
+      "end": 124741
+    },
+    {
+      "type": "ORG",
+      "text": "Financial  Statements",
+      "start": 124869,
+      "end": 124890
+    },
+    {
+      "type": "DATE",
+      "text": "31st March",
+      "start": 124980,
+      "end": 124990
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 124992,
+      "end": 124996
+    },
+    {
+      "type": "ORG",
+      "text": "the Statement of Profit",
+      "start": 124998,
+      "end": 125021
+    },
+    {
+      "type": "PERSON",
+      "text": "Loss",
+      "start": 125026,
+      "end": 125030
+    },
+    {
+      "type": "DATE",
+      "text": "the  year",
+      "start": 125074,
+      "end": 125083
+    },
+    {
+      "type": "ORG",
+      "text": "Financial  Statements",
+      "start": 125119,
+      "end": 125140
+    },
+    {
+      "type": "ORG",
+      "text": "Financial Statements",
+      "start": 125378,
+      "end": 125398
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 125564,
+      "end": 125569
+    },
+    {
+      "type": "DATE",
+      "text": "31st  March",
+      "start": 125623,
+      "end": 125634
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 125636,
+      "end": 125640
+    },
+    {
+      "type": "DATE",
+      "text": "the  year",
+      "start": 125702,
+      "end": 125711
+    },
+    {
+      "type": "ORG",
+      "text": "Financial  Statements",
+      "start": 126025,
+      "end": 126046
+    },
+    {
+      "type": "ORG",
+      "text": "the  Institute  of  Chartered \nAccountants of",
+      "start": 126172,
+      "end": 126217
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 126218,
+      "end": 126223
+    },
+    {
+      "type": "ORG",
+      "text": "Financial  Statements",
+      "start": 126315,
+      "end": 126336
+    },
+    {
+      "type": "ORG",
+      "text": "the Financial Statements",
+      "start": 126685,
+      "end": 126709
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 126902,
+      "end": 126909
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 126912,
+      "end": 126918
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 127022,
+      "end": 127028
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 127666,
+      "end": 127673
+    },
+    {
+      "type": "DATE",
+      "text": "annual",
+      "start": 127676,
+      "end": 127682
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 127979,
+      "end": 127986
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 128166,
+      "end": 128170
+    },
+    {
+      "type": "ORG",
+      "text": "Financial  Statements",
+      "start": 128253,
+      "end": 128274
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 128455,
+      "end": 128460
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 128590,
+      "end": 128594
+    },
+    {
+      "type": "ORG",
+      "text": "the Financial Statements",
+      "start": 129217,
+      "end": 129241
+    },
+    {
+      "type": "ORG",
+      "text": "Financial  Statements",
+      "start": 129368,
+      "end": 129389
+    },
+    {
+      "type": "ORG",
+      "text": "Those  Board",
+      "start": 129757,
+      "end": 129769
+    },
+    {
+      "type": "ORG",
+      "text": "AUDITOR",
+      "start": 129871,
+      "end": 129878
+    },
+    {
+      "type": "ORG",
+      "text": "Financial  Statements",
+      "start": 129976,
+      "end": 129997
+    },
+    {
+      "type": "ORG",
+      "text": "the Financial Statements",
+      "start": 131096,
+      "end": 131120
+    },
+    {
+      "type": "ORG",
+      "text": "Financial  Statements",
+      "start": 131272,
+      "end": 131293
+    },
+    {
+      "type": "ORG",
+      "text": "the Financial Statements",
+      "start": 131430,
+      "end": 131454
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 132077,
+      "end": 132084
+    },
+    {
+      "type": "ORG",
+      "text": "the Statement of Profit",
+      "start": 132578,
+      "end": 132601
+    },
+    {
+      "type": "ORG",
+      "text": "the Statement of Cash Flows",
+      "start": 132615,
+      "end": 132642
+    },
+    {
+      "type": "ORG",
+      "text": "Financial  Statements",
+      "start": 132757,
+      "end": 132778
+    },
+    {
+      "type": "DATE",
+      "text": "31st  March",
+      "start": 133003,
+      "end": 133014
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 133017,
+      "end": 133021
+    },
+    {
+      "type": "ORG",
+      "text": "the Board of Directors",
+      "start": 133042,
+      "end": 133064
+    },
+    {
+      "type": "DATE",
+      "text": "31st March",
+      "start": 133110,
+      "end": 133120
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 133123,
+      "end": 133127
+    },
+    {
+      "type": "ORG",
+      "text": "the Auditor\u2019s Report",
+      "start": 133498,
+      "end": 133518
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 133760,
+      "end": 133768
+    },
+    {
+      "type": "ORG",
+      "text": "the Auditor\u2019s Report",
+      "start": 133892,
+      "end": 133912
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 133994,
+      "end": 133998
+    },
+    {
+      "type": "ORG",
+      "text": "Financial Statements",
+      "start": 134171,
+      "end": 134191
+    },
+    {
+      "type": "ORG",
+      "text": "the Investor Education",
+      "start": 134390,
+      "end": 134412
+    },
+    {
+      "type": "DATE",
+      "text": "the period ended 31st March, 2025",
+      "start": 134457,
+      "end": 134490
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 134555,
+      "end": 134563
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 135178,
+      "end": 135185
+    },
+    {
+      "type": "ORG",
+      "text": "the Ultimate Beneficiaries",
+      "start": 135399,
+      "end": 135425
+    },
+    {
+      "type": "ORG",
+      "text": "Funding  Party",
+      "start": 135963,
+      "end": 135977
+    },
+    {
+      "type": "ORG",
+      "text": "the Ultimate Beneficiaries",
+      "start": 136069,
+      "end": 136095
+    },
+    {
+      "type": "PERSON",
+      "text": "c.  Based",
+      "start": 136099,
+      "end": 136108
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 136485,
+      "end": 136489
+    },
+    {
+      "type": "DATE",
+      "text": "April  1",
+      "start": 136688,
+      "end": 136696
+    },
+    {
+      "type": "DATE",
+      "text": "2023",
+      "start": 136699,
+      "end": 136703
+    },
+    {
+      "type": "DATE",
+      "text": "the  year",
+      "start": 136991,
+      "end": 137000
+    },
+    {
+      "type": "DATE",
+      "text": "2020",
+      "start": 137393,
+      "end": 137397
+    },
+    {
+      "type": "ORG",
+      "text": "the Central \nGovernment of India",
+      "start": 137423,
+      "end": 137455
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Gupta",
+      "start": 137646,
+      "end": 137655
+    },
+    {
+      "type": "ORG",
+      "text": "Associates",
+      "start": 137660,
+      "end": 137670
+    },
+    {
+      "type": "ORG",
+      "text": "Erstwhile Gupta Agarwal & Associates",
+      "start": 137673,
+      "end": 137709
+    },
+    {
+      "type": "DATE",
+      "text": "329001E",
+      "start": 137759,
+      "end": 137766
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Shanker Gupta \nPartner \n\n      Membership",
+      "start": 137804,
+      "end": 137849
+    },
+    {
+      "type": "DATE",
+      "text": "059535",
+      "start": 137854,
+      "end": 137860
+    },
+    {
+      "type": "ORG",
+      "text": "the Independent Auditor\u2019s Report",
+      "start": 137973,
+      "end": 138005
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 138027,
+      "end": 138034
+    },
+    {
+      "type": "ORG",
+      "text": "ON THE INTERNAL FINANCIAL CONTROLS",
+      "start": 138048,
+      "end": 138082
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 138155,
+      "end": 138159
+    },
+    {
+      "type": "DATE",
+      "text": "31st  March",
+      "start": 138315,
+      "end": 138326
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 138329,
+      "end": 138333
+    },
+    {
+      "type": "DATE",
+      "text": "the year ended on that date",
+      "start": 138420,
+      "end": 138447
+    },
+    {
+      "type": "ORG",
+      "text": "INTERNAL FINANCIAL CONTROLS  \n\nThe Company\u2019s",
+      "start": 138484,
+      "end": 138528
+    },
+    {
+      "type": "ORG",
+      "text": "Internal  Financial \nControls",
+      "start": 138819,
+      "end": 138848
+    },
+    {
+      "type": "ORG",
+      "text": "Financial  Reporting",
+      "start": 138856,
+      "end": 138876
+    },
+    {
+      "type": "ORG",
+      "text": "the  Institute  of  ",
+      "start": 138890,
+      "end": 138910
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 138938,
+      "end": 138943
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 139476,
+      "end": 139480
+    },
+    {
+      "type": "ORG",
+      "text": "Internal  Financial  Controls",
+      "start": 139736,
+      "end": 139765
+    },
+    {
+      "type": "ORG",
+      "text": "Financial  Reporting",
+      "start": 139773,
+      "end": 139793
+    },
+    {
+      "type": "DATE",
+      "text": "143(10",
+      "start": 139923,
+      "end": 139929
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 139958,
+      "end": 139962
+    },
+    {
+      "type": "ORG",
+      "text": "Internal  Financial  Controls",
+      "start": 140082,
+      "end": 140111
+    },
+    {
+      "type": "ORG",
+      "text": "the  Institute  of  ",
+      "start": 140137,
+      "end": 140157
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 140185,
+      "end": 140190
+    },
+    {
+      "type": "ORG",
+      "text": "the Financial Statements",
+      "start": 141230,
+      "end": 141254
+    },
+    {
+      "type": "ORG",
+      "text": "Financial Statements",
+      "start": 141476,
+      "end": 141496
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 141613,
+      "end": 141620
+    },
+    {
+      "type": "ORG",
+      "text": "Financial Statements",
+      "start": 142365,
+      "end": 142385
+    },
+    {
+      "type": "ORG",
+      "text": "LIMITATIONS",
+      "start": 142839,
+      "end": 142850
+    },
+    {
+      "type": "ORG",
+      "text": "INTERNAL  FINANCIAL  CONTROLS",
+      "start": 142856,
+      "end": 142885
+    },
+    {
+      "type": "DATE",
+      "text": "31st  March",
+      "start": 143838,
+      "end": 143849
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 143852,
+      "end": 143856
+    },
+    {
+      "type": "ORG",
+      "text": "Financial Reporting",
+      "start": 144103,
+      "end": 144122
+    },
+    {
+      "type": "ORG",
+      "text": "the Institute \nof Chartered Accountants",
+      "start": 144133,
+      "end": 144172
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 144176,
+      "end": 144181
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Gupta",
+      "start": 144189,
+      "end": 144198
+    },
+    {
+      "type": "ORG",
+      "text": "Associates",
+      "start": 144203,
+      "end": 144213
+    },
+    {
+      "type": "ORG",
+      "text": "Erstwhile Gupta Agarwal & Associates",
+      "start": 144216,
+      "end": 144252
+    },
+    {
+      "type": "DATE",
+      "text": "329001E",
+      "start": 144302,
+      "end": 144309
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Shanker Gupta \nPartner \n\n      Membership",
+      "start": 144347,
+      "end": 144392
+    },
+    {
+      "type": "DATE",
+      "text": "059535",
+      "start": 144397,
+      "end": 144403
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 144522,
+      "end": 144529
+    },
+    {
+      "type": "ORG",
+      "text": "the Independent Auditor\u2019s Report",
+      "start": 144552,
+      "end": 144584
+    },
+    {
+      "type": "ORG",
+      "text": "Legal  &  Regulatory  Requirement",
+      "start": 144660,
+      "end": 144693
+    },
+    {
+      "type": "ORG",
+      "text": "the Financial Statements",
+      "start": 144723,
+      "end": 144747
+    },
+    {
+      "type": "DATE",
+      "text": "the year ended 31st March",
+      "start": 144767,
+      "end": 144792
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 144794,
+      "end": 144798
+    },
+    {
+      "type": "ORG",
+      "text": "PLANT & EQUIPMENT",
+      "start": 144832,
+      "end": 144849
+    },
+    {
+      "type": "ORG",
+      "text": "Property",
+      "start": 145026,
+      "end": 145034
+    },
+    {
+      "type": "ORG",
+      "text": "Plant and Equipment",
+      "start": 145036,
+      "end": 145055
+    },
+    {
+      "type": "ORG",
+      "text": "Property",
+      "start": 145495,
+      "end": 145503
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 145602,
+      "end": 145610
+    },
+    {
+      "type": "PERSON",
+      "text": "Benami",
+      "start": 145705,
+      "end": 145711
+    },
+    {
+      "type": "DATE",
+      "text": "1988",
+      "start": 145772,
+      "end": 145776
+    },
+    {
+      "type": "DATE",
+      "text": "the  year",
+      "start": 146329,
+      "end": 146338
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 146643,
+      "end": 146651
+    },
+    {
+      "type": "GPE",
+      "text": "secured/",
+      "start": 146959,
+      "end": 146967
+    },
+    {
+      "type": "PERSON",
+      "text": "Order",
+      "start": 147183,
+      "end": 147188
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 147215,
+      "end": 147222
+    },
+    {
+      "type": "ORG",
+      "text": "LOAN",
+      "start": 147229,
+      "end": 147233
+    },
+    {
+      "type": "PERSON",
+      "text": "DIRECTORS",
+      "start": 147237,
+      "end": 147246
+    },
+    {
+      "type": "PERSON",
+      "text": "Order",
+      "start": 147510,
+      "end": 147515
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 147542,
+      "end": 147549
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 147589,
+      "end": 147596
+    },
+    {
+      "type": "GPE",
+      "text": "DEPOSITS",
+      "start": 147606,
+      "end": 147614
+    },
+    {
+      "type": "ORG",
+      "text": "Cost Records",
+      "start": 147980,
+      "end": 147992
+    },
+    {
+      "type": "ORG",
+      "text": "the Central Government",
+      "start": 148019,
+      "end": 148041
+    },
+    {
+      "type": "ORG",
+      "text": "DUES",
+      "start": 148163,
+      "end": 148167
+    },
+    {
+      "type": "DATE",
+      "text": "31st March",
+      "start": 148623,
+      "end": 148633
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 148635,
+      "end": 148639
+    },
+    {
+      "type": "DATE",
+      "text": "more than six months",
+      "start": 148656,
+      "end": 148676
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 148741,
+      "end": 148746
+    },
+    {
+      "type": "ORG",
+      "text": "IGST",
+      "start": 148750,
+      "end": 148754
+    },
+    {
+      "type": "MONEY",
+      "text": "3.49  \n\n ",
+      "start": 148764,
+      "end": 148773
+    },
+    {
+      "type": "MONEY",
+      "text": "19.63  \n\n SGST",
+      "start": 148793,
+      "end": 148807
+    },
+    {
+      "type": "ORG",
+      "text": "SURRENDERED",
+      "start": 149066,
+      "end": 149077
+    },
+    {
+      "type": "DATE",
+      "text": "the  year  in  the",
+      "start": 149274,
+      "end": 149292
+    },
+    {
+      "type": "DATE",
+      "text": "1961",
+      "start": 149343,
+      "end": 149347
+    },
+    {
+      "type": "PERSON",
+      "text": "REPAYMENT DUES",
+      "start": 149354,
+      "end": 149368
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 149717,
+      "end": 149724
+    },
+    {
+      "type": "PERSON",
+      "text": "Wilful Defaulter",
+      "start": 149747,
+      "end": 149763
+    },
+    {
+      "type": "DATE",
+      "text": "the  year",
+      "start": 150525,
+      "end": 150534
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 150672,
+      "end": 150679
+    },
+    {
+      "type": "ORG",
+      "text": "Equity Shares of Face Value",
+      "start": 150809,
+      "end": 150836
+    },
+    {
+      "type": "ORG",
+      "text": "INR",
+      "start": 151025,
+      "end": 151028
+    },
+    {
+      "type": "ORG",
+      "text": "Board  Resolution",
+      "start": 151056,
+      "end": 151073
+    },
+    {
+      "type": "DATE",
+      "text": "19th \nJuly, 2024 and 10th March",
+      "start": 151078,
+      "end": 151109
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 151111,
+      "end": 151115
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 151308,
+      "end": 151316
+    },
+    {
+      "type": "PERSON",
+      "text": "Order",
+      "start": 151374,
+      "end": 151379
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 151405,
+      "end": 151412
+    },
+    {
+      "type": "ORG",
+      "text": "FRAUD",
+      "start": 151420,
+      "end": 151425
+    },
+    {
+      "type": "ORG",
+      "text": "WHISTLE-BLOWER COMPLAINTS",
+      "start": 151430,
+      "end": 151455
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 151701,
+      "end": 151709
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 151884,
+      "end": 151889
+    },
+    {
+      "type": "GPE",
+      "text": "Form ADT-4",
+      "start": 152001,
+      "end": 152011
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 152091,
+      "end": 152095
+    },
+    {
+      "type": "ORG",
+      "text": "Central \nGovernment",
+      "start": 152143,
+      "end": 152162
+    },
+    {
+      "type": "PERSON",
+      "text": "Whistle",
+      "start": 152277,
+      "end": 152284
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 152333,
+      "end": 152341
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 152349,
+      "end": 152356
+    },
+    {
+      "type": "PERSON",
+      "text": "Order",
+      "start": 152546,
+      "end": 152551
+    },
+    {
+      "type": "DATE",
+      "text": "2020",
+      "start": 152554,
+      "end": 152558
+    },
+    {
+      "type": "ORG",
+      "text": "Nidhi  Company",
+      "start": 152568,
+      "end": 152582
+    },
+    {
+      "type": "DATE",
+      "text": "March  31",
+      "start": 153264,
+      "end": 153273
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 153276,
+      "end": 153280
+    },
+    {
+      "type": "ORG",
+      "text": "RBI ACT",
+      "start": 153726,
+      "end": 153733
+    },
+    {
+      "type": "DATE",
+      "text": "1934",
+      "start": 153735,
+      "end": 153739
+    },
+    {
+      "type": "DATE",
+      "text": "1934",
+      "start": 153857,
+      "end": 153861
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 153977,
+      "end": 153984
+    },
+    {
+      "type": "ORG",
+      "text": "Non-Banking  Financial",
+      "start": 154031,
+      "end": 154053
+    },
+    {
+      "type": "ORG",
+      "text": "Housing  Finance",
+      "start": 154059,
+      "end": 154075
+    },
+    {
+      "type": "DATE",
+      "text": "the \nyear",
+      "start": 154097,
+      "end": 154106
+    },
+    {
+      "type": "ORG",
+      "text": "Core Investment Company",
+      "start": 154131,
+      "end": 154154
+    },
+    {
+      "type": "ORG",
+      "text": "CIC",
+      "start": 154156,
+      "end": 154159
+    },
+    {
+      "type": "ORG",
+      "text": "the Reserve \nBank of India",
+      "start": 154197,
+      "end": 154223
+    },
+    {
+      "type": "DATE",
+      "text": "01st April, 2024 to 31st March",
+      "start": 154326,
+      "end": 154356
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 154358,
+      "end": 154362
+    },
+    {
+      "type": "DATE",
+      "text": "preceding financial year",
+      "start": 154387,
+      "end": 154411
+    },
+    {
+      "type": "ORG",
+      "text": "the Financial Statements",
+      "start": 154822,
+      "end": 154846
+    },
+    {
+      "type": "ORG",
+      "text": "the  Board  of  Directors",
+      "start": 154878,
+      "end": 154903
+    },
+    {
+      "type": "DATE",
+      "text": "one  year",
+      "start": 155200,
+      "end": 155209
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 155312,
+      "end": 155316
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 155429,
+      "end": 155433
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 155626,
+      "end": 155630
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 155631,
+      "end": 155638
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Gupta",
+      "start": 155646,
+      "end": 155655
+    },
+    {
+      "type": "ORG",
+      "text": "Associates",
+      "start": 155660,
+      "end": 155670
+    },
+    {
+      "type": "ORG",
+      "text": "Erstwhile Gupta Agarwal & Associates",
+      "start": 155673,
+      "end": 155709
+    },
+    {
+      "type": "DATE",
+      "text": "329001E",
+      "start": 155759,
+      "end": 155766
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Shanker Gupta \nPartner \n\n      Membership",
+      "start": 155804,
+      "end": 155849
+    },
+    {
+      "type": "DATE",
+      "text": "059535",
+      "start": 155854,
+      "end": 155860
+    },
+    {
+      "type": "ORG",
+      "text": "CIN",
+      "start": 156012,
+      "end": 156015
+    },
+    {
+      "type": "DATE",
+      "text": "31ST, MARCH 2025",
+      "start": 156070,
+      "end": 156086
+    },
+    {
+      "type": "DATE",
+      "text": "1+2+3",
+      "start": 156614,
+      "end": 156619
+    },
+    {
+      "type": "ORG",
+      "text": "PLANT & EQUIPMENT",
+      "start": 156670,
+      "end": 156687
+    },
+    {
+      "type": "ORG",
+      "text": "PLANT & EQUIPMENTS\n\n - INTANGIBLE",
+      "start": 156725,
+      "end": 156758
+    },
+    {
+      "type": "DATE",
+      "text": "1+2",
+      "start": 156984,
+      "end": 156987
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 157005,
+      "end": 157010
+    },
+    {
+      "type": "DATE",
+      "text": "31-03-2025",
+      "start": 157056,
+      "end": 157066
+    },
+    {
+      "type": "DATE",
+      "text": "31-03-2024",
+      "start": 157075,
+      "end": 157085
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Gupta",
+      "start": 157571,
+      "end": 157580
+    },
+    {
+      "type": "ORG",
+      "text": "Associates",
+      "start": 157585,
+      "end": 157595
+    },
+    {
+      "type": "ORG",
+      "text": "Erstwhile Gupta Agarwal & Associates",
+      "start": 157598,
+      "end": 157634
+    },
+    {
+      "type": "DATE",
+      "text": "329001E",
+      "start": 157665,
+      "end": 157672
+    },
+    {
+      "type": "ORG",
+      "text": "DIXIT",
+      "start": 157681,
+      "end": 157686
+    },
+    {
+      "type": "DATE",
+      "text": "06888132",
+      "start": 157714,
+      "end": 157722
+    },
+    {
+      "type": "ORG",
+      "text": "DIRECTOR",
+      "start": 157741,
+      "end": 157749
+    },
+    {
+      "type": "DATE",
+      "text": "08229644",
+      "start": 157763,
+      "end": 157771
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Shanker Gupta",
+      "start": 157773,
+      "end": 157790
+    },
+    {
+      "type": "DATE",
+      "text": "059535",
+      "start": 157918,
+      "end": 157924
+    },
+    {
+      "type": "ORG",
+      "text": "CIN",
+      "start": 158786,
+      "end": 158789
+    },
+    {
+      "type": "PERSON",
+      "text": "L80904BR2014PLC022439\nPART II - STATEMENT",
+      "start": 158791,
+      "end": 158832
+    },
+    {
+      "type": "DATE",
+      "text": "MARCH 2025",
+      "start": 158876,
+      "end": 158886
+    },
+    {
+      "type": "ORG",
+      "text": "OPERATIONS",
+      "start": 158925,
+      "end": 158935
+    },
+    {
+      "type": "ORG",
+      "text": "OPERATIONS",
+      "start": 158952,
+      "end": 158962
+    },
+    {
+      "type": "ORG",
+      "text": "BASIC",
+      "start": 159699,
+      "end": 159704
+    },
+    {
+      "type": "ORG",
+      "text": "DILUTED",
+      "start": 159717,
+      "end": 159724
+    },
+    {
+      "type": "DATE",
+      "text": "THE YEAR ENDED\n\n",
+      "start": 159770,
+      "end": 159786
+    },
+    {
+      "type": "DATE",
+      "text": "31-03-2025",
+      "start": 159786,
+      "end": 159796
+    },
+    {
+      "type": "DATE",
+      "text": "31-03-2024",
+      "start": 159798,
+      "end": 159808
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 159825,
+      "end": 159830
+    },
+    {
+      "type": "ORG",
+      "text": "DIXIT",
+      "start": 160316,
+      "end": 160321
+    },
+    {
+      "type": "DATE",
+      "text": "06888132",
+      "start": 160347,
+      "end": 160355
+    },
+    {
+      "type": "ORG",
+      "text": "DIRECTOR",
+      "start": 160373,
+      "end": 160381
+    },
+    {
+      "type": "DATE",
+      "text": "08229644",
+      "start": 160394,
+      "end": 160402
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Gupta",
+      "start": 160471,
+      "end": 160480
+    },
+    {
+      "type": "ORG",
+      "text": "Associates",
+      "start": 160485,
+      "end": 160495
+    },
+    {
+      "type": "ORG",
+      "text": "Erstwhile Gupta Agarwal & Associates",
+      "start": 160498,
+      "end": 160534
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Shanker Gupta",
+      "start": 160572,
+      "end": 160589
+    },
+    {
+      "type": "ORG",
+      "text": "NIKS TECHNOLOGY LIMITED",
+      "start": 161669,
+      "end": 161692
+    },
+    {
+      "type": "ORG",
+      "text": "CIN",
+      "start": 161737,
+      "end": 161740
+    },
+    {
+      "type": "DATE",
+      "text": "31-03-2025",
+      "start": 161806,
+      "end": 161816
+    },
+    {
+      "type": "ORG",
+      "text": "Short Term Loans & Advances",
+      "start": 162151,
+      "end": 162178
+    },
+    {
+      "type": "GPE",
+      "text": "Trade Payables\nIncrease",
+      "start": 162250,
+      "end": 162273
+    },
+    {
+      "type": "ORG",
+      "text": "Plant & Equipments\n\nNet Cash",
+      "start": 162488,
+      "end": 162516
+    },
+    {
+      "type": "ORG",
+      "text": "Investing Activities\n\nC.",
+      "start": 162534,
+      "end": 162558
+    },
+    {
+      "type": "ORG",
+      "text": "Equity Share Capital\nProceeds",
+      "start": 162636,
+      "end": 162665
+    },
+    {
+      "type": "ORG",
+      "text": "Share Warrant\nIncrease",
+      "start": 162680,
+      "end": 162702
+    },
+    {
+      "type": "ORG",
+      "text": "Short Term Borrowings\nShare Issue Expensses\n\nNet Cash Flow",
+      "start": 162719,
+      "end": 162777
+    },
+    {
+      "type": "ORG",
+      "text": "Financing Activities\nNet Increase",
+      "start": 162783,
+      "end": 162816
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 162972,
+      "end": 162977
+    },
+    {
+      "type": "DATE",
+      "text": "31-03-2024",
+      "start": 163059,
+      "end": 163069
+    },
+    {
+      "type": "ORG",
+      "text": "the Insitute of Chartered\nAccountants",
+      "start": 163537,
+      "end": 163574
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 163578,
+      "end": 163583
+    },
+    {
+      "type": "DATE",
+      "text": "the previous year",
+      "start": 163648,
+      "end": 163665
+    },
+    {
+      "type": "PERSON",
+      "text": "DIRECTORS",
+      "start": 163752,
+      "end": 163761
+    },
+    {
+      "type": "ORG",
+      "text": "DIXIT",
+      "start": 163794,
+      "end": 163799
+    },
+    {
+      "type": "DATE",
+      "text": "06888132",
+      "start": 163823,
+      "end": 163831
+    },
+    {
+      "type": "ORG",
+      "text": "DIRECTOR",
+      "start": 163849,
+      "end": 163857
+    },
+    {
+      "type": "DATE",
+      "text": "08229644",
+      "start": 163870,
+      "end": 163878
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Gupta",
+      "start": 163947,
+      "end": 163956
+    },
+    {
+      "type": "ORG",
+      "text": "Associates",
+      "start": 163961,
+      "end": 163971
+    },
+    {
+      "type": "ORG",
+      "text": "Erstwhile Gupta Agarwal & Associates",
+      "start": 163973,
+      "end": 164009
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Shanker Gupta",
+      "start": 164047,
+      "end": 164064
+    },
+    {
+      "type": "ORG",
+      "text": "NIKS TECHNOLOGY LIMITED",
+      "start": 165674,
+      "end": 165697
+    },
+    {
+      "type": "ORG",
+      "text": "CIN",
+      "start": 165743,
+      "end": 165746
+    },
+    {
+      "type": "PERSON",
+      "text": "L80904BR2014PLC022439",
+      "start": 165748,
+      "end": 165769
+    },
+    {
+      "type": "DATE",
+      "text": "MARCH 2025",
+      "start": 165889,
+      "end": 165899
+    },
+    {
+      "type": "ORG",
+      "text": "Limited",
+      "start": 165966,
+      "end": 165973
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 165995,
+      "end": 166000
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 166062,
+      "end": 166066
+    },
+    {
+      "type": "ORG",
+      "text": "Drone",
+      "start": 166174,
+      "end": 166179
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 166343,
+      "end": 166350
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 166433,
+      "end": 166438
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 166543,
+      "end": 166547
+    },
+    {
+      "type": "DATE",
+      "text": "2014",
+      "start": 166601,
+      "end": 166605
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 166656,
+      "end": 166660
+    },
+    {
+      "type": "DATE",
+      "text": "the previous year",
+      "start": 166890,
+      "end": 166907
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 167097,
+      "end": 167101
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 167253,
+      "end": 167260
+    },
+    {
+      "type": "DATE",
+      "text": "12 months",
+      "start": 167296,
+      "end": 167305
+    },
+    {
+      "type": "DATE",
+      "text": "three months",
+      "start": 168174,
+      "end": 168186
+    },
+    {
+      "type": "DATE",
+      "text": "1961",
+      "start": 168389,
+      "end": 168393
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 168405,
+      "end": 168410
+    },
+    {
+      "type": "DATE",
+      "text": "the\ncurrent year",
+      "start": 168756,
+      "end": 168772
+    },
+    {
+      "type": "DATE",
+      "text": "the earlier years",
+      "start": 168812,
+      "end": 168829
+    },
+    {
+      "type": "ORG",
+      "text": "CIN",
+      "start": 170864,
+      "end": 170867
+    },
+    {
+      "type": "DATE",
+      "text": "MARCH 2025",
+      "start": 170994,
+      "end": 171004
+    },
+    {
+      "type": "ORG",
+      "text": "Plant and Equipment",
+      "start": 171016,
+      "end": 171035
+    },
+    {
+      "type": "ORG",
+      "text": "PPE",
+      "start": 171084,
+      "end": 171087
+    },
+    {
+      "type": "DATE",
+      "text": "each financial year end",
+      "start": 172195,
+      "end": 172218
+    },
+    {
+      "type": "PERSON",
+      "text": "Written Down",
+      "start": 172343,
+      "end": 172355
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 172455,
+      "end": 172459
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 172748,
+      "end": 172756
+    },
+    {
+      "type": "ORG",
+      "text": "Loans & Advances",
+      "start": 172828,
+      "end": 172844
+    },
+    {
+      "type": "ORG",
+      "text": "Board",
+      "start": 172870,
+      "end": 172875
+    },
+    {
+      "type": "ORG",
+      "text": "Recognition of Income & Expenditure\nIncome",
+      "start": 173104,
+      "end": 173146
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 173313,
+      "end": 173320
+    },
+    {
+      "type": "ORG",
+      "text": "Diluted",
+      "start": 173697,
+      "end": 173704
+    },
+    {
+      "type": "ORG",
+      "text": "the Accounting Standard - 20",
+      "start": 173750,
+      "end": 173778
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 173839,
+      "end": 173846
+    },
+    {
+      "type": "DATE",
+      "text": "a later date",
+      "start": 174408,
+      "end": 174420
+    },
+    {
+      "type": "ORG",
+      "text": "CIN",
+      "start": 175035,
+      "end": 175038
+    },
+    {
+      "type": "DATE",
+      "text": "MARCH 2025",
+      "start": 175165,
+      "end": 175175
+    },
+    {
+      "type": "ORG",
+      "text": "ICAI",
+      "start": 175325,
+      "end": 175329
+    },
+    {
+      "type": "ORG",
+      "text": "Business Segment",
+      "start": 175367,
+      "end": 175383
+    },
+    {
+      "type": "PERSON",
+      "text": "Advertising",
+      "start": 175445,
+      "end": 175456
+    },
+    {
+      "type": "ORG",
+      "text": "Digital Marketing",
+      "start": 175491,
+      "end": 175508
+    },
+    {
+      "type": "ORG",
+      "text": "Gifting Solutions, Event Management",
+      "start": 175541,
+      "end": 175576
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 175661,
+      "end": 175668
+    },
+    {
+      "type": "ORG",
+      "text": "Business Segment",
+      "start": 175678,
+      "end": 175694
+    },
+    {
+      "type": "GPE",
+      "text": "India",
+      "start": 175775,
+      "end": 175780
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 175912,
+      "end": 175919
+    },
+    {
+      "type": "ORG",
+      "text": "DIXIT",
+      "start": 176029,
+      "end": 176034
+    },
+    {
+      "type": "DATE",
+      "text": "06888132",
+      "start": 176062,
+      "end": 176070
+    },
+    {
+      "type": "ORG",
+      "text": "DIRECTOR",
+      "start": 176089,
+      "end": 176097
+    },
+    {
+      "type": "DATE",
+      "text": "08229644",
+      "start": 176111,
+      "end": 176119
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Gupta",
+      "start": 176190,
+      "end": 176199
+    },
+    {
+      "type": "ORG",
+      "text": "Associates",
+      "start": 176204,
+      "end": 176214
+    },
+    {
+      "type": "ORG",
+      "text": "Erstwhile Gupta Agarwal & Associates",
+      "start": 176217,
+      "end": 176253
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Shanker Gupta",
+      "start": 176293,
+      "end": 176310
+    },
+    {
+      "type": "DATE",
+      "text": "059535",
+      "start": 176338,
+      "end": 176344
+    },
+    {
+      "type": "ORG",
+      "text": "CIN",
+      "start": 176477,
+      "end": 176480
+    },
+    {
+      "type": "PERSON",
+      "text": "L80904BR2014PLC022439\nSEGMENT REPORTING",
+      "start": 176482,
+      "end": 176521
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 176570,
+      "end": 176575
+    },
+    {
+      "type": "DATE",
+      "text": "Year",
+      "start": 176603,
+      "end": 176607
+    },
+    {
+      "type": "DATE",
+      "text": "31.03.2024 \n\n Year",
+      "start": 176631,
+      "end": 176649
+    },
+    {
+      "type": "PERSON",
+      "text": "DIRECTORS",
+      "start": 177687,
+      "end": 177696
+    },
+    {
+      "type": "ORG",
+      "text": "DIXIT",
+      "start": 177729,
+      "end": 177734
+    },
+    {
+      "type": "DATE",
+      "text": "06888132",
+      "start": 177760,
+      "end": 177768
+    },
+    {
+      "type": "ORG",
+      "text": "DIRECTOR",
+      "start": 177786,
+      "end": 177794
+    },
+    {
+      "type": "DATE",
+      "text": "08229644",
+      "start": 177807,
+      "end": 177815
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Gupta",
+      "start": 177884,
+      "end": 177893
+    },
+    {
+      "type": "ORG",
+      "text": "Associates",
+      "start": 177898,
+      "end": 177908
+    },
+    {
+      "type": "ORG",
+      "text": "Erstwhile Gupta Agarwal & Associates",
+      "start": 177910,
+      "end": 177946
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Shanker Gupta",
+      "start": 177984,
+      "end": 178001
+    },
+    {
+      "type": "DATE",
+      "text": "059535",
+      "start": 178029,
+      "end": 178035
+    },
+    {
+      "type": "PERSON",
+      "text": "MARCH",
+      "start": 179654,
+      "end": 179659
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 179661,
+      "end": 179665
+    },
+    {
+      "type": "ORG",
+      "text": "Equity Shares of Rs.10/-",
+      "start": 179736,
+      "end": 179760
+    },
+    {
+      "type": "ORG",
+      "text": "Equity Shares of Rs.10/-",
+      "start": 179781,
+      "end": 179805
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 179948,
+      "end": 179953
+    },
+    {
+      "type": "DATE",
+      "text": "the beginning of the year",
+      "start": 180209,
+      "end": 180234
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 180257,
+      "end": 180265
+    },
+    {
+      "type": "ORG",
+      "text": "Preferantial Allotment\n\nShares",
+      "start": 180274,
+      "end": 180304
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 180319,
+      "end": 180327
+    },
+    {
+      "type": "ORG",
+      "text": "Warrant\n\nShares",
+      "start": 180347,
+      "end": 180362
+    },
+    {
+      "type": "DATE",
+      "text": "the end of the year\n\nD. Notes:\na. Terms/ Rights Attached To Equity Shares",
+      "start": 180378,
+      "end": 180451
+    },
+    {
+      "type": "PERSON",
+      "text": "MARCH",
+      "start": 180459,
+      "end": 180464
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 180466,
+      "end": 180470
+    },
+    {
+      "type": "PERSON",
+      "text": "MARCH",
+      "start": 180477,
+      "end": 180482
+    },
+    {
+      "type": "DATE",
+      "text": "2024",
+      "start": 180484,
+      "end": 180488
+    },
+    {
+      "type": "ORG",
+      "text": "Lacs",
+      "start": 180520,
+      "end": 180524
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 180921,
+      "end": 180928
+    },
+    {
+      "type": "ORG",
+      "text": "Fully Convertible Share Warrants of Rs",
+      "start": 181107,
+      "end": 181145
+    },
+    {
+      "type": "PERSON",
+      "text": "Value- Rs",
+      "start": 181164,
+      "end": 181173
+    },
+    {
+      "type": "ORG",
+      "text": "Board of Directors",
+      "start": 181228,
+      "end": 181246
+    },
+    {
+      "type": "DATE",
+      "text": "23rd October, 2023",
+      "start": 181253,
+      "end": 181271
+    },
+    {
+      "type": "DATE",
+      "text": "the expiry of 18 months",
+      "start": 181315,
+      "end": 181338
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 181380,
+      "end": 181388
+    },
+    {
+      "type": "ORG",
+      "text": "Rs.75.00",
+      "start": 181410,
+      "end": 181418
+    },
+    {
+      "type": "ORG",
+      "text": "Fully Convertible Share \nWarrants",
+      "start": 181835,
+      "end": 181868
+    },
+    {
+      "type": "DATE",
+      "text": "January 17, 2024",
+      "start": 181872,
+      "end": 181888
+    },
+    {
+      "type": "PERSON",
+      "text": "Shareholder\u2019s Resolution",
+      "start": 182039,
+      "end": 182063
+    },
+    {
+      "type": "DATE",
+      "text": "October 23, 2023",
+      "start": 182074,
+      "end": 182090
+    },
+    {
+      "type": "DATE",
+      "text": "November 23, 2023",
+      "start": 182107,
+      "end": 182124
+    },
+    {
+      "type": "ORG",
+      "text": "Equity Shares of Face Value",
+      "start": 182158,
+      "end": 182185
+    },
+    {
+      "type": "ORG",
+      "text": "Fully Convertible Equity \nWarrants",
+      "start": 182236,
+      "end": 182270
+    },
+    {
+      "type": "ORG",
+      "text": "Fully Convertible Equity Warrants",
+      "start": 182287,
+      "end": 182320
+    },
+    {
+      "type": "DATE",
+      "text": "19th July",
+      "start": 182388,
+      "end": 182397
+    },
+    {
+      "type": "DATE",
+      "text": "2024",
+      "start": 182400,
+      "end": 182404
+    },
+    {
+      "type": "ORG",
+      "text": "Equity Shares of Face Value",
+      "start": 182438,
+      "end": 182465
+    },
+    {
+      "type": "ORG",
+      "text": "Fully Convertible Equity \n\nWarrants",
+      "start": 182516,
+      "end": 182551
+    },
+    {
+      "type": "ORG",
+      "text": "Fully Convertible Equity Warrants",
+      "start": 182568,
+      "end": 182601
+    },
+    {
+      "type": "DATE",
+      "text": "10th March",
+      "start": 182669,
+      "end": 182679
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 182703,
+      "end": 182707
+    },
+    {
+      "type": "ORG",
+      "text": "DIXIT",
+      "start": 182786,
+      "end": 182791
+    },
+    {
+      "type": "ORG",
+      "text": "DIXIT",
+      "start": 182858,
+      "end": 182863
+    },
+    {
+      "type": "GPE",
+      "text": "SHARMA",
+      "start": 182871,
+      "end": 182877
+    },
+    {
+      "type": "PERSON",
+      "text": "MARCH",
+      "start": 182892,
+      "end": 182897
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 182899,
+      "end": 182903
+    },
+    {
+      "type": "PERSON",
+      "text": "MARCH",
+      "start": 182912,
+      "end": 182917
+    },
+    {
+      "type": "DATE",
+      "text": "2024",
+      "start": 182919,
+      "end": 182923
+    },
+    {
+      "type": "DATE",
+      "text": "the \nyear\n\n1,92,750",
+      "start": 183013,
+      "end": 183032
+    },
+    {
+      "type": "ORG",
+      "text": "the Company\n\nNAME",
+      "start": 183331,
+      "end": 183348
+    },
+    {
+      "type": "ORG",
+      "text": "EQUITY",
+      "start": 183369,
+      "end": 183375
+    },
+    {
+      "type": "ORG",
+      "text": "DIXIT",
+      "start": 183422,
+      "end": 183427
+    },
+    {
+      "type": "PERSON",
+      "text": "MARCH",
+      "start": 183455,
+      "end": 183460
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 183462,
+      "end": 183466
+    },
+    {
+      "type": "PERSON",
+      "text": "MARCH",
+      "start": 183473,
+      "end": 183478
+    },
+    {
+      "type": "DATE",
+      "text": "2024",
+      "start": 183480,
+      "end": 183484
+    },
+    {
+      "type": "DATE",
+      "text": "the \nyear",
+      "start": 183634,
+      "end": 183643
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 183687,
+      "end": 183694
+    },
+    {
+      "type": "ORG",
+      "text": "Register of Members",
+      "start": 183710,
+      "end": 183729
+    },
+    {
+      "type": "PERSON",
+      "text": "MARCH",
+      "start": 184592,
+      "end": 184597
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 184599,
+      "end": 184603
+    },
+    {
+      "type": "ORG",
+      "text": "THE BEGINNING OF THE ACCOUNTING PERIOD",
+      "start": 184685,
+      "end": 184723
+    },
+    {
+      "type": "ORG",
+      "text": "THE BEGINNING OF THE ACCOUNTING PERIOD",
+      "start": 184806,
+      "end": 184844
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 185201,
+      "end": 185206
+    },
+    {
+      "type": "ORG",
+      "text": "Trade",
+      "start": 185487,
+      "end": 185492
+    },
+    {
+      "type": "DATE",
+      "text": "31.03.2024",
+      "start": 185540,
+      "end": 185550
+    },
+    {
+      "type": "DATE",
+      "text": "1 year",
+      "start": 185553,
+      "end": 185559
+    },
+    {
+      "type": "DATE",
+      "text": "2-3 years",
+      "start": 185572,
+      "end": 185581
+    },
+    {
+      "type": "DATE",
+      "text": "3 years",
+      "start": 185586,
+      "end": 185593
+    },
+    {
+      "type": "ORG",
+      "text": "Company",
+      "start": 185799,
+      "end": 185806
+    },
+    {
+      "type": "ORG",
+      "text": "Micro",
+      "start": 185848,
+      "end": 185853
+    },
+    {
+      "type": "ORG",
+      "text": "PLANT & EQUIPMENT",
+      "start": 186129,
+      "end": 186146
+    },
+    {
+      "type": "ORG",
+      "text": "PLANT & EQUIPMENT",
+      "start": 186180,
+      "end": 186197
+    },
+    {
+      "type": "ORG",
+      "text": "CWIP",
+      "start": 186218,
+      "end": 186222
+    },
+    {
+      "type": "PERSON",
+      "text": "MARCH",
+      "start": 187437,
+      "end": 187442
+    },
+    {
+      "type": "DATE",
+      "text": "2024",
+      "start": 187444,
+      "end": 187448
+    },
+    {
+      "type": "ORG",
+      "text": "PLANT & EQUIPMENT",
+      "start": 187472,
+      "end": 187489
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 187548,
+      "end": 187552
+    },
+    {
+      "type": "ORG",
+      "text": "DEPRECIATION",
+      "start": 187953,
+      "end": 187965
+    },
+    {
+      "type": "ORG",
+      "text": "NET",
+      "start": 187971,
+      "end": 187974
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 188325,
+      "end": 188330
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 188866,
+      "end": 188871
+    },
+    {
+      "type": "DATE",
+      "text": "31.03.2024",
+      "start": 189168,
+      "end": 189178
+    },
+    {
+      "type": "DATE",
+      "text": "31.03.2024",
+      "start": 189205,
+      "end": 189215
+    },
+    {
+      "type": "PERSON",
+      "text": "MARCH",
+      "start": 194993,
+      "end": 194998
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 195000,
+      "end": 195004
+    },
+    {
+      "type": "ORG",
+      "text": "NET",
+      "start": 195057,
+      "end": 195060
+    },
+    {
+      "type": "ORG",
+      "text": "ON 31/03/2024 & \n",
+      "start": 195299,
+      "end": 195316
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 195374,
+      "end": 195379
+    },
+    {
+      "type": "DATE",
+      "text": "6 Months\n\n6 Months",
+      "start": 195563,
+      "end": 195581
+    },
+    {
+      "type": "DATE",
+      "text": "2-3 Years",
+      "start": 195605,
+      "end": 195614
+    },
+    {
+      "type": "DATE",
+      "text": "less than 3 months",
+      "start": 196113,
+      "end": 196131
+    },
+    {
+      "type": "ORG",
+      "text": "BSE",
+      "start": 196253,
+      "end": 196256
+    },
+    {
+      "type": "DATE",
+      "text": "MARCH 2025\n\nAmount (Rs.",
+      "start": 197633,
+      "end": 197656
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 197660,
+      "end": 197665
+    },
+    {
+      "type": "DATE",
+      "text": "THE YEAR ENDED\n\n",
+      "start": 197717,
+      "end": 197733
+    },
+    {
+      "type": "DATE",
+      "text": "31-03-2025",
+      "start": 197733,
+      "end": 197743
+    },
+    {
+      "type": "DATE",
+      "text": "31-03-2024",
+      "start": 197745,
+      "end": 197755
+    },
+    {
+      "type": "ORG",
+      "text": "OPERATIONS",
+      "start": 197902,
+      "end": 197912
+    },
+    {
+      "type": "ORG",
+      "text": "TDS",
+      "start": 198185,
+      "end": 198188
+    },
+    {
+      "type": "ORG",
+      "text": "THE BEGINNING OF THE ACCOUNTING",
+      "start": 198410,
+      "end": 198441
+    },
+    {
+      "type": "ORG",
+      "text": "SALARY & WAGES\nOTHER EXPENSES\n STAFF WELFARE EXPENSES\n\nFINANCIAL",
+      "start": 198534,
+      "end": 198598
+    },
+    {
+      "type": "ORG",
+      "text": "PLANT & EQUIPMENT",
+      "start": 198710,
+      "end": 198727
+    },
+    {
+      "type": "DATE",
+      "text": "MARCH 2025\n\nAmount (Rs.",
+      "start": 200685,
+      "end": 200708
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 200712,
+      "end": 200717
+    },
+    {
+      "type": "DATE",
+      "text": "THE YEAR ENDED\n\n",
+      "start": 200769,
+      "end": 200785
+    },
+    {
+      "type": "DATE",
+      "text": "31-03-2025",
+      "start": 200785,
+      "end": 200795
+    },
+    {
+      "type": "DATE",
+      "text": "31-03-2024",
+      "start": 200797,
+      "end": 200807
+    },
+    {
+      "type": "GPE",
+      "text": "ROC",
+      "start": 201019,
+      "end": 201022
+    },
+    {
+      "type": "ORG",
+      "text": "REGISTER & TRANSFER",
+      "start": 201104,
+      "end": 201123
+    },
+    {
+      "type": "ORG",
+      "text": "SOFTWARE & AMC CHARGES\nPENALTY\nPRINTING & STATIONERY \nPOSTAGE & TELEGRAM",
+      "start": 201129,
+      "end": 201201
+    },
+    {
+      "type": "ORG",
+      "text": "REPAIRS & MAINTENANCE\nOFFICE EXPENCES\nTELEPHONE CHARGES\nTRAVELLING & CONVEYANCE\nINTERNET",
+      "start": 201225,
+      "end": 201313
+    },
+    {
+      "type": "ORG",
+      "text": "TDS",
+      "start": 201335,
+      "end": 201338
+    },
+    {
+      "type": "ORG",
+      "text": "LRR",
+      "start": 201445,
+      "end": 201448
+    },
+    {
+      "type": "ORG",
+      "text": "EQUITY",
+      "start": 201630,
+      "end": 201636
+    },
+    {
+      "type": "ORG",
+      "text": "EQUITY",
+      "start": 201695,
+      "end": 201701
+    },
+    {
+      "type": "ORG",
+      "text": "DILUTED EARNINGS PER SHARE",
+      "start": 201763,
+      "end": 201789
+    },
+    {
+      "type": "ORG",
+      "text": "CIN",
+      "start": 204146,
+      "end": 204149
+    },
+    {
+      "type": "ORG",
+      "text": "Variance \n\nAmount",
+      "start": 204333,
+      "end": 204350
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 204359,
+      "end": 204364
+    },
+    {
+      "type": "ORG",
+      "text": "Debt Service                                                                                         \n\n",
+      "start": 205086,
+      "end": 205189
+    },
+    {
+      "type": "ORG",
+      "text": "Taxes",
+      "start": 205290,
+      "end": 205295
+    },
+    {
+      "type": "ORG",
+      "text": "Shareholder's Equity                                                                          \n\nReturn",
+      "start": 205369,
+      "end": 205471
+    },
+    {
+      "type": "ORG",
+      "text": "Average Trade Payables                                                                   \n\nTrade Payables Turnover Ratio",
+      "start": 206123,
+      "end": 206243
+    },
+    {
+      "type": "ORG",
+      "text": "Current Liabilities",
+      "start": 206478,
+      "end": 206497
+    },
+    {
+      "type": "ORG",
+      "text": "Working Capital",
+      "start": 206565,
+      "end": 206580
+    },
+    {
+      "type": "ORG",
+      "text": "Net Working Capital Turnover Ratio",
+      "start": 206643,
+      "end": 206677
+    },
+    {
+      "type": "ORG",
+      "text": "Earning Before Interest",
+      "start": 207020,
+      "end": 207043
+    },
+    {
+      "type": "ORG",
+      "text": "Taxes",
+      "start": 207048,
+      "end": 207053
+    },
+    {
+      "type": "PERSON",
+      "text": "Capital Employed",
+      "start": 207102,
+      "end": 207118
+    },
+    {
+      "type": "ORG",
+      "text": "Capital Employed",
+      "start": 207204,
+      "end": 207220
+    },
+    {
+      "type": "DATE",
+      "text": "the beginning of the year\n\nReturn on Investment",
+      "start": 207373,
+      "end": 207420
+    },
+    {
+      "type": "ORG",
+      "text": "CIN",
+      "start": 209860,
+      "end": 209863
+    },
+    {
+      "type": "PERSON",
+      "text": "Ratio",
+      "start": 209958,
+      "end": 209963
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 209991,
+      "end": 209995
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 209996,
+      "end": 210003
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210019,
+      "end": 210023
+    },
+    {
+      "type": "GPE",
+      "text": "Current Liabilities",
+      "start": 210051,
+      "end": 210070
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210078,
+      "end": 210082
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 210083,
+      "end": 210090
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210140,
+      "end": 210144
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 210145,
+      "end": 210152
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210168,
+      "end": 210172
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210212,
+      "end": 210216
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210283,
+      "end": 210287
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 210288,
+      "end": 210295
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210311,
+      "end": 210315
+    },
+    {
+      "type": "ORG",
+      "text": "Debt Service",
+      "start": 210343,
+      "end": 210355
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210363,
+      "end": 210367
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 210369,
+      "end": 210376
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210429,
+      "end": 210433
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 210434,
+      "end": 210441
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210457,
+      "end": 210461
+    },
+    {
+      "type": "ORG",
+      "text": "Shareholder's Equity",
+      "start": 210489,
+      "end": 210509
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210517,
+      "end": 210521
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 210522,
+      "end": 210529
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210585,
+      "end": 210589
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 210590,
+      "end": 210597
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210613,
+      "end": 210617
+    },
+    {
+      "type": "ORG",
+      "text": "Average Inventory",
+      "start": 210645,
+      "end": 210662
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210670,
+      "end": 210674
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 210675,
+      "end": 210682
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210742,
+      "end": 210746
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 210747,
+      "end": 210754
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210770,
+      "end": 210774
+    },
+    {
+      "type": "ORG",
+      "text": "Net Credit Purchase",
+      "start": 210802,
+      "end": 210821
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210829,
+      "end": 210833
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210906,
+      "end": 210910
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 210911,
+      "end": 210918
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210934,
+      "end": 210938
+    },
+    {
+      "type": "ORG",
+      "text": "Average\n\nWorking Capital",
+      "start": 210966,
+      "end": 210990
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 210998,
+      "end": 211002
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 211057,
+      "end": 211061
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 211062,
+      "end": 211069
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 211085,
+      "end": 211089
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 211134,
+      "end": 211138
+    },
+    {
+      "type": "ORG",
+      "text": "Capital Employed",
+      "start": 211160,
+      "end": 211176
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 211203,
+      "end": 211207
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 211208,
+      "end": 211215
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 211231,
+      "end": 211235
+    },
+    {
+      "type": "ORG",
+      "text": "Capital Employed",
+      "start": 211263,
+      "end": 211279
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 211287,
+      "end": 211291
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 211292,
+      "end": 211299
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 211350,
+      "end": 211354
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 211355,
+      "end": 211362
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 211378,
+      "end": 211382
+    },
+    {
+      "type": "ORG",
+      "text": "Market Value",
+      "start": 211415,
+      "end": 211427
+    },
+    {
+      "type": "DATE",
+      "text": "the end of\nyear",
+      "start": 211431,
+      "end": 211446
+    },
+    {
+      "type": "GPE",
+      "text": "F.Y.",
+      "start": 211454,
+      "end": 211458
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 211459,
+      "end": 211466
+    },
+    {
+      "type": "DATE",
+      "text": "the Year ended on 31/03/2025",
+      "start": 211570,
+      "end": 211598
+    },
+    {
+      "type": "ORG",
+      "text": "Dixit",
+      "start": 211794,
+      "end": 211799
+    },
+    {
+      "type": "PERSON",
+      "text": "Kumar Singh",
+      "start": 211889,
+      "end": 211900
+    },
+    {
+      "type": "PERSON",
+      "text": "Pankaj Kumar",
+      "start": 211912,
+      "end": 211924
+    },
+    {
+      "type": "PERSON",
+      "text": "Ayushi Khaitan",
+      "start": 211936,
+      "end": 211950
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 211987,
+      "end": 211995
+    },
+    {
+      "type": "ORG",
+      "text": "PRABHA AEROSPACE PRIVATE LIMITED\nGroup Company -\n\nNot Applicable",
+      "start": 212049,
+      "end": 212113
+    },
+    {
+      "type": "DATE",
+      "text": "the year\n\niii",
+      "start": 212233,
+      "end": 212246
+    },
+    {
+      "type": "PERSON",
+      "text": "Loan Repaid",
+      "start": 212248,
+      "end": 212259
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 212267,
+      "end": 212275
+    },
+    {
+      "type": "DATE",
+      "text": "the year\n\niii",
+      "start": 212417,
+      "end": 212430
+    },
+    {
+      "type": "PERSON",
+      "text": "Ayushi Khaitan - \n\nRemuneration\n\nRemuneration Payable\n\nMegha",
+      "start": 212526,
+      "end": 212586
+    },
+    {
+      "type": "ORG",
+      "text": "Ved Prabha Aerospace Private Limited -\n\n",
+      "start": 212630,
+      "end": 212670
+    },
+    {
+      "type": "PERSON",
+      "text": "Advance Paid",
+      "start": 212786,
+      "end": 212798
+    },
+    {
+      "type": "PERSON",
+      "text": "Lakhs",
+      "start": 212867,
+      "end": 212872
+    },
+    {
+      "type": "ORG",
+      "text": "KMP",
+      "start": 212899,
+      "end": 212902
+    },
+    {
+      "type": "ORG",
+      "text": "Relatives  & \nShare Holder\n\nAssociate\n\n-\n\n",
+      "start": 212905,
+      "end": 212947
+    },
+    {
+      "type": "DATE",
+      "text": "the Year ended on 31/03/2025",
+      "start": 215523,
+      "end": 215551
+    },
+    {
+      "type": "ORG",
+      "text": "MCA",
+      "start": 215650,
+      "end": 215653
+    },
+    {
+      "type": "PERSON",
+      "text": "Schedule III:",
+      "start": 215674,
+      "end": 215687
+    },
+    {
+      "type": "PERSON",
+      "text": "Benami Property",
+      "start": 215731,
+      "end": 215746
+    },
+    {
+      "type": "DATE",
+      "text": "1988",
+      "start": 215807,
+      "end": 215811
+    },
+    {
+      "type": "ORG",
+      "text": "Registrar of Companies\n d",
+      "start": 215886,
+      "end": 215911
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 216359,
+      "end": 216363
+    },
+    {
+      "type": "ORG",
+      "text": "KMP",
+      "start": 216465,
+      "end": 216468
+    },
+    {
+      "type": "DATE",
+      "text": "the\nyear",
+      "start": 216716,
+      "end": 216724
+    },
+    {
+      "type": "DATE",
+      "text": "1961",
+      "start": 216781,
+      "end": 216785
+    },
+    {
+      "type": "ORG",
+      "text": "Ultimate",
+      "start": 217221,
+      "end": 217229
+    },
+    {
+      "type": "ORG",
+      "text": "Ultimate",
+      "start": 217622,
+      "end": 217630
+    },
+    {
+      "type": "DATE",
+      "text": "2013",
+      "start": 217827,
+      "end": 217831
+    },
+    {
+      "type": "DATE",
+      "text": "1956",
+      "start": 217866,
+      "end": 217870
+    },
+    {
+      "type": "DATE",
+      "text": "the financial year",
+      "start": 217878,
+      "end": 217896
+    },
+    {
+      "type": "DATE",
+      "text": "the year",
+      "start": 217961,
+      "end": 217969
+    },
+    {
+      "type": "ORG",
+      "text": "DIXIT",
+      "start": 218114,
+      "end": 218119
+    },
+    {
+      "type": "DATE",
+      "text": "06888132",
+      "start": 218147,
+      "end": 218155
+    },
+    {
+      "type": "ORG",
+      "text": "DIRECTOR",
+      "start": 218174,
+      "end": 218182
+    },
+    {
+      "type": "DATE",
+      "text": "08229644",
+      "start": 218196,
+      "end": 218204
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Gupta",
+      "start": 218275,
+      "end": 218284
+    },
+    {
+      "type": "ORG",
+      "text": "Associates",
+      "start": 218289,
+      "end": 218299
+    },
+    {
+      "type": "ORG",
+      "text": "Erstwhile Gupta Agarwal & Associates",
+      "start": 218302,
+      "end": 218338
+    },
+    {
+      "type": "PERSON",
+      "text": "Jay Shanker Gupta",
+      "start": 218378,
+      "end": 218395
+    },
+    {
+      "type": "DATE",
+      "text": "059535",
+      "start": 218423,
+      "end": 218429
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 218515,
+      "end": 218522
+    },
+    {
+      "type": "DATE",
+      "text": "2024-25",
+      "start": 222978,
+      "end": 222985
+    }
+  ],
+  "keywords": [],
+  "checksum": "91a5a0d40d1c58621189fb44379df088e8026746eedc7e924d32b39aa4e2590b",
+  "notes": ""
+}

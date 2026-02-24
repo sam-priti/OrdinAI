@@ -1,0 +1,64 @@
+{
+  "doc_id": "Notice 2025-09-19",
+  "file_name": "Notice 2025-09-19.pdf",
+  "source_url": "",
+  "doc_type": "unknown",
+  "publish_date": "2025-09-19",
+  "jurisdiction": "India",
+  "issuer": "",
+  "text_path": "data/text/Notice 2025-09-19.txt",
+  "tables": [],
+  "entities": [
+    {
+      "type": "DATE",
+      "text": "20250919-44",
+      "start": 12,
+      "end": 23
+    },
+    {
+      "type": "ORG",
+      "text": "Notice Date",
+      "start": 27,
+      "end": 38
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 47,
+      "end": 51
+    },
+    {
+      "type": "DATE",
+      "text": "19th\u00a0September",
+      "start": 217,
+      "end": 231
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 234,
+      "end": 238
+    },
+    {
+      "type": "PERSON",
+      "text": "Marian Dsouza",
+      "start": 241,
+      "end": 254
+    },
+    {
+      "type": "DATE",
+      "text": "19th  September",
+      "start": 291,
+      "end": 306
+    },
+    {
+      "type": "DATE",
+      "text": "2025",
+      "start": 309,
+      "end": 313
+    }
+  ],
+  "keywords": [],
+  "checksum": "c2fdeaa059defe28ce19834bc1bf8a0095b4a14df0ac314cdb1951c98ab528de",
+  "notes": ""
+}

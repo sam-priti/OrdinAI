@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.env
+
+# Data (large files - don't commit raw PDFs or indexes)
+data/raw_pdfs/
+data/raw_html/
+data/index/
+data/text/
+
+# Keep canonical and tables (structured outputs)
+!data/canonical/.gitkeep
+!data/tables/.gitkeep
+
+# Mac
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log

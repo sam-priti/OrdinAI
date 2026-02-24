@@ -1,0 +1,12 @@
+requests
+beautifulsoup4
+pdfminer.six
+pytesseract
+pdf2image
+camelot-py[cv]
+spacy
+sentence-transformers
+faiss-cpu
+numpy
+tqdm
+python-dateutil

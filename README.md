@@ -140,12 +140,6 @@ Regulatory documents from Indian financial authorities:
 ```
 Example: `rbi_20210331_know_your_customer`
 
----
-
-## 👥 Authors
-
-- Sampriti Mohanty
-- Himanshu Maurya
 
 ---
 
